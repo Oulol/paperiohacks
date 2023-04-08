@@ -1,11 +1,12 @@
-const a0_0x50f1 = ['#ff0000', 'negative\x20area\x20size', '\x20aggro\x20', 'responseText', 'skin', 'unusedAssets', 'removeParticles', 'sent', 'mouseleave', 'naturalHeight', 'achievementDescription', 'killer', 'filter', 'score', 'networkInfo', '__esModule', 'FPS:\x20', 'pong', 'handleEnemyIntersect', '__E', 'set', '%,\x20white\x20', 'loadServers', 'log', 'front', 'calcProperties', 'vertices', 'userLanguage', 'updateRoomUrl', 'foreignObject', 'mode', '#2a4d69', 'createLinearGradient', 'handleComeback', 'defaultLanguage', 'safety', 'slider-4', 'getNextPosition', 'absorb', 'getItem', 'checker', 'removeBot', 'yourScore', 'useImage', 'attack', 'updateRanks', 'children', 'string', '/leaderboards', 'particles', 'results', 'pvpMode,soloMode,skin,language,name,multiplayer,extrapolation,autopilot,curved,simplified,pixelated,roomName,tab,cluster,best,stars,unlocks', 'strokeStyle', '#4b692f', 'relativeBest', 'json', 'category', 'tps', 'localPlayer', 'colRow', 'check', 'bounds', 'emojiOfTheDay', 'decode', 'tic', 'connectionError', 'extrapolatedFacing', 'toDataURL', 'togglePause', 'realSpeedRatio', '#000', '\x20sf\x20', 'beforeUpdate', 'table', 'replaceState', 'resultBox', 'Replaying:\x20', 'room', 'rows', 'РїСЂРѕС…РѕРґ', 'orange', 'store', 'backLayers', 'round', 'forEach', 'removeChild', 'deadline', 'circular', 'current', 'simplified', 'setState', 'move', '#524b24', 'Game\x20mode\x20', 'gameOverTime', 'spawnPlayer', 'description', 'fill', 'rescale', '[A]utopilot\x20', 'message', 'playerScore', 'firstTic', 'onMouseLeave', 'height', '#f77f00', 'cities', '#ffffff88', 'exitVertice', 'componentWillReceiveProps', 'concat', 'slider-3', 'parse', 'binary', 'Units:\x20', '#8dbdff', 'onWin', 'vendor', 'defaultSoloMode', 'emojiPrice', 'Particles:\x20', 'toAngle', 'WARMUP\x20START', 'unsplice', 'simplyline', 'game', 'shiftKey', 'loop', 'abs', 'skipTo', 'startGame', 'setDirection', 'skinsWhitelist', 'cross', 'language', 'PVP1.12.7-2021-09-09T15:53:36.484Z', 'currentLeaderboard', 'toLowerCase', 'done', 'includes', 'capSquare', '#c68642', 'body', 'simplify', 'KeyL', 'lose', 'replace', 'now', 'chain', 'finish', 'loadLanguages', 'multiply', 'theme', 'buttons', 'getChildContext', 'substr', 'TIME', 'sort', 'unit', 'vscale', 'props', 'leave', '100%', 'getCell', 'respawn', '50%', 'when', 'newRecords', 'context', 'leaderboards', '#81faff', 'displays', 'quality', '_target', 'Mouse\x20at:\x20', 'leaveBase', 'icon', 'ctrlKey', 'playAgain', 'getGameServer', 'noKills', 'shortName', 'think', 'fillStyle', 'location', 'initialTic', 'ctx', '785816bVpfds', 'trackWidth', 'left', 'Numpad1', 'loadModes', 'deathReason', 'lastPingSentTime', 'hasPoint', 'onMouseDownPaper', 'sin', 'debugView', 'playerInTop', '#36363d', 'tics', '\x20вЂ“\x20', '#363331', 'red', 'MAX_VALUE', 'title', '#2d6998', 'reportPingResult', 'averageFrameLength', 'winner', 'partyModeText', 'postResults', 'ticTime', 'zeroTicTimeEstimate', 'onMouseChange', 'group', 'Can\x27t\x20assign\x20skin\x20to\x20bot', 'prefix', 'buffer', 'columns', '__cC', 'green', 'nextSibling', 'modeConfig', 'destination-in', 'render', 'scale', 'notify', 'cells', 'position', 'debounceRendering', 'jitter', 'clearRect', 'Component', 'deathPoint', 'form', 'innerHTML', 'arenaSize', 'getRandomSkin', 'deathTic', 'Version:\x20PVP1.12.7-2021-09-09T15:53:36.484Z', 'kills', 'updateScores', 'reverse', 'KILLS', 'config', 'gameServerPicked', 'back', 'bestPercent', 'pvpMode', 'usedBy', 'defineProperty', '#ff3377', 'WARMUP\x20END', 'frameDuration', 'killById', 'playerScale', 'angle', 'intersections', 'firstMove', 'quadSize', 'removeCapturedArea', '662XVyPse', 'lastLoopTime', 'setLength', 'master', 'font', 'botLevel', 'aliveAt', 'changedTouches', 'duration', 'visible', 'addPlayer', 'Schemes', '#3f474e', 'asset', 'resetTransform', 'removeAttributeNS', 'avatar', '#00000033', 'https://paper-io.com', 'lineWidth', 'childNodes', 'nextSteps', 'level', 'isArray', 'sendRecords', 'connected', 'loadSettings', 'setAttributeNS', 'endSegment', 'colors', 'prerollIsComplete', '647971PPwxdR', 'skinsPath', 'joined', '#6abe30', 'leaveTo', 'gameOverReason', 'Vertices:\x20', 'contextmenu', 'modifiers', 'skinButton\x20', 'invert', 'resultCanvas', 'updateEmojiOfTheDay', 'createPattern', 'randomAssetName', 'fromCodePoint', 'PAPER', 'hideBeforePlayerJoined', 'baseNearestPointTangent', 'custom', '#00000099', 'masterServer', 'pingsSent', 'componentWillUnmount', 'save', 'alert', 'cursor', 'name', 'onTouchMove', 'CAN\x27T\x20FIND\x20', 'Checker', '#843b62', '\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)', 'test', 'getSpawnPosition', 'dailyLoop', 'magnitude', 'achieved', 'sub', 'useAsset', '#8b9dc3', 'soloMode', 'onMouseEnter', '758999EodkUy', 'NC:\x20Average\x20time\x20difference', 'prototype', 'connectionProgress', 'target', 'setLanguage', 'showGameIfReady', 'input', 'buttonMenu', 'touchstart', 'row', 'getDerivedStateFromProps', 'toLocaleString', 'parentNode', 'Too\x20many\x20intersections\x20seed\x20', 'pathname', 'split', 'nav\x20', 'movesSentTime', 'notifications', 'backlog', 'public', 'componentWillUpdate', 'isNear', 'warmup', '__v', '#232327', 'Render\x20time:\x20', 'getDerivedStateFromError', 'lagSimulation', 'DeadMorose\x0aold_demon\x0afox\x0aDeFreeZe\x0aGoSeek\x0aKeyplex\x0aDarkfury\x0aFunnyway\x0aBLACK_PRINCE\x0a[BigBoss]ShadiBoo\x0aDizzer\x0aKARATEL\x0aHowlux\x0aLight_Soul\x0a2fab4u\x0aBoOT\x0aMrKat2017\x0aSkulL\x0aCmeTano4Ka\x0aflash\x0ah1me3ra\x0aHoward\x0ai_Pro\x0ared_devil\x0abest_of_the_best\x0ablow_crazy\x20\x0aface_of_vengeance\x0aGlambit\x20\x0aMASTER_GRIF\x0aMr.ByBlIk\x0an1ce_DayZ\x0aRantom\x0aAbove\x20Daemons\x0acompany_THE_Best\x0aDanie\x0adarklight\x0aDaxmaut\x0adiablo\x0agreat_man\x0akiller_innothing\x0aNix\x0aValett\x0aDarkAngelKael\x0aduelist\x0ai_zadrot\x0aMonster_Energy\x0aMr.Winston\x0aRaindrops\x0aSumerbraum\x0aTermit\x0aTITAN\x0aWOOOlf\x0aAVSTRAL\x0aBadLike\x0aBuri\x0acop_zombie\x0adestroyer_for_us\x0aEKEN\x0aEksnet\x0aFrostorik\x0aghost_of_fear\x0aHotzarzim\x0aj111m\x0aKael\x0aKikET\x0a4CHAN\x0aPIKABU\x0a9GAG\x0aaustralia\x0aaustria\x0aayylmao\x0abait\x0abangladesh\x0abelgium\x0abosnia\x0abotswana\x0abrazil\x0abulgaria\x0acambodia\x0acanada\x0achile\x0achina\x0acia\x0aconfederate\x0acroatia\x0adenmark\x0aea\x0aearth\x0aestonia\x0aeuropeanunion\x0afacepunch\x0afeminism\x0afinland\x0afrance\x0agermanempire\x0agermany\x0agreece\x0ahongkong\x0ahungary\x0aindia\x0aindiana\x0aindonesia\x0airan\x0airaq\x0aireland\x0aitaly\x0ajamaica\x0ajapan\x0akc\x0alatvia\x0alithuania\x0aluxembourg\x0amaldivas\x0amatriarchy\x0amexico\x0amoon\x0anazi\x0anetherlands\x0anigeria\x0anorthkorea\x0anorway\x0aorigin\x0apakistan\x0apatriarchy\x0aperu\x0apewdiepie\x0apiccolo\x0apoland\x0aportugal\x0aprodota\x0aqingdynasty\x0aquebec\x0areddit\x0arussia\x0asanik\x0asatanist\x0asealand\x0asouthkorea\x0aspain\x0astalin\x0asteam\x0asweden\x0aswitzerland\x0ataiwan\x0atexas\x0athailand\x0atsaristrussia\x0atumblr\x0aukraine\x0aunitedkingdom\x0ausa\x0aussr\x0avinesauce\x0ayaranaika\x0atumblr\x0ahongkong\x0aKillerGamer\x0aLimuzin\x0amage\x0aMCGaMeR\x0aMr_Het\x0aNadornsMonsters\x0anero\x0aoutcaster\x0aSteepCat\x0aTUCA\x0aurban_hunter\x0avirtual_lord\x0awertyi\x0aWinstonLight\x0aWoJDoo\x0aArtemad\x0aClydeKautz\x0aBarney\x0aRhodaPing\x0aSharlaPropes\x0aNanciTyner\x0aIlaWorm\x0aSebastianRawlinson\x0aCraigFlury\x0aEstebanBrehm\x0aDeberaVancuren\x0aTabithaOlivieri\x0aTrishaKimball\x0aMilagrosHyler\x0aCinderellaGerson\x0aFranBaldridge\x0aMelisaBrock\x0aGaynelleSimmonds\x0aEttaMirabella\x0aLaveraLabrecque\x0aBudNormand\x0aEliasSherwood\x0aJackpot\x0aSensation\x0aChuck\x0aSoots\x0aTheSaint\x0aICEman\x0aMiracleSnoopy\x0aBahartet\x0aBiotary\x0aHammer85\x0aBizcarit\x0aBlackenta\x0aBurkelstrin\x0aBurntSeen\x0aChariana\x0agoldfinger\x0aConfidentHelp\x0aCopiconc\x0aDemocoman\x0aGaartely\x0aGenantro\x0aGlitzMcGenius\x0aJuliatu\x0aKalstaxi\x0aKeymatr\x0aKredicon\x0aLuvGurly\x0aMasteranca\x0aMediaBolt\x0aMeemuset\x0aMonsterInformer\x0aOccuiffu\x0aOnnitall\x0aRodeonevedo\x0aSandBlondeFully\x0aShipnease\x0aSlypectle\x0aSpinfonexu\x0aAdocarli\x0aAnglosi\x0aSimba\x0aAuetonbr\x0aBanshfeli\x0aQWERT\x0aBezequaci\x0aBizarrebobw\x0aBizarrewo\x0aBlenetra\x0aBootXboxStein\x0aBradleyFinest\x0aCeticRaven\x0aChunkyKlug\x0aDailiesHigh\x0aDravencybe\x0aFarerSaiyan\x0aGabring\x0aHalcytech\x0aHeminepe\x0aHeraldhama\x0aImagene\x0aLolandexte\x0aLucebayn\x0aMatroner\x0aMediumbben\x0aMofficanki\x0aNateinvelo\x0aTIMBERLAKE\x0aNessDiddy\x0aPlatinumTrippin\x0atheviking\x0aPlusedge\x0aRaetstalyda\x0aJustinStromberg\x0aRebecaSenn\x0aRoxy\x0aNeil\x0aMaria\x0aWarren\x0aGrace\x0aWilliam\x0aJane\x0aVanessa\x0aLisa\x0aStephanie\x0aDidi\x0aBoris\x0aRuth\x0aLeonard\x0aJack\x0aCaroline\x0aSebastian\x0aConnor\x0aIan\x0aTOMAS\x0aSue\x0aFOX\x0aDylan\x0aLisa\x0aGrace\x0aJabbaDabba\x0aJennifer\x0aBenjamin\x0aPiPPa\x0aSteven\x0aJoe\x0aKNine\x0aKevin\x0aCaroline\x0aMcFlurry\x0aKatherine\x0aLeah\x0aIrene\x0aOwen\x0aUna\x0aGabrielleSlater\x0aAmyFisher\x0aAngelaGrant\x0aAlisonOgden\x0aDeadshot\x0aNitro\x0aTrevorBlack\x0aKatherinePullman\x0aOliverMacDonald\x0aAvaVaughan\x0aJenniferWhite\x0aWarrenPeters\x0aLeahCameron\x0aAlisonBerry\x0aKeithBuckland\x0aJulianMackay\x0aNatalieSanderson\x0aviZion\x0aJoshuaPeake\x0aKeithDowd\x0aHotdog\x0aJamesLambert\x0aJanBond\x0aColinMarshall\x0aJasonRees\x0aFRED\x0aJaneHughes\x0aLeonardOliver\x0aHarryAnderson\x0aGraceSmith\x0aDeirdreJones\x0aAudreySpringer\x0aEllaGray\x0aDominicHamilton\x0aKeithBlake\x0aRuthJackson\x0aMollyHudson\x0aSophieBerry\x0aCarolineLyman\x0aEmmaHudson\x0aJoeLyman\x0aOliviaPiper\x0aChristopherAllan\x0aMariaKing\x0aPippaSlater\x0aSarahJohnston\x0aRyanWhite\x0aJackHill\x0aWilliamMackay\x0aBenjaminAlsop\x0aAmandaRoberts\x0aThomasParsons\x0aLiamMcGrath\x0aJanHenderson\x0aSoniaChapman\x0aWilliam\x0aLily\x0aPeter\x0aKeith\x0aIsaac\x0aLeah\x0aMadeleine\x0aKaren\x0aFrank\x0aAlan\x0aMichael\x0aRachel\x0aDominic\x0aPaul\x0aNicola\x0aEmily\x0aTim\x0abigBEN\x0aCohen\x0aGood\x0aFrancis\x0aOdom\x0aGreen\x0aCain\x0aTrevino\x0aLucero\x0aAshley\x0aigloo\x0aduffer\x0aloaded\x0asickness\x0agreeting\x0alonely\x0abafflement\x0atrusty\x0aalteration\x0aevil\x0asolva\x0apenumbra\x0adauphine\x0aalluring\x0alilly\x0astinchar\x0acubic\x0ablackbrook\x0arebuff\x0ainclined\x0alyon\x0asquash\x0aunique\x0alyne\x0achewy\x0amasticate\x0amagnet\x0aknit\x0aindolent\x0asevere\x0afestus\x0atrain\x0aincisionKim\x0aBean\x0aAguilar\x0aErnesto\x0aCurtis\x0aCortez\x0aTyshawn\x0aBrady\x0aBeckett\x0aXavier\x0aCason\x0aBryson\x0aSheldon\x0aPierce\x0aDeshawn\x0aAndy\x0aAaron\x0aArmando\x0aKarson\x0aK9\x0aNadia\x0aJovan\x0aErin\x0aTerry\x0aGrayson\x0aCelia\x0aAlexzander\x0aCannon\x0aJoey\x0aStella\x0aGracie\x0aKFCLOVER\x0aChico\x0aPrince\x0aMocha\x0aScooter\x0aChester\x0aCoco\x0aDusty\x0aZoe\x0aSocks\x0ajefferson\x0aignore\x0aalladale\x0avirtue\x0aprovided\x0acohesive\x0abullfinche\x0acomet\x0adip\x0azipper\x0apostulate\x0alick\x0abashful\x0apascals\x0arudy\x0agloaming\x0acashew\x0amixcloud\x0atraumatic\x0aprostate\x0apeas\x0amelon\x0abulbous\x0agavel\x0anumnah\x0anavel\x0ariver\x0asaskatoon\x0acaused\x0ahardy\x0apare\x0afemale\x0avolunteer\x0aspeck\x0ayears\x0avalid\x0aarmpit\x0abobby\x0abolham\x0agoogle\x0abrennand\x0apastry\x0aweapon\x0acuillin\x0adescent\x0aeasier\x0amore\x0arisedale\x0agoggles\x0acute\x0amagellanic\x0arenal\x0azunyi\x0aEveryPrivate\x0aChipmunkThreat\x0aLeafyForefoot\x0aSebastianExxon\x0aHuckFaisalabad\x0aWheelchairHadar\x0aBulimiaMilk\x0aEiderStallion\x0aMoronicBuckinghamshire\x0aPayBiff\x0aHillsboroughEnvelope\x0aAllianzRhapsody\x0aArseEnteral\x0aBoronRadiant\x0aArchiveUntrue\x0aPlasticSpeech\x0aOfficerWiltshire\x0aBungBuzzard\x0aMoscowStellar\x0aTrialsHearty\x0aModelHorse\x0aBootsGrimacing\x0aShiraMosedale\x0aLeopardClapper\x0aSkatersStars\x0aCaramelizeStraws\x0aAngolanVinomadefied\x0aBatterySiemens\x0aHedgeThompson\x0aLukaIcing\x0aMimosaBrunswick\x0aTinForgetful\x0aHumberHook\x0aSeagullTrump\x0aBookerTouring\x0aSugarWarn\x0aCustardsStructure\x0aRudyBarium\x0aElectrolyteDisfigured\x0aBlighterPhysicist\x0aAntoniadiAtom\x0aPachaRule\x0aMaltyPatches\x0aHonoluluSwedish\x0aGemGleaming\x0aAssociatedThose\x0aAfterCointreau\x0aEyesPierre\x0aStewartGels\x0aAretePuppy\x0aFullscreenTrophic\x0aMailWillow\x0aScaupFrosty\x0aZaraBipedal\x0aCheapScafell\x0aDevonYolk\x0aSkegCohesive\x0aCricketBashful\x0aCocoaPuck\x0aDecathlonIschemic\x0aOftSnottor\x0aCheepNewlyn\x0aSwimGrill\x0aBaubleSymbolic\x0aAstronomerSpam\x0aVarlotLealt\x0aSensorSquamish\x0aKeyTechnetium\x0aCrummyQuirky\x0aVinePlane\x0aWaterskiBlind\x0aOrdinateCrown\x0aSpotTense\x0aFumeVine\x0aGlasswareCherries\x0aPhenomenonWillied\x0aPappusWazzed\x0aFilterSpace\x0aHypnosisSociable\x0aGaffEnder\x0aTordaHelpless\x0aResearchMat\x0aAmpereHeptagon\x0aEclipseBaldy\x0aLliediDiopside\x0aRockersGatcombe\x0aSabineEssential\x0aPlutoAbsurd\x0aTagTestify\x0aForswearJosie\x0aEquuleusFalter\x0aChewieFluther\x0aWombYakama\x0aHinderHighland\x0aBiteSeptum\x0aRifleGym\x0aJuneauInboard\x0aTroubadourChillingwood\x0aNeogeneLecturer\x0aSullivanStencils\x0aCheesecakePit\x0aClumpUnhelpful\x0aCheckBig\x0aLollyPumpkin\x0aCitrusyCountless\x0aVarunaRemy\x0aDivergentOils\x0aFallingTalisker\x0aBlackwaterNifty\x0aBrinkworthFranklyn\x0aFreddyPostman\x0aClumperPoke\x0aSlopeTokahee\x0aStencilsHume\x0aJijiKey\x0aAdeptStores\x0aUnicodeIgneous\x0aMeatyNut\x0aMaskSpark\x0aForegoingMoist\x0aEthicalConfident\x0aOblongataIsraeli\x0aGreenAle\x0aFibulaJoss\x0aShrugMinge\x0aFlowsWhispers\x0aActiveGlissade\x0aExaltedSpaghetti\x0aMeerkatMatch\x0aCouldHoff\x0aYawnObtuse\x0aCrazyUnknown\x0aPlanemoTyler\x0aCalderaBeans\x0aSoundcloudJapan\x0aSeveralGalled\x0aStarbucksDomain\x0aEdibleGlazier\x0aResourcesCapital\x0aNitrogenBella\x0aFlavorfulProtoplanet\x0aTeachSqueeze\x0aMeiosisSiphon\x0aTelephoneMarl\x0aTrundleRitec\x0aTheodoreShamrock\x0aNoirMelody\x0aVanillaArmenian\x0aHonkExoticism\x0aMandibleSepsis\x0aVenomousSignal\x0aManukaEval\x0aLooksLeaves\x0aFriedInto\x0aBlowTalented\x0aStubbsHeadphones\x0aWigeonNewcastle\x0aLoadHamster\x0aPinkieSaint\x0aEuphoniumRedundant\x0aSabdenRoad\x0aSuccessApache\x0aPateraCitric\x0aBalnagownQuiver\x0aGambianHartford\x0aRidingNostalgic\x0aAmbushFlex\x0aBretonCommon\x0aSpot!Fine\x0aPlaintivePride\x0aDiphthongPraline\x0aShearraInflate\x0aWoldsLennon\x0aSordiniMeathead\x0aSordCegidog\x0aSelfiesWeigh\x0aOrganVile\x0aPinchWeixin\x0aSassyFlag\x0aAlberniDart\x0aBowenImmense\x0aRulerFocus\x0aMaggotMine\x0aRegulateInventions\x0aMeshAlbite\x0aPoxArabella\x0aTikiFredericton\x0aNeedleDiapir\x0aGeneBlurt\x0aBindyFollowed\x0aMongolianTurtle\x0aSenseProfess\x0aFoldingHacking\x0aArsonistClipping\x0aKerryBonnie\x0aMaliciousMilitary\x0aMountainFrivolous\x0aCannonCog\x0aCordFlapping\x0aSnickerIndonesian\x0adome\x0aking\x0aohio\x0astandard\x0afustilarian\x0anative\x0asupply\x0aamherst\x0ainitial\x0atowel\x0apumpion\x0aperfect\x0amouldy\x0aflasks\x0acarina\x0aduchess\x0acrackers\x0aexciting\x0ahole\x0awiggle\x0agreat\x0aben\x0apoop\x0aotis\x0apolite\x0aslapping\x0aotherwise\x0agrilled\x0awes\x0asummary\x0anice\x0abasketball\x0astarbolins\x0ababy\x0abooking\x0arhubarb\x0aperson\x0ashooter\x0abounded\x0anorthamptonshire\x0asyllable\x0agreenish\x0auptight\x0atweed\x0athe\x0areeky\x0alathered\x0aascension\x0aobtain\x0anagging\x0achallenger\x0asecret\x0aworcester\x0alangley\x0apolly\x0aurinal\x0atrusting\x0abeverley\x0afrankie\x0adartmoor\x0amash\x0agillie\x0amethodist\x0agalaxy\x0amozart\x0abarrage\x0aspoticus\x0ascheduled\x0aeel\x0apanel\x0aflapjack\x0achemist\x0aalbert\x0ametacarpus\x0adense\x0ableeding\x0afixation\x0aniggles\x0acamel\x0arosin\x0acommunity\x0aleash\x0adulais\x0aladder\x0alee\x0aindices\x0ayou\x0aeducation\x0adumplings\x0abid\x0aprince\x0aartiste\x0aavocet\x0aburns\x0abarney\x0amanaged\x0aburritos\x0apeduncle\x0apaltry\x0aequator\x0asubmerge\x0aexpected\x0afags\x0aperl\x0aclueless\x0acartier\x0awombled\x0abearded\x0akalman\x0atrees\x0apink\x0aaddie\x0atod\x0ausd', 'updateLevel', 'cover', 'defaultProps', 'clear', 'extrapolated', 'fromFlatArray', 'createTextNode', 'nameChanged', 'componentDidMount', 'Spawn\x20time:\x20', 'connectTimeoutHandle', 'recorder', '#ff8800', 'absorber', 'РўРѕС‡РєР°\x20РІС‹С…РѕРґРёС‚\x20Р·Р°\x20РіСЂР°РЅРёС†С‹\x20РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІР°', 'classic', 'logging', 'dot', 'botsCount', 'connecting', 'owner', 'shadowColor', 'win', 'cos', 'layers', 'yellow', 'uibox', 'fillRect', 'С…Р°РїСѓРіР°', 'initialTicTime', 'orange\x20', '#00000066', 'px\x20\x22Segoe\x20UI\x22', 'cssText', 'assets/images/', 'getScheme', 'enter', 'polygon', '__e', 'lastKnownMove', 'playerPlace', 'touchmove', 'touchcancel', '#c2d6cdaa', 'handlers', 'achievementIconsPath', 'strokeRect', 'get', 'generateParticles', 'bottom', '__html', 'calcBounds', 'over', 'container', 'CONNECTING', 'mark', 'bot.position', 'meta', 'rng', 'fromDirection', '#ffffff', 'roomtop', 'open', 'addCapturedArea', 'acceleration', 'available', 'aviable', 'catch', 'baseDistance', 'stateObject', 'result', 'subscribe', 'fromPoints', 'merges', 'div', 'directions', 'disconnect', 'resultsimg', '#1a936f', 'extrapolatedAt', 'lastMouse', 'record', 'havingVertice', '#ffe066', 'barHeight', 'death', 'some', 'messages', 'lineJoin', 'blur(20px)', 'getRespawnerSpawnRadius', '__r', 'skinButton\x20orange', 'Game\x20time:\x20', 'skinUnlocked', 'deserialize', 'translate', 'noskin.png', '#a7adba', '#0000ffcc', 'enterInto', 'NoPlaceToSpawn', 'idle', 'rotate', 'addVertices', 'currMetric', 'kill', 'no-cache', 'frontLayers', 'nopreroll', 'payload', 'emojisOfTheDay', 'ERROR\x20parsing\x20', 'maxDanger', 'className', 'fullTurnsPerSecond', 'emojis', 'skinAssets', 'absorbedBy', 'socketId', 'speed', 'send', 'averagePing', 'textBaseline', 'update', 'server', 'list', 'apply', 'readInput', 'player', 'local', 'goTo', 'vertice', 'clone', 'inviteLink', 'assets/images/logo.png', 'code', 'brightness(0)', 'noskin', 'encode', 'maxScale', 'killText', 'newBest', 'force', 'leaderboard', 'canvas', 'while\x20(true)\x20{}', 'view', 'keys', 'START\x20PREROLL', 'logo', 'tryToCompleteMove', 'getImageData', '__s', 'assets/skins/select/', 'dispose', '#8874a3', 'skins', 'ready', 'Pointer', 'appendChild', 'pvp', 'InvalidRoomName', 'toEventLog', 'rgba(', 'restartGame', 'indexOf', 'OFF', 'devicePixelRatio', 'РїСЂРёР±Р»РёР¶РµРЅРёРµ', 'РѕС‚РґР°Р»РµРЅРёРµ', 'normalize', 'startPreroll', 'onMouseDown', 'measureText', 'mouse', 'KeyA', 'nameManager', 'ownerSVGElement', 'rec:\x20tic\x20out\x20of\x20order\x20', 'destination-out', '#00000088', 'base', '#00000040', 'Apple', 'buttonAgain', 'multiplayer', 'actions', '#ffff00', 'switchKeyboardMode', '.\x20Moves\x20should\x20be\x20set\x20in\x20order.', 'findSpawnPositionSingleplayer', 'assassin', 'lastCompleteTic', 'moveTo', 'substring', 'lastReceivedTicTime', 'registerAssetsPool', 'window.innerWidth/window.devicePixelRatio', '__c', 'onEvent', '/newpaperio/ajax/results.php', '\x20AS\x20', '#64a1f4', 'notes', 'border', 'prerollComplete', 'initPaper', 'listen', 'globalCompositeOperation', 'chooseYourSkin', 'Quality:\x20', 'lobby', 'dayZero', 'spawn', 'onload', 'Room:\x20', 'window.innerWidth*window.devicePixelRatio', 'renderTime', 'window.devicePixelRatio', 'assign', 'http://www.w3.org/1999/xlink', 'ceil', 'push', 'loadSkins', 'extrapolatedDirection', '#fff', 'achievementDescriptionText', 'slideAlong', 'modes', 'count', 'clientY', 'languages', 'units', 'col', 'registerAsset', 'findSpawnPositionMultiplayer', 'block', 'content', 'getState', 'polyline', 'curved', 'option', 'build', 'end', 'clientHeight', 'yellow\x20leaderboardsButton', 'currentlyPlaying', 'pop', 'baseCount', 'space', 'drawImage', 'getInt32', 'createUnit', 'isTrack', 'secret', 'link', '#ffff00a0', 'equal', 'autopilotDirector', 'stringify', 'start', 'updateLocation', 'search', 'baseNearestPointNormal', 'skinButtonsScale', 'sign', 'qas', 'naturalWidth', 'floor', 'vrange', 'main', 'mouseenter', 'aggro', 'httpServerPicked', 'throw', 'COULD\x20NOT\x20REPLACE\x20SKIN', '__P', 'destination-over', 'pixelated', 'saturate(0%)\x20brightness(0.2)', 'debugSettings', 'emitTo', 'Consumer', 'addLabel', 'keyPressed', 'out', 'shape', 'assets/skins/', 'DISCONNECTED', 'profiler', 'ticsToRun', '#000000', 'newText', 'KeyN', 'director', 'innerWidth', 'Recovering\x20tail,\x20cycle:\x20', 'setMove', 'Track\x20length:\x20', 'spawnBotMaybe', 'serverURL', 'baseRadius', 'vnode', 'debrief', 'skinsHeader', 'players', 'killPlayerByServer', 'event', 'copyAnimation', 'join', 'mousedown', 'transform', 'enterBase', ',0.3)', 'CONNECTION\x20ERROR\x20-\x20TIMEOUT', 'servers', 'flat', 'unitById', 'emit', '#009900cc', 'clip', 'atl', 'segmentCells', 'removeEventListener', 'strokeText', 'Room\x20name\x20set\x20to', 'keydown', 'textAlign', 'addAsset', 'fpsSequence', 'playerId', 'yandex_rtb', 'toDirection', 'dif', 'closeGame', 'userAgent', 'localPlayerId', 'keyup', 'nom', 'Skin\x20', 'image', 'invalidRoomName', ':area:daily', 'earned', 'autopilot', 'clientWidth', 'text', 'connectingBar', 'verticeAt', 'map', 'page', 'pointsUnified', 'options', 'debu', 'nearestPlayer', 'shouldComponentUpdate', 'directionsStr', 'onEarned', 'pickHttpServer', 'leaderboardsLoaded', 'size', 'addUnit', '1krafZB', 'turnLeft', 'CONNECTED\x20TO\x20', 'baseNearestPoint', '__n', '__h', 'Provider', 'KeyK', 'РќРµ\x20СѓРґР°Р»РѕСЃСЊ\x20СѓСЃС‚Р°РЅРѕРІРёС‚СЊ\x20СЂР°Р·РјРµСЂ', 'loadAchievements', 'copy', 'mulv', 'lerp', 'arc', 'renderer', '\x20bots\x20spawned\x20after\x20', 'find', 'documentElement', 'leaderBoardURI', 'none', '#2a9d8f', 'ticEvents', 'absolute', 'averageTimeDifference', '#e7fff4', 'nextMoveToSend', 'connect', 'draw', 'nameWithPrefix', 'KeyE', 'serverName', 'records', 'inside', 'play', 'PaperCanvas', 'paperSkins', 'atan2', 'tStart', 'prefixes', 'off', 'skinManager', 'takeClosestIntersection', 'replaySpeed', 'emoji', 'slider-2', 'lineCap', 'fading', '#d62828', 'black', 'regimeChange', 'exit', 'noPlaceToSpawn', 'min', 'smoothness', 'getTransform', 'getSnapshotBeforeUpdate', 'user', 'unitSpeed', 'maxDirectionChange', 'class', '#fcbf49', 'disposed', 'schemes', 'removeAttribute', 'buttonPlay', 'setTransform', '#ed6a5a', 'startTime', 'componentWillMount', 'movement', 'canCompleteMove', 'setSkin', 'maxAnglePerSecond', 'date', 'gameMode', 'creationTime', 'lastPlay', 'debugConsole', 'replaying', 'contextType', 'findIndex', '\x20to\x20kill', 'vector', 'style', '#65737e', 'getPlayerSkin', 'img', 'closePath', 'componentDidUpdate', 'tan', 'every', 'fromVertices', 'remove', 'progress', 'big', '814692XzYJWk', 'boolean', 'distance', 'achievementGained', 'adjustQuality', 'top', 'addMessage', 'beginPath', 'key', 'translate(-50%,\x20-50%)', 'skinRequirement', 'value', 'extrapolateUnits', 'getChecker', 'enemyKillDelay', 'accumulatedtime', 'number', 'ref', 'Digit1', 'onGameOver', '#99000040', 'intersect', 'cumulative', 'getContext', 'DIRECTION\x20OUT\x20OF\x20RANGE\x20', 'keyboard', 'small', 'fromAngle', 'РќРµ\x20СѓРґР°Р»РѕСЃСЊ\x20СѓСЃС‚Р°РЅРѕРІРёС‚СЊ\x20СЂР°Р·РјРµСЂ\x20', 'reduce', 'document.documentElement.clientWidth', 'stopLoop', 'updateTime', 'restore', 'RECORD\x20JSON\x20PARSE\x20ERROR', '#4b86b4', 'sendMove', 'velocity', 'bind', '379178zoxjaN', 'https://leaderboard.paper-io.com/save', 'slice', 'onOut', 'frame', 'addEventListener', 'metrics', 'limit', 'toUpperCase', 'segments', 'colored', 'removed', 'GAME\x20OVER', 'events', 'controller', 'touchBy', 'skinBuyable', 'adjustForBorderNew', 'Room\x20Top', 'leaderboardPage', 'skins_unlock', 'action', 'noPlayerBotLevel', 'darken', 'createElement', 'statistics', 'updateBounds', 'client', 'roomNotReady', 'setItem', 'attributes', 'verticeNumbers', 'someTicsForward', 'adjustForBorderNewer', 'place', 'minDistance', 'change', 'fps', 'stroke', 'lastFrameTime', 'setProperty', 'error', 'init', '\x20own-record', 'schemesManager', 'pow', 'calc', 'setInt32', 'values', 'bornTime', 'Accum\x20time:\x20', 'showGame', 'saveSettings', 'addKillLabel', 'tail', 'checkCimpleted', 'area', 'setMoves', 'labels', 'pivot', 'pool', 'status', 'Recorder', 'assets', '#88a799', 'CriOS', 'queryString', 'POST', 'scores', 'left_side', 'themes', 'emptyLeaderboard', 'lng', 'sqrt', 'onMouseUp', '#fcb9b2', 'debugGraph', 'assets/', 'delta', 'callbacks', 'calcSimplify', '[E]xtrapolation\x20', '__d', 'resources', 'achievementDescriptionImage', 'frameTime', 'pattern', 'segment', 'moves', 'download', 'backupContainer', '#dddddd', 'paper', 'PvP', 'span', 'dratest', 'averageFrameDivergence', 'backupDisplay', 'browserLanguage', 'forceUpdate', 'environment', 'rotation', 'getTime', 'uri', 'allModes', 'deltaY', 'center', 'solo', 'max', 'state', 'fromEntries', 'httpServer', 'clientInfo', 'element', 'addColorStop', '.json:', '#68b0ab', 'exports', 'got', 'onTouchEnd', 'rank', 'updateInterval', 'application/json', ':\x20spawn\x20player', 'handleSelfIntersect', 'focus', 'onKill', 'connect_error', '#4a7c59', 'pickServers', 'gameServer', '1591xRzFpI', '\x20tic\x20', '\x20not\x20found', 'facing', 'Player\x20Scale:\x20', 'average', 'descriptionIcon', 'lastTic', 'joinError', 'bestResult', 'resize', 'url', 'onKeyDown', 'onGameData', 'onMouseWheel', 'near\x20back', 'addRecord', 'ms\x20ago', 'JOINING', 'signedArea', '1919064TFVJgx', 'Last\x20update:\x20', 'tEnd', 'viewDiv', 'warmupComplete', 'Can\x27t\x20complete\x20move\x20after\x20setMoves', 'overlay', 'adjustForBorder', 'top\x20top', 'best', 'roomName', 'aggroBotOnLongPlayerTail', 'resetCheckers', 'ERROR\x20loading\x20', 'toString', 'gger', 'splice', 'bestScore', 'right', 'width', 'button', 'call', 'source', 'point', 'entries', 'display', 'image/png', 'function\x20*\x5c(\x20*\x5c)', 'Frame\x20time:\x20', '__k', 'message\x20fade1', 'visibleName', '#fe4a49', 'down', '\x20sq\x20', '__b', 'MultiplayerEnvironment', 'СѓР±РёР№С†Р°', 'window.innerWidth', 'buySkin', 'constructor', 'info', 'release', 'onKeyUp', 'px\x20', 'joinAndSpawnEvents', 'addSegment', 'menu', 'linear-gradient(90deg,\x20green\x200%,\x20green\x20', 'replay', 'getSchemes', 'accumulatedTime', 'counter', '#a0a', 'btnMenu', 'time', 'platesStrokeWidth', 'showGameInfo', 'loadingStarted', 'radius', '#88d498', 'slider-1', 'isAdmin', 'plate', '#b23a48', 'paper2_results', 'freezes', 'undefined', '#00000022', 'msPerTic', 'playerKills', 'checked', 'toFixed', 'factors', 'freeze', 'messageContainer', 'serialize', 'color', 'lineTo', 'gameOver', 'function', 'Using\x20game\x20server', 'isLocal', '%,\x20var(--paper)\x20', 'game\x20recovered', 'loadResources', 'ranks', 'nick', 'circle', 'timePlayed', 'getDirections', 'distanceDanger', 'Tic:\x20', 'toggleLeaderboards', 'ping', 'nextMovement', 'length', 'recording', 'source-over', 'resolve', 'currentTic', 'defaultPvpMode', 'distance2', 'shadowBlur', 'playersAliveAt', 'states', 'wheel', 'price', 'selfKillDelay', 'pageY', 'href', 'percent', 'altKey', 'description_', 'commit', 'seed', 'nearPlayerBotSpawnCount', 'clickDescription', 'playSession', 'layer', 'shift', '#8d5524', '\x20d\x20', 'middle', 'entriesWithPlayer', 'capture', 'reason', 'hasSegments', 'ticDuration', '16px\x20', 'accumulator', 'print', 'isLeader', 'startGameOnInit', 'charCodeAt', 'unlocks', 'Numpad3', 'loadLeaderboards', 'achievements', 'comeback', 'tailRecovered', 'alt', 'Ping\x20to\x20', 'smoothingMode', 'socket', 'fillText', 'lastArea', 'dangerouslySetInnerHTML', 'tag', 'all', 'CPUPenalty', 'direction', 'quadraticCurveTo', 'getOwnPropertyDescriptor', '\x27PT\x20Sans\x20Caption\x27,\x20Quicksand,\x20Verdana', 'projection', 'winPercent', 'setAttribute', 'postDebrief', 'serverPicked', 'src', 'paperio2api', 'onMouseMove', 'baseIntersections', 'lastTime', '/socket.io', 'onerror', 'symbol', 'any', 'New\x20skin\x20unlocked!', 'origin', 'footer', 'request', 'aspect', 'unitToTrackDistances', 'createGame', 'greed', 'extrapolation', 'make', 'РґСѓСЂР°С‡РѕРє', '#222222', 'path', 'data', '#990099cc', 'length2', 'points', 'insertBefore', 'sendToLeaderboard', '\x20:\x20', 'bots', 'preventDefault', 'pickGameServer', 'SCORE', 'modeName', '\x27s\x20moves\x20after\x20tic\x20', 'toISOString', 'manager', 'renderContext', 'hasUnused', 'lastReceivedTic', 'next', 'getElementById', 'then', 'Can\x27t\x20force\x20complete\x20move', 'looper', 'minScale', 'botsSpawnImmediately', 'fromVec', 'index', 'playersById', 'isPlayer', 'tab', 'randomPlayer', 'KeyS', 'type', '#3b7dd8', 'def', 'load', 'componentDidCatch', 'REMOVING\x20PARTICLES', 'noteTime', 'completeWarmup', 'random', 'add'];
-const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
-	_0x9a9b42 = _0x9a9b42 - 0x1cb;
-	let _0x782520 = a0_0x50f1[_0x9a9b42];
-	return _0x782520;
+console.log("pvp-obfuscated-1-12-7.js Rewrite loaded!")
+const table1 = ['#ff0000', 'negative\x20area\x20size', '\x20aggro\x20', 'responseText', 'skin', 'unusedAssets', 'removeParticles', 'sent', 'mouseleave', 'naturalHeight', 'achievementDescription', 'killer', 'filter', 'score', 'networkInfo', '__esModule', 'FPS:\x20', 'pong', 'handleEnemyIntersect', '__E', 'set', '%,\x20white\x20', 'loadServers', 'log', 'front', 'calcProperties', 'vertices', 'userLanguage', 'updateRoomUrl', 'foreignObject', 'mode', '#2a4d69', 'createLinearGradient', 'handleComeback', 'defaultLanguage', 'safety', 'slider-4', 'getNextPosition', 'absorb', 'getItem', 'checker', 'removeBot', 'yourScore', 'useImage', 'attack', 'updateRanks', 'children', 'string', '/leaderboards', 'particles', 'results', 'pvpMode,soloMode,skin,language,name,multiplayer,extrapolation,autopilot,curved,simplified,pixelated,roomName,tab,cluster,best,stars,unlocks', 'strokeStyle', '#4b692f', 'relativeBest', 'json', 'category', 'tps', 'localPlayer', 'colRow', 'check', 'bounds', 'emojiOfTheDay', 'decode', 'tic', 'connectionError', 'extrapolatedFacing', 'toDataURL', 'togglePause', 'realSpeedRatio', '#000', '\x20sf\x20', 'beforeUpdate', 'table', 'replaceState', 'resultBox', 'Replaying:\x20', 'room', 'rows', 'РїСЂРѕС…РѕРґ', 'orange', 'store', 'backLayers', 'round', 'forEach', 'removeChild', 'deadline', 'circular', 'current', 'simplified', 'setState', 'move', '#524b24', 'Game\x20mode\x20', 'gameOverTime', 'spawnPlayer', 'description', 'fill', 'rescale', '[A]utopilot\x20', 'message', 'playerScore', 'firstTic', 'onMouseLeave', 'height', '#f77f00', 'cities', '#ffffff88', 'exitVertice', 'componentWillReceiveProps', 'concat', 'slider-3', 'parse', 'binary', 'Units:\x20', '#8dbdff', 'onWin', 'vendor', 'defaultSoloMode', 'emojiPrice', 'Particles:\x20', 'toAngle', 'WARMUP\x20START', 'unsplice', 'simplyline', 'game', 'shiftKey', 'loop', 'abs', 'skipTo', 'startGame', 'setDirection', 'skinsWhitelist', 'cross', 'language', 'PVP1.12.7-2021-09-09T15:53:36.484Z', 'currentLeaderboard', 'toLowerCase', 'done', 'includes', 'capSquare', '#c68642', 'body', 'simplify', 'KeyL', 'lose', 'replace', 'now', 'chain', 'finish', 'loadLanguages', 'multiply', 'theme', 'buttons', 'getChildContext', 'substr', 'TIME', 'sort', 'unit', 'vscale', 'props', 'leave', '100%', 'getCell', 'respawn', '50%', 'when', 'newRecords', 'context', 'leaderboards', '#81faff', 'displays', 'quality', '_target', 'Mouse\x20at:\x20', 'leaveBase', 'icon', 'ctrlKey', 'playAgain', 'getGameServer', 'noKills', 'shortName', 'think', 'fillStyle', 'location', 'initialTic', 'ctx', '785816bVpfds', 'trackWidth', 'left', 'Numpad1', 'loadModes', 'deathReason', 'lastPingSentTime', 'hasPoint', 'onMouseDownPaper', 'sin', 'debugView', 'playerInTop', '#36363d', 'tics', '\x20вЂ“\x20', '#363331', 'red', 'MAX_VALUE', 'title', '#2d6998', 'reportPingResult', 'averageFrameLength', 'winner', 'partyModeText', 'postResults', 'ticTime', 'zeroTicTimeEstimate', 'onMouseChange', 'group', 'Can\x27t\x20assign\x20skin\x20to\x20bot', 'prefix', 'buffer', 'columns', '__cC', 'green', 'nextSibling', 'modeConfig', 'destination-in', 'render', 'scale', 'notify', 'cells', 'position', 'debounceRendering', 'jitter', 'clearRect', 'Component', 'deathPoint', 'form', 'innerHTML', 'arenaSize', 'getRandomSkin', 'deathTic', 'Version:\x20PVP1.12.7-2021-09-09T15:53:36.484Z', 'kills', 'updateScores', 'reverse', 'KILLS', 'config', 'gameServerPicked', 'back', 'bestPercent', 'pvpMode', 'usedBy', 'defineProperty', '#ff3377', 'WARMUP\x20END', 'frameDuration', 'killById', 'playerScale', 'angle', 'intersections', 'firstMove', 'quadSize', 'removeCapturedArea', '662XVyPse', 'lastLoopTime', 'setLength', 'master', 'font', 'botLevel', 'aliveAt', 'changedTouches', 'duration', 'visible', 'addPlayer', 'Schemes', '#3f474e', 'asset', 'resetTransform', 'removeAttributeNS', 'avatar', '#00000033', 'https://paper-io.com', 'lineWidth', 'childNodes', 'nextSteps', 'level', 'isArray', 'sendRecords', 'connected', 'loadSettings', 'setAttributeNS', 'endSegment', 'colors', 'prerollIsComplete', '647971PPwxdR', 'skinsPath', 'joined', '#6abe30', 'leaveTo', 'gameOverReason', 'Vertices:\x20', 'contextmenu', 'modifiers', 'skinButton\x20', 'invert', 'resultCanvas', 'updateEmojiOfTheDay', 'createPattern', 'randomAssetName', 'fromCodePoint', 'PAPER', 'hideBeforePlayerJoined', 'baseNearestPointTangent', 'custom', '#00000099', 'masterServer', 'pingsSent', 'componentWillUnmount', 'save', 'alert', 'cursor', 'name', 'onTouchMove', 'CAN\x27T\x20FIND\x20', 'Checker', '#843b62', '\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)', 'test', 'getSpawnPosition', 'dailyLoop', 'magnitude', 'achieved', 'sub', 'useAsset', '#8b9dc3', 'soloMode', 'onMouseEnter', '758999EodkUy', 'NC:\x20Average\x20time\x20difference', 'prototype', 'connectionProgress', 'target', 'setLanguage', 'showGameIfReady', 'input', 'buttonMenu', 'touchstart', 'row', 'getDerivedStateFromProps', 'toLocaleString', 'parentNode', 'Too\x20many\x20intersections\x20seed\x20', 'pathname', 'split', 'nav\x20', 'movesSentTime', 'notifications', 'backlog', 'public', 'componentWillUpdate', 'isNear', 'warmup', '__v', '#232327', 'Render\x20time:\x20', 'getDerivedStateFromError', 'lagSimulation', 'DeadMorose\x0aold_demon\x0afox\x0aDeFreeZe\x0aGoSeek\x0aKeyplex\x0aDarkfury\x0aFunnyway\x0aBLACK_PRINCE\x0a[BigBoss]ShadiBoo\x0aDizzer\x0aKARATEL\x0aHowlux\x0aLight_Soul\x0a2fab4u\x0aBoOT\x0aMrKat2017\x0aSkulL\x0aCmeTano4Ka\x0aflash\x0ah1me3ra\x0aHoward\x0ai_Pro\x0ared_devil\x0abest_of_the_best\x0ablow_crazy\x20\x0aface_of_vengeance\x0aGlambit\x20\x0aMASTER_GRIF\x0aMr.ByBlIk\x0an1ce_DayZ\x0aRantom\x0aAbove\x20Daemons\x0acompany_THE_Best\x0aDanie\x0adarklight\x0aDaxmaut\x0adiablo\x0agreat_man\x0akiller_innothing\x0aNix\x0aValett\x0aDarkAngelKael\x0aduelist\x0ai_zadrot\x0aMonster_Energy\x0aMr.Winston\x0aRaindrops\x0aSumerbraum\x0aTermit\x0aTITAN\x0aWOOOlf\x0aAVSTRAL\x0aBadLike\x0aBuri\x0acop_zombie\x0adestroyer_for_us\x0aEKEN\x0aEksnet\x0aFrostorik\x0aghost_of_fear\x0aHotzarzim\x0aj111m\x0aKael\x0aKikET\x0a4CHAN\x0aPIKABU\x0a9GAG\x0aaustralia\x0aaustria\x0aayylmao\x0abait\x0abangladesh\x0abelgium\x0abosnia\x0abotswana\x0abrazil\x0abulgaria\x0acambodia\x0acanada\x0achile\x0achina\x0acia\x0aconfederate\x0acroatia\x0adenmark\x0aea\x0aearth\x0aestonia\x0aeuropeanunion\x0afacepunch\x0afeminism\x0afinland\x0afrance\x0agermanempire\x0agermany\x0agreece\x0ahongkong\x0ahungary\x0aindia\x0aindiana\x0aindonesia\x0airan\x0airaq\x0aireland\x0aitaly\x0ajamaica\x0ajapan\x0akc\x0alatvia\x0alithuania\x0aluxembourg\x0amaldivas\x0amatriarchy\x0amexico\x0amoon\x0anazi\x0anetherlands\x0anigeria\x0anorthkorea\x0anorway\x0aorigin\x0apakistan\x0apatriarchy\x0aperu\x0apewdiepie\x0apiccolo\x0apoland\x0aportugal\x0aprodota\x0aqingdynasty\x0aquebec\x0areddit\x0arussia\x0asanik\x0asatanist\x0asealand\x0asouthkorea\x0aspain\x0astalin\x0asteam\x0asweden\x0aswitzerland\x0ataiwan\x0atexas\x0athailand\x0atsaristrussia\x0atumblr\x0aukraine\x0aunitedkingdom\x0ausa\x0aussr\x0avinesauce\x0ayaranaika\x0atumblr\x0ahongkong\x0aKillerGamer\x0aLimuzin\x0amage\x0aMCGaMeR\x0aMr_Het\x0aNadornsMonsters\x0anero\x0aoutcaster\x0aSteepCat\x0aTUCA\x0aurban_hunter\x0avirtual_lord\x0awertyi\x0aWinstonLight\x0aWoJDoo\x0aArtemad\x0aClydeKautz\x0aBarney\x0aRhodaPing\x0aSharlaPropes\x0aNanciTyner\x0aIlaWorm\x0aSebastianRawlinson\x0aCraigFlury\x0aEstebanBrehm\x0aDeberaVancuren\x0aTabithaOlivieri\x0aTrishaKimball\x0aMilagrosHyler\x0aCinderellaGerson\x0aFranBaldridge\x0aMelisaBrock\x0aGaynelleSimmonds\x0aEttaMirabella\x0aLaveraLabrecque\x0aBudNormand\x0aEliasSherwood\x0aJackpot\x0aSensation\x0aChuck\x0aSoots\x0aTheSaint\x0aICEman\x0aMiracleSnoopy\x0aBahartet\x0aBiotary\x0aHammer85\x0aBizcarit\x0aBlackenta\x0aBurkelstrin\x0aBurntSeen\x0aChariana\x0agoldfinger\x0aConfidentHelp\x0aCopiconc\x0aDemocoman\x0aGaartely\x0aGenantro\x0aGlitzMcGenius\x0aJuliatu\x0aKalstaxi\x0aKeymatr\x0aKredicon\x0aLuvGurly\x0aMasteranca\x0aMediaBolt\x0aMeemuset\x0aMonsterInformer\x0aOccuiffu\x0aOnnitall\x0aRodeonevedo\x0aSandBlondeFully\x0aShipnease\x0aSlypectle\x0aSpinfonexu\x0aAdocarli\x0aAnglosi\x0aSimba\x0aAuetonbr\x0aBanshfeli\x0aQWERT\x0aBezequaci\x0aBizarrebobw\x0aBizarrewo\x0aBlenetra\x0aBootXboxStein\x0aBradleyFinest\x0aCeticRaven\x0aChunkyKlug\x0aDailiesHigh\x0aDravencybe\x0aFarerSaiyan\x0aGabring\x0aHalcytech\x0aHeminepe\x0aHeraldhama\x0aImagene\x0aLolandexte\x0aLucebayn\x0aMatroner\x0aMediumbben\x0aMofficanki\x0aNateinvelo\x0aTIMBERLAKE\x0aNessDiddy\x0aPlatinumTrippin\x0atheviking\x0aPlusedge\x0aRaetstalyda\x0aJustinStromberg\x0aRebecaSenn\x0aRoxy\x0aNeil\x0aMaria\x0aWarren\x0aGrace\x0aWilliam\x0aJane\x0aVanessa\x0aLisa\x0aStephanie\x0aDidi\x0aBoris\x0aRuth\x0aLeonard\x0aJack\x0aCaroline\x0aSebastian\x0aConnor\x0aIan\x0aTOMAS\x0aSue\x0aFOX\x0aDylan\x0aLisa\x0aGrace\x0aJabbaDabba\x0aJennifer\x0aBenjamin\x0aPiPPa\x0aSteven\x0aJoe\x0aKNine\x0aKevin\x0aCaroline\x0aMcFlurry\x0aKatherine\x0aLeah\x0aIrene\x0aOwen\x0aUna\x0aGabrielleSlater\x0aAmyFisher\x0aAngelaGrant\x0aAlisonOgden\x0aDeadshot\x0aNitro\x0aTrevorBlack\x0aKatherinePullman\x0aOliverMacDonald\x0aAvaVaughan\x0aJenniferWhite\x0aWarrenPeters\x0aLeahCameron\x0aAlisonBerry\x0aKeithBuckland\x0aJulianMackay\x0aNatalieSanderson\x0aviZion\x0aJoshuaPeake\x0aKeithDowd\x0aHotdog\x0aJamesLambert\x0aJanBond\x0aColinMarshall\x0aJasonRees\x0aFRED\x0aJaneHughes\x0aLeonardOliver\x0aHarryAnderson\x0aGraceSmith\x0aDeirdreJones\x0aAudreySpringer\x0aEllaGray\x0aDominicHamilton\x0aKeithBlake\x0aRuthJackson\x0aMollyHudson\x0aSophieBerry\x0aCarolineLyman\x0aEmmaHudson\x0aJoeLyman\x0aOliviaPiper\x0aChristopherAllan\x0aMariaKing\x0aPippaSlater\x0aSarahJohnston\x0aRyanWhite\x0aJackHill\x0aWilliamMackay\x0aBenjaminAlsop\x0aAmandaRoberts\x0aThomasParsons\x0aLiamMcGrath\x0aJanHenderson\x0aSoniaChapman\x0aWilliam\x0aLily\x0aPeter\x0aKeith\x0aIsaac\x0aLeah\x0aMadeleine\x0aKaren\x0aFrank\x0aAlan\x0aMichael\x0aRachel\x0aDominic\x0aPaul\x0aNicola\x0aEmily\x0aTim\x0abigBEN\x0aCohen\x0aGood\x0aFrancis\x0aOdom\x0aGreen\x0aCain\x0aTrevino\x0aLucero\x0aAshley\x0aigloo\x0aduffer\x0aloaded\x0asickness\x0agreeting\x0alonely\x0abafflement\x0atrusty\x0aalteration\x0aevil\x0asolva\x0apenumbra\x0adauphine\x0aalluring\x0alilly\x0astinchar\x0acubic\x0ablackbrook\x0arebuff\x0ainclined\x0alyon\x0asquash\x0aunique\x0alyne\x0achewy\x0amasticate\x0amagnet\x0aknit\x0aindolent\x0asevere\x0afestus\x0atrain\x0aincisionKim\x0aBean\x0aAguilar\x0aErnesto\x0aCurtis\x0aCortez\x0aTyshawn\x0aBrady\x0aBeckett\x0aXavier\x0aCason\x0aBryson\x0aSheldon\x0aPierce\x0aDeshawn\x0aAndy\x0aAaron\x0aArmando\x0aKarson\x0aK9\x0aNadia\x0aJovan\x0aErin\x0aTerry\x0aGrayson\x0aCelia\x0aAlexzander\x0aCannon\x0aJoey\x0aStella\x0aGracie\x0aKFCLOVER\x0aChico\x0aPrince\x0aMocha\x0aScooter\x0aChester\x0aCoco\x0aDusty\x0aZoe\x0aSocks\x0ajefferson\x0aignore\x0aalladale\x0avirtue\x0aprovided\x0acohesive\x0abullfinche\x0acomet\x0adip\x0azipper\x0apostulate\x0alick\x0abashful\x0apascals\x0arudy\x0agloaming\x0acashew\x0amixcloud\x0atraumatic\x0aprostate\x0apeas\x0amelon\x0abulbous\x0agavel\x0anumnah\x0anavel\x0ariver\x0asaskatoon\x0acaused\x0ahardy\x0apare\x0afemale\x0avolunteer\x0aspeck\x0ayears\x0avalid\x0aarmpit\x0abobby\x0abolham\x0agoogle\x0abrennand\x0apastry\x0aweapon\x0acuillin\x0adescent\x0aeasier\x0amore\x0arisedale\x0agoggles\x0acute\x0amagellanic\x0arenal\x0azunyi\x0aEveryPrivate\x0aChipmunkThreat\x0aLeafyForefoot\x0aSebastianExxon\x0aHuckFaisalabad\x0aWheelchairHadar\x0aBulimiaMilk\x0aEiderStallion\x0aMoronicBuckinghamshire\x0aPayBiff\x0aHillsboroughEnvelope\x0aAllianzRhapsody\x0aArseEnteral\x0aBoronRadiant\x0aArchiveUntrue\x0aPlasticSpeech\x0aOfficerWiltshire\x0aBungBuzzard\x0aMoscowStellar\x0aTrialsHearty\x0aModelHorse\x0aBootsGrimacing\x0aShiraMosedale\x0aLeopardClapper\x0aSkatersStars\x0aCaramelizeStraws\x0aAngolanVinomadefied\x0aBatterySiemens\x0aHedgeThompson\x0aLukaIcing\x0aMimosaBrunswick\x0aTinForgetful\x0aHumberHook\x0aSeagullTrump\x0aBookerTouring\x0aSugarWarn\x0aCustardsStructure\x0aRudyBarium\x0aElectrolyteDisfigured\x0aBlighterPhysicist\x0aAntoniadiAtom\x0aPachaRule\x0aMaltyPatches\x0aHonoluluSwedish\x0aGemGleaming\x0aAssociatedThose\x0aAfterCointreau\x0aEyesPierre\x0aStewartGels\x0aAretePuppy\x0aFullscreenTrophic\x0aMailWillow\x0aScaupFrosty\x0aZaraBipedal\x0aCheapScafell\x0aDevonYolk\x0aSkegCohesive\x0aCricketBashful\x0aCocoaPuck\x0aDecathlonIschemic\x0aOftSnottor\x0aCheepNewlyn\x0aSwimGrill\x0aBaubleSymbolic\x0aAstronomerSpam\x0aVarlotLealt\x0aSensorSquamish\x0aKeyTechnetium\x0aCrummyQuirky\x0aVinePlane\x0aWaterskiBlind\x0aOrdinateCrown\x0aSpotTense\x0aFumeVine\x0aGlasswareCherries\x0aPhenomenonWillied\x0aPappusWazzed\x0aFilterSpace\x0aHypnosisSociable\x0aGaffEnder\x0aTordaHelpless\x0aResearchMat\x0aAmpereHeptagon\x0aEclipseBaldy\x0aLliediDiopside\x0aRockersGatcombe\x0aSabineEssential\x0aPlutoAbsurd\x0aTagTestify\x0aForswearJosie\x0aEquuleusFalter\x0aChewieFluther\x0aWombYakama\x0aHinderHighland\x0aBiteSeptum\x0aRifleGym\x0aJuneauInboard\x0aTroubadourChillingwood\x0aNeogeneLecturer\x0aSullivanStencils\x0aCheesecakePit\x0aClumpUnhelpful\x0aCheckBig\x0aLollyPumpkin\x0aCitrusyCountless\x0aVarunaRemy\x0aDivergentOils\x0aFallingTalisker\x0aBlackwaterNifty\x0aBrinkworthFranklyn\x0aFreddyPostman\x0aClumperPoke\x0aSlopeTokahee\x0aStencilsHume\x0aJijiKey\x0aAdeptStores\x0aUnicodeIgneous\x0aMeatyNut\x0aMaskSpark\x0aForegoingMoist\x0aEthicalConfident\x0aOblongataIsraeli\x0aGreenAle\x0aFibulaJoss\x0aShrugMinge\x0aFlowsWhispers\x0aActiveGlissade\x0aExaltedSpaghetti\x0aMeerkatMatch\x0aCouldHoff\x0aYawnObtuse\x0aCrazyUnknown\x0aPlanemoTyler\x0aCalderaBeans\x0aSoundcloudJapan\x0aSeveralGalled\x0aStarbucksDomain\x0aEdibleGlazier\x0aResourcesCapital\x0aNitrogenBella\x0aFlavorfulProtoplanet\x0aTeachSqueeze\x0aMeiosisSiphon\x0aTelephoneMarl\x0aTrundleRitec\x0aTheodoreShamrock\x0aNoirMelody\x0aVanillaArmenian\x0aHonkExoticism\x0aMandibleSepsis\x0aVenomousSignal\x0aManukaEval\x0aLooksLeaves\x0aFriedInto\x0aBlowTalented\x0aStubbsHeadphones\x0aWigeonNewcastle\x0aLoadHamster\x0aPinkieSaint\x0aEuphoniumRedundant\x0aSabdenRoad\x0aSuccessApache\x0aPateraCitric\x0aBalnagownQuiver\x0aGambianHartford\x0aRidingNostalgic\x0aAmbushFlex\x0aBretonCommon\x0aSpot!Fine\x0aPlaintivePride\x0aDiphthongPraline\x0aShearraInflate\x0aWoldsLennon\x0aSordiniMeathead\x0aSordCegidog\x0aSelfiesWeigh\x0aOrganVile\x0aPinchWeixin\x0aSassyFlag\x0aAlberniDart\x0aBowenImmense\x0aRulerFocus\x0aMaggotMine\x0aRegulateInventions\x0aMeshAlbite\x0aPoxArabella\x0aTikiFredericton\x0aNeedleDiapir\x0aGeneBlurt\x0aBindyFollowed\x0aMongolianTurtle\x0aSenseProfess\x0aFoldingHacking\x0aArsonistClipping\x0aKerryBonnie\x0aMaliciousMilitary\x0aMountainFrivolous\x0aCannonCog\x0aCordFlapping\x0aSnickerIndonesian\x0adome\x0aking\x0aohio\x0astandard\x0afustilarian\x0anative\x0asupply\x0aamherst\x0ainitial\x0atowel\x0apumpion\x0aperfect\x0amouldy\x0aflasks\x0acarina\x0aduchess\x0acrackers\x0aexciting\x0ahole\x0awiggle\x0agreat\x0aben\x0apoop\x0aotis\x0apolite\x0aslapping\x0aotherwise\x0agrilled\x0awes\x0asummary\x0anice\x0abasketball\x0astarbolins\x0ababy\x0abooking\x0arhubarb\x0aperson\x0ashooter\x0abounded\x0anorthamptonshire\x0asyllable\x0agreenish\x0auptight\x0atweed\x0athe\x0areeky\x0alathered\x0aascension\x0aobtain\x0anagging\x0achallenger\x0asecret\x0aworcester\x0alangley\x0apolly\x0aurinal\x0atrusting\x0abeverley\x0afrankie\x0adartmoor\x0amash\x0agillie\x0amethodist\x0agalaxy\x0amozart\x0abarrage\x0aspoticus\x0ascheduled\x0aeel\x0apanel\x0aflapjack\x0achemist\x0aalbert\x0ametacarpus\x0adense\x0ableeding\x0afixation\x0aniggles\x0acamel\x0arosin\x0acommunity\x0aleash\x0adulais\x0aladder\x0alee\x0aindices\x0ayou\x0aeducation\x0adumplings\x0abid\x0aprince\x0aartiste\x0aavocet\x0aburns\x0abarney\x0amanaged\x0aburritos\x0apeduncle\x0apaltry\x0aequator\x0asubmerge\x0aexpected\x0afags\x0aperl\x0aclueless\x0acartier\x0awombled\x0abearded\x0akalman\x0atrees\x0apink\x0aaddie\x0atod\x0ausd', 'updateLevel', 'cover', 'defaultProps', 'clear', 'extrapolated', 'fromFlatArray', 'createTextNode', 'nameChanged', 'componentDidMount', 'Spawn\x20time:\x20', 'connectTimeoutHandle', 'recorder', '#ff8800', 'absorber', 'РўРѕС‡РєР°\x20РІС‹С…РѕРґРёС‚\x20Р·Р°\x20РіСЂР°РЅРёС†С‹\x20РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІР°', 'classic', 'logging', 'dot', 'botsCount', 'connecting', 'owner', 'shadowColor', 'win', 'cos', 'layers', 'yellow', 'uibox', 'fillRect', 'С…Р°РїСѓРіР°', 'initialTicTime', 'orange\x20', '#00000066', 'px\x20\x22Segoe\x20UI\x22', 'cssText', 'assets/images/', 'getScheme', 'enter', 'polygon', '__e', 'lastKnownMove', 'playerPlace', 'touchmove', 'touchcancel', '#c2d6cdaa', 'handlers', 'achievementIconsPath', 'strokeRect', 'get', 'generateParticles', 'bottom', '__html', 'calcBounds', 'over', 'container', 'CONNECTING', 'mark', 'bot.position', 'meta', 'rng', 'fromDirection', '#ffffff', 'roomtop', 'open', 'addCapturedArea', 'acceleration', 'available', 'aviable', 'catch', 'baseDistance', 'stateObject', 'result', 'subscribe', 'fromPoints', 'merges', 'div', 'directions', 'disconnect', 'resultsimg', '#1a936f', 'extrapolatedAt', 'lastMouse', 'record', 'havingVertice', '#ffe066', 'barHeight', 'death', 'some', 'messages', 'lineJoin', 'blur(20px)', 'getRespawnerSpawnRadius', '__r', 'skinButton\x20orange', 'Game\x20time:\x20', 'skinUnlocked', 'deserialize', 'translate', 'noskin.png', '#a7adba', '#0000ffcc', 'enterInto', 'NoPlaceToSpawn', 'idle', 'rotate', 'addVertices', 'currMetric', 'kill', 'no-cache', 'frontLayers', 'nopreroll', 'payload', 'emojisOfTheDay', 'ERROR\x20parsing\x20', 'maxDanger', 'className', 'fullTurnsPerSecond', 'emojis', 'skinAssets', 'absorbedBy', 'socketId', 'speed', 'send', 'averagePing', 'textBaseline', 'update', 'server', 'list', 'apply', 'readInput', 'player', 'local', 'goTo', 'vertice', 'clone', 'inviteLink', 'assets/images/logo.png', 'code', 'brightness(0)', 'noskin', 'encode', 'maxScale', 'killText', 'newBest', 'force', 'leaderboard', 'canvas', 'while\x20(true)\x20{}', 'view', 'keys', 'START\x20PREROLL', 'logo', 'tryToCompleteMove', 'getImageData', '__s', 'assets/skins/select/', 'dispose', '#8874a3', 'skins', 'ready', 'Pointer', 'appendChild', 'pvp', 'InvalidRoomName', 'toEventLog', 'rgba(', 'restartGame', 'indexOf', 'OFF', 'devicePixelRatio', 'РїСЂРёР±Р»РёР¶РµРЅРёРµ', 'РѕС‚РґР°Р»РµРЅРёРµ', 'normalize', 'startPreroll', 'onMouseDown', 'measureText', 'mouse', 'KeyA', 'nameManager', 'ownerSVGElement', 'rec:\x20tic\x20out\x20of\x20order\x20', 'destination-out', '#00000088', 'base', '#00000040', 'Apple', 'buttonAgain', 'multiplayer', 'actions', '#ffff00', 'switchKeyboardMode', '.\x20Moves\x20should\x20be\x20set\x20in\x20order.', 'findSpawnPositionSingleplayer', 'assassin', 'lastCompleteTic', 'moveTo', 'substring', 'lastReceivedTicTime', 'registerAssetsPool', 'window.innerWidth/window.devicePixelRatio', '__c', 'onEvent', '/newpaperio/ajax/results.php', '\x20AS\x20', '#64a1f4', 'notes', 'border', 'prerollComplete', 'initPaper', 'listen', 'globalCompositeOperation', 'chooseYourSkin', 'Quality:\x20', 'lobby', 'dayZero', 'spawn', 'onload', 'Room:\x20', 'window.innerWidth*window.devicePixelRatio', 'renderTime', 'window.devicePixelRatio', 'assign', 'http://www.w3.org/1999/xlink', 'ceil', 'push', 'loadSkins', 'extrapolatedDirection', '#fff', 'achievementDescriptionText', 'slideAlong', 'modes', 'count', 'clientY', 'languages', 'units', 'col', 'registerAsset', 'findSpawnPositionMultiplayer', 'block', 'content', 'getState', 'polyline', 'curved', 'option', 'build', 'end', 'clientHeight', 'yellow\x20leaderboardsButton', 'currentlyPlaying', 'pop', 'baseCount', 'space', 'drawImage', 'getInt32', 'createUnit', 'isTrack', 'secret', 'link', '#ffff00a0', 'equal', 'autopilotDirector', 'stringify', 'start', 'updateLocation', 'search', 'baseNearestPointNormal', 'skinButtonsScale', 'sign', 'qas', 'naturalWidth', 'floor', 'vrange', 'main', 'mouseenter', 'aggro', 'httpServerPicked', 'throw', 'COULD\x20NOT\x20REPLACE\x20SKIN', '__P', 'destination-over', 'pixelated', 'saturate(0%)\x20brightness(0.2)', 'debugSettings', 'emitTo', 'Consumer', 'addLabel', 'keyPressed', 'out', 'shape', 'assets/skins/', 'DISCONNECTED', 'profiler', 'ticsToRun', '#000000', 'newText', 'KeyN', 'director', 'innerWidth', 'Recovering\x20tail,\x20cycle:\x20', 'setMove', 'Track\x20length:\x20', 'spawnBotMaybe', 'serverURL', 'baseRadius', 'vnode', 'debrief', 'skinsHeader', 'players', 'killPlayerByServer', 'event', 'copyAnimation', 'join', 'mousedown', 'transform', 'enterBase', ',0.3)', 'CONNECTION\x20ERROR\x20-\x20TIMEOUT', 'servers', 'flat', 'unitById', 'emit', '#009900cc', 'clip', 'atl', 'segmentCells', 'removeEventListener', 'strokeText', 'Room\x20name\x20set\x20to', 'keydown', 'textAlign', 'addAsset', 'fpsSequence', 'playerId', 'yandex_rtb', 'toDirection', 'dif', 'closeGame', 'userAgent', 'localPlayerId', 'keyup', 'nom', 'Skin\x20', 'image', 'invalidRoomName', ':area:daily', 'earned', 'autopilot', 'clientWidth', 'text', 'connectingBar', 'verticeAt', 'map', 'page', 'pointsUnified', 'options', 'debu', 'nearestPlayer', 'shouldComponentUpdate', 'directionsStr', 'onEarned', 'pickHttpServer', 'leaderboardsLoaded', 'size', 'addUnit', '1krafZB', 'turnLeft', 'CONNECTED\x20TO\x20', 'baseNearestPoint', '__n', '__h', 'Provider', 'KeyK', 'РќРµ\x20СѓРґР°Р»РѕСЃСЊ\x20СѓСЃС‚Р°РЅРѕРІРёС‚СЊ\x20СЂР°Р·РјРµСЂ', 'loadAchievements', 'copy', 'mulv', 'lerp', 'arc', 'renderer', '\x20bots\x20spawned\x20after\x20', 'find', 'documentElement', 'leaderBoardURI', 'none', '#2a9d8f', 'ticEvents', 'absolute', 'averageTimeDifference', '#e7fff4', 'nextMoveToSend', 'connect', 'draw', 'nameWithPrefix', 'KeyE', 'serverName', 'records', 'inside', 'play', 'PaperCanvas', 'paperSkins', 'atan2', 'tStart', 'prefixes', 'off', 'skinManager', 'takeClosestIntersection', 'replaySpeed', 'emoji', 'slider-2', 'lineCap', 'fading', '#d62828', 'black', 'regimeChange', 'exit', 'noPlaceToSpawn', 'min', 'smoothness', 'getTransform', 'getSnapshotBeforeUpdate', 'user', 'unitSpeed', 'maxDirectionChange', 'class', '#fcbf49', 'disposed', 'schemes', 'removeAttribute', 'buttonPlay', 'setTransform', '#ed6a5a', 'startTime', 'componentWillMount', 'movement', 'canCompleteMove', 'setSkin', 'maxAnglePerSecond', 'date', 'gameMode', 'creationTime', 'lastPlay', 'debugConsole', 'replaying', 'contextType', 'findIndex', '\x20to\x20kill', 'vector', 'style', '#65737e', 'getPlayerSkin', 'img', 'closePath', 'componentDidUpdate', 'tan', 'every', 'fromVertices', 'remove', 'progress', 'big', '814692XzYJWk', 'boolean', 'distance', 'achievementGained', 'adjustQuality', 'top', 'addMessage', 'beginPath', 'key', 'translate(-50%,\x20-50%)', 'skinRequirement', 'value', 'extrapolateUnits', 'getChecker', 'enemyKillDelay', 'accumulatedtime', 'number', 'ref', 'Digit1', 'onGameOver', '#99000040', 'intersect', 'cumulative', 'getContext', 'DIRECTION\x20OUT\x20OF\x20RANGE\x20', 'keyboard', 'small', 'fromAngle', 'РќРµ\x20СѓРґР°Р»РѕСЃСЊ\x20СѓСЃС‚Р°РЅРѕРІРёС‚СЊ\x20СЂР°Р·РјРµСЂ\x20', 'reduce', 'document.documentElement.clientWidth', 'stopLoop', 'updateTime', 'restore', 'RECORD\x20JSON\x20PARSE\x20ERROR', '#4b86b4', 'sendMove', 'velocity', 'bind', '379178zoxjaN', 'https://leaderboard.paper-io.com/save', 'slice', 'onOut', 'frame', 'addEventListener', 'metrics', 'limit', 'toUpperCase', 'segments', 'colored', 'removed', 'GAME\x20OVER', 'events', 'controller', 'touchBy', 'skinBuyable', 'adjustForBorderNew', 'Room\x20Top', 'leaderboardPage', 'skins_unlock', 'action', 'noPlayerBotLevel', 'darken', 'createElement', 'statistics', 'updateBounds', 'client', 'roomNotReady', 'setItem', 'attributes', 'verticeNumbers', 'someTicsForward', 'adjustForBorderNewer', 'place', 'minDistance', 'change', 'fps', 'stroke', 'lastFrameTime', 'setProperty', 'error', 'init', '\x20own-record', 'schemesManager', 'pow', 'calc', 'setInt32', 'values', 'bornTime', 'Accum\x20time:\x20', 'showGame', 'saveSettings', 'addKillLabel', 'tail', 'checkCimpleted', 'area', 'setMoves', 'labels', 'pivot', 'pool', 'status', 'Recorder', 'assets', '#88a799', 'CriOS', 'queryString', 'POST', 'scores', 'left_side', 'themes', 'emptyLeaderboard', 'lng', 'sqrt', 'onMouseUp', '#fcb9b2', 'debugGraph', 'assets/', 'delta', 'callbacks', 'calcSimplify', '[E]xtrapolation\x20', '__d', 'resources', 'achievementDescriptionImage', 'frameTime', 'pattern', 'segment', 'moves', 'download', 'backupContainer', '#dddddd', 'paper', 'PvP', 'span', 'dratest', 'averageFrameDivergence', 'backupDisplay', 'browserLanguage', 'forceUpdate', 'environment', 'rotation', 'getTime', 'uri', 'allModes', 'deltaY', 'center', 'solo', 'max', 'state', 'fromEntries', 'httpServer', 'clientInfo', 'element', 'addColorStop', '.json:', '#68b0ab', 'exports', 'got', 'onTouchEnd', 'rank', 'updateInterval', 'application/json', ':\x20spawn\x20player', 'handleSelfIntersect', 'focus', 'onKill', 'connect_error', '#4a7c59', 'pickServers', 'gameServer', '1591xRzFpI', '\x20tic\x20', '\x20not\x20found', 'facing', 'Player\x20Scale:\x20', 'average', 'descriptionIcon', 'lastTic', 'joinError', 'bestResult', 'resize', 'url', 'onKeyDown', 'onGameData', 'onMouseWheel', 'near\x20back', 'addRecord', 'ms\x20ago', 'JOINING', 'signedArea', '1919064TFVJgx', 'Last\x20update:\x20', 'tEnd', 'viewDiv', 'warmupComplete', 'Can\x27t\x20complete\x20move\x20after\x20setMoves', 'overlay', 'adjustForBorder', 'top\x20top', 'best', 'roomName', 'aggroBotOnLongPlayerTail', 'resetCheckers', 'ERROR\x20loading\x20', 'toString', 'gger', 'splice', 'bestScore', 'right', 'width', 'button', 'call', 'source', 'point', 'entries', 'display', 'image/png', 'function\x20*\x5c(\x20*\x5c)', 'Frame\x20time:\x20', '__k', 'message\x20fade1', 'visibleName', '#fe4a49', 'down', '\x20sq\x20', '__b', 'MultiplayerEnvironment', 'СѓР±РёР№С†Р°', 'window.innerWidth', 'buySkin', 'constructor', 'info', 'release', 'onKeyUp', 'px\x20', 'joinAndSpawnEvents', 'addSegment', 'menu', 'linear-gradient(90deg,\x20green\x200%,\x20green\x20', 'replay', 'getSchemes', 'accumulatedTime', 'counter', '#a0a', 'btnMenu', 'time', 'platesStrokeWidth', 'showGameInfo', 'loadingStarted', 'radius', '#88d498', 'slider-1', 'isAdmin', 'plate', '#b23a48', 'paper2_results', 'freezes', 'undefined', '#00000022', 'msPerTic', 'playerKills', 'checked', 'toFixed', 'factors', 'freeze', 'messageContainer', 'serialize', 'color', 'lineTo', 'gameOver', 'function', 'Using\x20game\x20server', 'isLocal', '%,\x20var(--paper)\x20', 'game\x20recovered', 'loadResources', 'ranks', 'nick', 'circle', 'timePlayed', 'getDirections', 'distanceDanger', 'Tic:\x20', 'toggleLeaderboards', 'ping', 'nextMovement', 'length', 'recording', 'source-over', 'resolve', 'currentTic', 'defaultPvpMode', 'distance2', 'shadowBlur', 'playersAliveAt', 'states', 'wheel', 'price', 'selfKillDelay', 'pageY', 'href', 'percent', 'altKey', 'description_', 'commit', 'seed', 'nearPlayerBotSpawnCount', 'clickDescription', 'playSession', 'layer', 'shift', '#8d5524', '\x20d\x20', 'middle', 'entriesWithPlayer', 'capture', 'reason', 'hasSegments', 'ticDuration', '16px\x20', 'accumulator', 'print', 'isLeader', 'startGameOnInit', 'charCodeAt', 'unlocks', 'Numpad3', 'loadLeaderboards', 'achievements', 'comeback', 'tailRecovered', 'alt', 'Ping\x20to\x20', 'smoothingMode', 'socket', 'fillText', 'lastArea', 'dangerouslySetInnerHTML', 'tag', 'all', 'CPUPenalty', 'direction', 'quadraticCurveTo', 'getOwnPropertyDescriptor', '\x27PT\x20Sans\x20Caption\x27,\x20Quicksand,\x20Verdana', 'projection', 'winPercent', 'setAttribute', 'postDebrief', 'serverPicked', 'src', 'paperio2api', 'onMouseMove', 'baseIntersections', 'lastTime', '/socket.io', 'onerror', 'symbol', 'any', 'New\x20skin\x20unlocked!', 'origin', 'footer', 'request', 'aspect', 'unitToTrackDistances', 'createGame', 'greed', 'extrapolation', 'make', 'РґСѓСЂР°С‡РѕРє', '#222222', 'path', 'data', '#990099cc', 'length2', 'points', 'insertBefore', 'sendToLeaderboard', '\x20:\x20', 'bots', 'preventDefault', 'pickGameServer', 'SCORE', 'modeName', '\x27s\x20moves\x20after\x20tic\x20', 'toISOString', 'manager', 'renderContext', 'hasUnused', 'lastReceivedTic', 'next', 'getElementById', 'then', 'Can\x27t\x20force\x20complete\x20move', 'looper', 'minScale', 'botsSpawnImmediately', 'fromVec', 'index', 'playersById', 'isPlayer', 'tab', 'randomPlayer', 'KeyS', 'type', '#3b7dd8', 'def', 'load', 'componentDidCatch', 'REMOVING\x20PARTICLES', 'noteTime', 'completeWarmup', 'random', 'add'];
+const r459 = function(v1, v2) {
+	v1 = v1 - 459;
+	let v3 = table1[v2];
+	return v3;
 };
 (function(_0xebe0de, _0x57076e) {
-	const _0x3f0db1 = a0_0x47bb;
+	const _0x3f0db1 = r459;
 	while (!![]) {
 		try {
 			const _0x2213c7 = -parseInt(_0x3f0db1(0x32c)) + parseInt(_0x3f0db1(0x61a)) + parseInt(_0x3f0db1(0x353)) + parseInt(_0x3f0db1(0x3d6)) * parseInt(_0x3f0db1(0x5d0)) + parseInt(_0x3f0db1(0x585)) + parseInt(_0x3f0db1(0x5ef)) * parseInt(_0x3f0db1(0x2cd)) + -parseInt(_0x3f0db1(0x3ea));
@@ -15,13 +16,13 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			_0xebe0de['push'](_0xebe0de['shift']());
 		}
 	}
-}(a0_0x50f1, 0xd9a3a), function(_0x46e43d) {
-	const _0x817dbf = a0_0x47bb,
+}(table1, 0xd9a3a), function(_0x46e43d) {
+	const _0x817dbf = r459,
 		_0x35055c = function() {
 			let _0xba71fb = !![];
 			return function(_0x43af78, _0x27dafb) {
 				const _0x2b469e = _0xba71fb ? function() {
-					const _0x43d91a = a0_0x47bb;
+					const _0x43d91a = r459;
 					if (_0x27dafb) {
 						const _0x37c255 = _0x27dafb[_0x43d91a(0x1e1)](_0x43af78, arguments);
 						return _0x27dafb = null, _0x37c255;
@@ -32,7 +33,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		}();
 	(function() {
 		_0x35055c(this, function() {
-			const _0x59dab4 = a0_0x47bb,
+			const _0x59dab4 = r459,
 				_0x11317a = new RegExp(_0x59dab4(0x405)),
 				_0x1a4e8f = new RegExp(_0x59dab4(0x60f), 'i'),
 				_0x3cbd99 = _0x12eee7(_0x59dab4(0x37d));
@@ -42,7 +43,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	'use strict';
 	const _0x4a7e44 = 1e-9,
 		_0x55876d = _0x266ca2 => -_0x4a7e44 <= _0x266ca2 && _0x266ca2 <= _0x4a7e44,
-		_0x449d98 = (_0xa66df4, _0x3edda6) => Math[_0x817dbf(0x54a)](_0xa66df4 - _0x3edda6) <= _0x4a7e44,
+		_0x449d98 = (_1066df4, _0x3edda6) => Math[_0x817dbf(0x54a)](_1066df4 - _0x3edda6) <= _0x4a7e44,
 		_0x13ef36 = (_0x333433, _0x3ca45a, _0x5a392f) => _0x333433 + (_0x3ca45a - _0x333433) * _0x5a392f,
 		_0x5d8015 = _0x40bcb9 => --_0x40bcb9 * _0x40bcb9 * _0x40bcb9 + 0x1,
 		_0x19ee05 = (_0x11586d, _0x1eb601, _0x328cad) => {
@@ -50,7 +51,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			if (_0x328cad > _0x1eb601) return _0x1eb601;
 			return _0x328cad;
 		},
-		_0xaadeec = (_0x5efd45, _0x1284df, _0x310507) => Math[_0x817dbf(0x301)](_0x5efd45, _0x1284df) - _0x4a7e44 <= _0x310507 && _0x310507 <= Math[_0x817dbf(0x3bf)](_0x5efd45, _0x1284df) + _0x4a7e44,
+		_10adeec = (_0x5efd45, _0x1284df, _0x310507) => Math[_0x817dbf(0x301)](_0x5efd45, _0x1284df) - _0x4a7e44 <= _0x310507 && _0x310507 <= Math[_0x817dbf(0x3bf)](_0x5efd45, _0x1284df) + _0x4a7e44,
 		_0x40815c = (_0x253fee, _0x737f59, _0x115688, _0x35ebf8) => {
 			const _0x2b0580 = _0x817dbf;
 			if (_0x253fee > _0x737f59)[_0x253fee, _0x737f59] = [_0x737f59, _0x253fee];
@@ -149,13 +150,13 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	class _0x2e5dfc {
 		constructor(_0x16e765, _0x491822, _0x59c025) {
 			const _0x3122ca = _0x817dbf;
-			this[_0x3122ca(0x597)] = _0x491822, this['description'] = _0x16e765, this['state'] = 0x0, this[_0x3122ca(0x522)] = 0x0, this[_0x3122ca(0x453)] = [0x1f4, 0xbb8, 0x1f4, 0xfa], this['image'] = null;
+			this[_0x3122ca(0x597)] = _0x491822, this['description'] = _0x16e765, this['state'] = 0x0, this[_0x3122ca(0x522)] = 0x0, this[_0x3122ca(0x453)] = [500, 3000, 500, 0xfa], this['image'] = null;
 			if (_0x59c025) {
 				this[_0x3122ca(0x200)] = ![];
 				const _0x5ef210 = new Image();
 				_0x5ef210[_0x3122ca(0x239)] = () => {
-					const _0xa2b52a = _0x3122ca;
-					this['ready'] = !![], this[_0xa2b52a(0x2b7)] = _0x5ef210;
+					const _102b52a = _0x3122ca;
+					this['ready'] = !![], this[_102b52a(0x2b7)] = _0x5ef210;
 				}, _0x5ef210[_0x3122ca(0x490)] = () => {
 					const _0x1e063c = _0x3122ca;
 					this[_0x1e063c(0x200)] = !![];
@@ -186,7 +187,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			const _0x4c1eae = _0x817dbf;
 			if (this[_0x4c1eae(0x62d)][_0x4c1eae(0x44a)]) {
 				const _0x45a8b5 = this['notifications'][0x0];
-				_0x45a8b5[_0x4c1eae(0x200)] && (_0x45a8b5[_0x4c1eae(0x1de)](_0x83da7b), _0x45a8b5[_0x4c1eae(0x3c0)] > 0x3 && this['notifications'][_0x4c1eae(0x462)]());
+				_0x45a8b5[_0x4c1eae(0x200)] && (_0x45a8b5[_0x4c1eae(0x1de)](_0x83da7b), _0x45a8b5[_0x4c1eae(0x3c0)] > 3 && this['notifications'][_0x4c1eae(0x462)]());
 			}
 		} [_0x817dbf(0x4c9)](_0x2ff60b) {
 			const _0x5985ca = _0x817dbf;
@@ -213,8 +214,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		var _0x35c1d1, _0x3037b8, _0xb99287, _0x8bc873 = arguments,
 			_0x3b881a = {};
 		for (_0xb99287 in _0x5219b4) _0x3291cd(0x334) == _0xb99287 ? _0x35c1d1 = _0x5219b4[_0xb99287] : 'ref' == _0xb99287 ? _0x3037b8 = _0x5219b4[_0xb99287] : _0x3b881a[_0xb99287] = _0x5219b4[_0xb99287];
-		if (arguments[_0x3291cd(0x44a)] > 0x3) {
-			for (_0x2b5ce6 = [_0x2b5ce6], _0xb99287 = 0x3; _0xb99287 < arguments[_0x3291cd(0x44a)]; _0xb99287++) _0x2b5ce6['push'](_0x8bc873[_0xb99287]);
+		if (arguments[_0x3291cd(0x44a)] > 3) {
+			for (_0x2b5ce6 = [_0x2b5ce6], _0xb99287 = 3; _0xb99287 < arguments[_0x3291cd(0x44a)]; _0xb99287++) _0x2b5ce6['push'](_0x8bc873[_0xb99287]);
 		}
 		if (null != _0x2b5ce6 && (_0x3b881a['children'] = _0x2b5ce6), _0x3291cd(0x43a) == typeof _0x347386 && null != _0x347386[_0x3291cd(0x63b)]) {
 			for (_0xb99287 in _0x347386[_0x3291cd(0x63b)]) void 0x0 === _0x3b881a[_0xb99287] && (_0x3b881a[_0xb99287] = _0x347386[_0x3291cd(0x63b)][_0xb99287]);
@@ -379,10 +380,10 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					for (_0x36d348 in _0x4ddaa5) _0x8da0fe && _0x4ddaa5[_0x36d348] === _0x8da0fe[_0x36d348] || _0x193206(_0x30f76b[_0x18eba5(0x320)], _0x36d348, _0x4ddaa5[_0x36d348]);
 				}
 			}
-		} else 'o' === _0x36d348[0x0] && 'n' === _0x36d348[0x1] ? (_0x18ff0c = _0x36d348 !== (_0x36d348 = _0x36d348[_0x18eba5(0x55c)](/Capture$/, '')), (_0x1d9e90 = _0x36d348[_0x18eba5(0x553)]()) in _0x30f76b && (_0x36d348 = _0x1d9e90), _0x36d348 = _0x36d348['slice'](0x2), _0x30f76b['l'] || (_0x30f76b['l'] = {}), _0x30f76b['l'][_0x36d348 + _0x18ff0c] = _0x4ddaa5, _0x1a3f83 = _0x18ff0c ? _0x4f38e8 : _0xa2fc5a, _0x4ddaa5 ? _0x8da0fe || _0x30f76b[_0x18eba5(0x358)](_0x36d348, _0x1a3f83, _0x18ff0c) : _0x30f76b[_0x18eba5(0x2a6)](_0x36d348, _0x1a3f83, _0x18ff0c)) : _0x18eba5(0x1e0) !== _0x36d348 && 'tagName' !== _0x36d348 && _0x18eba5(0x5b5) !== _0x36d348 && _0x18eba5(0x4c0) !== _0x36d348 && _0x18eba5(0x2cb) !== _0x36d348 && _0x18eba5(0x3ac) !== _0x36d348 && _0x18eba5(0x458) !== _0x36d348 && !_0x111e78 && _0x36d348 in _0x30f76b ? _0x30f76b[_0x36d348] = null == _0x4ddaa5 ? '' : _0x4ddaa5 : 'function' != typeof _0x4ddaa5 && _0x18eba5(0x47d) !== _0x36d348 && (_0x36d348 !== (_0x36d348 = _0x36d348[_0x18eba5(0x55c)](/xlink:?/, '')) ? null == _0x4ddaa5 || !0x1 === _0x4ddaa5 ? _0x30f76b[_0x18eba5(0x5df)](_0x18eba5(0x23f), _0x36d348['toLowerCase']()) : _0x30f76b[_0x18eba5(0x5eb)](_0x18eba5(0x23f), _0x36d348[_0x18eba5(0x553)](), _0x4ddaa5) : null == _0x4ddaa5 || !0x1 === _0x4ddaa5 && !/^ar/ [_0x18eba5(0x610)](_0x36d348) ? _0x30f76b[_0x18eba5(0x30c)](_0x36d348) : _0x30f76b[_0x18eba5(0x487)](_0x36d348, _0x4ddaa5));
+		} else 'o' === _0x36d348[0x0] && 'n' === _0x36d348[0x1] ? (_0x18ff0c = _0x36d348 !== (_0x36d348 = _0x36d348[_0x18eba5(0x55c)](/Capture$/, '')), (_0x1d9e90 = _0x36d348[_0x18eba5(0x553)]()) in _0x30f76b && (_0x36d348 = _0x1d9e90), _0x36d348 = _0x36d348['slice'](0x2), _0x30f76b['l'] || (_0x30f76b['l'] = {}), _0x30f76b['l'][_0x36d348 + _0x18ff0c] = _0x4ddaa5, _0x1a3f83 = _0x18ff0c ? _0x4f38e8 : _102fc5a, _0x4ddaa5 ? _0x8da0fe || _0x30f76b[_0x18eba5(0x358)](_0x36d348, _0x1a3f83, _0x18ff0c) : _0x30f76b[_0x18eba5(0x2a6)](_0x36d348, _0x1a3f83, _0x18ff0c)) : _0x18eba5(0x1e0) !== _0x36d348 && 'tagName' !== _0x36d348 && _0x18eba5(0x5b5) !== _0x36d348 && _0x18eba5(0x4c0) !== _0x36d348 && _0x18eba5(0x2cb) !== _0x36d348 && _0x18eba5(0x3ac) !== _0x36d348 && _0x18eba5(0x458) !== _0x36d348 && !_0x111e78 && _0x36d348 in _0x30f76b ? _0x30f76b[_0x36d348] = null == _0x4ddaa5 ? '' : _0x4ddaa5 : 'function' != typeof _0x4ddaa5 && _0x18eba5(0x47d) !== _0x36d348 && (_0x36d348 !== (_0x36d348 = _0x36d348[_0x18eba5(0x55c)](/xlink:?/, '')) ? null == _0x4ddaa5 || !0x1 === _0x4ddaa5 ? _0x30f76b[_0x18eba5(0x5df)](_0x18eba5(0x23f), _0x36d348['toLowerCase']()) : _0x30f76b[_0x18eba5(0x5eb)](_0x18eba5(0x23f), _0x36d348[_0x18eba5(0x553)](), _0x4ddaa5) : null == _0x4ddaa5 || !0x1 === _0x4ddaa5 && !/^ar/ [_0x18eba5(0x610)](_0x36d348) ? _0x30f76b[_0x18eba5(0x30c)](_0x36d348) : _0x30f76b[_0x18eba5(0x487)](_0x36d348, _0x4ddaa5));
 	}
 
-	function _0xa2fc5a(_0x5079b4) {
+	function _102fc5a(_0x5079b4) {
 		const _0x177239 = _0x817dbf;
 		this['l'][_0x5079b4[_0x177239(0x4c0)] + !0x1](_0x8b2f0b['event'] ? _0x8b2f0b['event'](_0x5079b4) : _0x5079b4);
 	}
@@ -440,7 +441,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			_0x1b52f9 = _0x1ae711[_0x3c0ec9(0x56a)];
 		if (_0xf729b8 = 'svg' === _0x1ae711['type'] || _0xf729b8, null != _0x3bde63) {
 			for (_0x4bce5b = 0x0; _0x4bce5b < _0x3bde63[_0x3c0ec9(0x44a)]; _0x4bce5b++)
-				if (null != (_0x4ad9c9 = _0x3bde63[_0x4bce5b]) && ((null === _0x1ae711[_0x3c0ec9(0x4c0)] ? 0x3 === _0x4ad9c9['nodeType'] : _0x4ad9c9['localName'] === _0x1ae711[_0x3c0ec9(0x4c0)]) || _0x184ba2 == _0x4ad9c9)) {
+				if (null != (_0x4ad9c9 = _0x3bde63[_0x4bce5b]) && ((null === _0x1ae711[_0x3c0ec9(0x4c0)] ? 3 === _0x4ad9c9['nodeType'] : _0x4ad9c9['localName'] === _0x1ae711[_0x3c0ec9(0x4c0)]) || _0x184ba2 == _0x4ad9c9)) {
 					_0x184ba2 = _0x4ad9c9, _0x3bde63[_0x4bce5b] = null;
 					break;
 				}
@@ -509,8 +510,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		var _0x430d9b, _0x294a7b, _0x199ca8, _0x424f4a = arguments,
 			_0x456f3a = _0x5cb94d({}, _0x48a0b7[_0xf9e38a(0x56a)]);
 		for (_0x199ca8 in _0x244079) _0xf9e38a(0x334) == _0x199ca8 ? _0x430d9b = _0x244079[_0x199ca8] : _0xf9e38a(0x33d) == _0x199ca8 ? _0x294a7b = _0x244079[_0x199ca8] : _0x456f3a[_0x199ca8] = _0x244079[_0x199ca8];
-		if (arguments[_0xf9e38a(0x44a)] > 0x3) {
-			for (_0x5c3fc9 = [_0x5c3fc9], _0x199ca8 = 0x3; _0x199ca8 < arguments[_0xf9e38a(0x44a)]; _0x199ca8++) _0x5c3fc9['push'](_0x424f4a[_0x199ca8]);
+		if (arguments[_0xf9e38a(0x44a)] > 3) {
+			for (_0x5c3fc9 = [_0x5c3fc9], _0x199ca8 = 3; _0x199ca8 < arguments[_0xf9e38a(0x44a)]; _0x199ca8++) _0x5c3fc9['push'](_0x424f4a[_0x199ca8]);
 		}
 		return null != _0x5c3fc9 && (_0x456f3a[_0xf9e38a(0x4f8)] = _0x5c3fc9), _0x1b1a9b(_0x48a0b7[_0xf9e38a(0x4c0)], _0x456f3a, _0x430d9b || _0x48a0b7[_0xf9e38a(0x334)], _0x294a7b || _0x48a0b7['ref'], null);
 	}
@@ -622,7 +623,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			}
 
 			function _0x194306(_0x3c410d) {
-				const _0x2d930e = a0_0x47bb;
+				const _0x2d930e = r459;
 				this[_0x2d930e(0x564)] = function() {
 					const _0x27b9bf = _0x2d930e;
 					return {
@@ -631,7 +632,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				};
 			}
 			_0x194306['prototype']['render'] = function(_0x257e06) {
-				const _0x428a0b = a0_0x47bb;
+				const _0x428a0b = r459;
 				return _0x257e06['children'] && _0x257e06['children'][0x0] || _0x257e06[_0x428a0b(0x4f8)];
 			}, _0x399563['createStore'] = function(_0x3bd02c) {
 				var _0x40da91 = [];
@@ -642,7 +643,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				}
 
 				function _0x4260e4(_0x3bed3a, _0x29e05e, _0x1f4f38) {
-					const _0x5e2852 = a0_0x47bb;
+					const _0x5e2852 = r459;
 					_0x3bd02c = _0x29e05e ? _0x3bed3a : _0x34a6b3(_0x34a6b3({}, _0x3bd02c), _0x3bed3a);
 					for (var _0x210990 = _0x40da91, _0x480bc3 = 0x0; _0x480bc3 < _0x210990[_0x5e2852(0x44a)]; _0x480bc3++) _0x210990[_0x480bc3](_0x3bd02c, _0x1f4f38);
 				}
@@ -652,7 +653,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 							_0x4260e4(_0x38b125, !0x1, _0x348f32);
 						}
 						return function() {
-							const _0x2f1073 = a0_0x47bb;
+							const _0x2f1073 = r459;
 							for (var _0x4e5f11 = arguments, _0x4f8481 = [_0x3bd02c], _0x47474e = 0x0; _0x47474e < arguments['length']; _0x47474e++) _0x4f8481['push'](_0x4e5f11[_0x47474e]);
 							var _0x4a4da2 = _0x348f32['apply'](this, _0x4f8481);
 							if (null != _0x4a4da2) return _0x4a4da2[_0x2f1073(0x4b4)] ? _0x4a4da2[_0x2f1073(0x4b4)](_0x2740ef) : _0x2740ef(_0x4a4da2);
@@ -660,7 +661,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					},
 					'setState': _0x4260e4,
 					'subscribe': function(_0x21ac48) {
-						const _0x13c998 = a0_0x47bb;
+						const _0x13c998 = r459;
 						return _0x40da91[_0x13c998(0x241)](_0x21ac48),
 							function() {
 								_0x5ab0ee(_0x21ac48);
@@ -682,7 +683,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						const _0x5c7d86 = _0x46422d;
 
 						function _0x1d5196(_0x269089, _0x43b94b) {
-							const _0x1a495c = a0_0x47bb;
+							const _0x1a495c = r459;
 							var _0x21b3ca = this,
 								_0x21c0e8 = _0x43b94b[_0x1a495c(0x51b)],
 								_0xb21ed5 = _0x2ebc81(_0x21c0e8 ? _0x21c0e8[_0x1a495c(0x251)]() : {}, _0x269089),
@@ -723,12 +724,12 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		_0x5da428 = 0x0,
 		_0x321ff0 = 0x1,
 		_0x1fe521 = 0x2,
-		_0xdd37bf = 0x3,
+		_0xdd37bf = 3,
 		_0x14da52 = 0x4,
-		_0x314425 = 0x5,
+		_0x314425 = 5,
 		_0x42e634 = 0x6,
 		_0x40fde3 = 0x7,
-		_0xffbf9f = 0xa,
+		_0xffbf9f = 10,
 		_0x5ab761 = 0xf0,
 		_0x2ea510 = Math['PI'] * 0x2 / _0x5ab761;
 
@@ -893,7 +894,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		_0x3d664f = (_0x514042, _0x224450, _0xb897db) => {
 			return new Promise((_0x2607a6, _0x4f5048) => {
 				var _0x3e85d2 = _0x2707c2 => {
-						const _0x249de2 = a0_0x47bb;
+						const _0x249de2 = r459;
 						try {
 							_0x10b37f(_0xb897db[_0x249de2(0x4b2)](_0x2707c2));
 						} catch (_0x29a31b) {
@@ -901,7 +902,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0x4f9b30 = _0x18a132 => {
-						const _0x558f23 = a0_0x47bb;
+						const _0x558f23 = r459;
 						try {
 							_0x10b37f(_0xb897db[_0x558f23(0x275)](_0x18a132));
 						} catch (_0x162a7d) {
@@ -909,7 +910,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0x10b37f = _0x20c3d1 => {
-						const _0x2d0668 = a0_0x47bb;
+						const _0x2d0668 = r459;
 						return _0x20c3d1['done'] ? _0x2607a6(_0x20c3d1[_0x2d0668(0x337)]) : Promise[_0x2d0668(0x44d)](_0x20c3d1[_0x2d0668(0x337)])[_0x2d0668(0x4b4)](_0x3e85d2, _0x4f9b30);
 					};
 				_0x10b37f((_0xb897db = _0xb897db['apply'](_0x514042, _0x224450))['next']());
@@ -931,9 +932,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		},
 		_0x5d6fe8 = _0x61ce04 => {
 			const _0x4071c0 = _0x817dbf,
-				_0x3f22a9 = parseInt(_0x61ce04[_0x4071c0(0x225)](0x1, 0x3), 0x10),
-				_0x2674e4 = parseInt(_0x61ce04[_0x4071c0(0x225)](0x3, 0x5), 0x10),
-				_0x2d095c = parseInt(_0x61ce04[_0x4071c0(0x225)](0x5, 0x7), 0x10);
+				_0x3f22a9 = parseInt(_0x61ce04[_0x4071c0(0x225)](0x1, 3), 0x10),
+				_0x2674e4 = parseInt(_0x61ce04[_0x4071c0(0x225)](3, 5), 0x10),
+				_0x2d095c = parseInt(_0x61ce04[_0x4071c0(0x225)](5, 0x7), 0x10);
 			return [_0x3f22a9, _0x2674e4, _0x2d095c];
 		},
 		_0x496be3 = ([_0x44c502, _0x1a3fe7, _0x20f1c1]) => {
@@ -945,8 +946,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				_0x5d4a57 = _0x3d7fd0 / _0x4cc414, _0x2357da = _0x2cd424(_0x16e6e0), _0x5957f9 = _0x2cd424(_0x211b91), _0x55e2ea = _0x2cd424(_0x7768e3);
 				if (_0x16e6e0 === _0x4cc414) _0x539289 = _0x55e2ea - _0x5957f9;
 				else {
-					if (_0x211b91 === _0x4cc414) _0x539289 = 0x1 / 0x3 + _0x2357da - _0x55e2ea;
-					else _0x7768e3 === _0x4cc414 && (_0x539289 = 0x2 / 0x3 + _0x5957f9 - _0x2357da);
+					if (_0x211b91 === _0x4cc414) _0x539289 = 0x1 / 3 + _0x2357da - _0x55e2ea;
+					else _0x7768e3 === _0x4cc414 && (_0x539289 = 0x2 / 3 + _0x5957f9 - _0x2357da);
 				}
 				if (_0x539289 < 0x0) _0x539289 += 0x1;
 				else _0x539289 > 0x1 && (_0x539289 -= 0x1);
@@ -955,7 +956,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		},
 		_0x400f8f = ([_0x4e42b8, _0x15287f, _0x129051]) => {
 			const _0x38c699 = _0x5a88a9 => {
-				const _0x2a9da3 = a0_0x47bb,
+				const _0x2a9da3 = r459,
 					_0x3a0d60 = _0x5a88a9['toString'](0x10);
 				return _0x3a0d60[_0x2a9da3(0x44a)] < 0x2 ? '0' + _0x3a0d60 : _0x3a0d60;
 			};
@@ -977,7 +978,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				case 0x2:
 					_0x5da301 = _0x117cb7, _0x154a62 = _0x229a12, _0x3380f1 = _0x2567fe;
 					break;
-				case 0x3:
+				case 3:
 					_0x5da301 = _0x117cb7, _0x154a62 = _0x265d84, _0x3380f1 = _0x229a12;
 					break;
 				case 0x4:
@@ -1018,7 +1019,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 
 	function _0x412fd3(_0x545df1) {
 		return new Promise(_0x53899e => {
-			const _0x3a10f4 = a0_0x47bb;
+			const _0x3a10f4 = r459;
 			let _0x23fd3d = document[_0x3a10f4(0x36b)](_0x3a10f4(0x323));
 			_0x23fd3d[_0x3a10f4(0x48a)] = _0x545df1, _0x23fd3d[_0x3a10f4(0x509)]()['then'](_0x58f930 => {
 				_0x53899e(_0x23fd3d);
@@ -1029,8 +1030,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		});
 	}
 
-	function _0x52f009([_0x378546, _0x17958d, _0x2f0a91], _0xa8dac4) {
-		return [_0x378546, _0x17958d, _0x2f0a91 * _0xa8dac4];
+	function _0x52f009([_0x378546, _0x17958d, _0x2f0a91], _108dac4) {
+		return [_0x378546, _0x17958d, _0x2f0a91 * _108dac4];
 	}
 
 	function _0x57763f([_0x1b9ed5, _0x3e82be, _0x4d0b06], _0xfea8d5) {
@@ -1051,7 +1052,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	function _0x1ad692(_0x5577be) {
 		const _0x1dc3ca = _0x817dbf;
 		return _0x5577be && _0x5577be[_0x1dc3ca(0x626)]('en-US', {
-			'maximumSignificantDigits': 0x8
+			'maximumSignificantDigits': 8
 		});
 	}
 
@@ -1146,7 +1147,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	function _0x2ca4f7(_0x3c4dc9, _0x9f53b5, _0x511a67) {
 		const _0x282be7 = _0x817dbf;
 		let _0x40cd61 = new Promise(_0x2b461d => {
-			const _0x1ae837 = a0_0x47bb;
+			const _0x1ae837 = r459;
 			try {
 				const _0x425059 = new XMLHttpRequest();
 				_0x425059['open'](_0x1ae837(0x396), _0x3c4dc9), _0x425059[_0x1ae837(0x239)] = () => {
@@ -1168,14 +1169,14 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	}
 
 	function _0x3ce9a6(_0x4cc63d, _0x6f221a) {
-		return _0x3d664f(this, arguments, function*(_0x3a0095, _0x571707, _0xa8d674 = {}) {
-			const _0x27e018 = a0_0x47bb;
+		return _0x3d664f(this, arguments, function*(_0x3a0095, _0x571707, _108d674 = {}) {
+			const _0x27e018 = r459;
 			try {
 				let _0x4c6a15 = yield fetch(_0x3a0095, _0x116683({
 					'method': _0x27e018(0x396),
 					'cache': _0x27e018(0x1cd),
 					'body': JSON[_0x27e018(0x266)](_0x571707)
-				}, _0xa8d674));
+				}, _108d674));
 				return _0x4c6a15[_0x27e018(0x501)]();
 			} catch (_0x1b2442) {
 				return _0x1b2442;
@@ -1197,7 +1198,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		const _0x34cf7b = _0x817dbf;
 		return _0x33de95[_0x34cf7b(0x62a)]('')[_0x34cf7b(0x349)]((_0x5258c8, _0x2d9fd3) => {
 			const _0x4c7406 = _0x34cf7b;
-			return _0x5258c8 = (_0x5258c8 << 0x5) - _0x5258c8 + _0x2d9fd3[_0x4c7406(0x470)](0x0), _0x5258c8 & _0x5258c8;
+			return _0x5258c8 = (_0x5258c8 << 5) - _0x5258c8 + _0x2d9fd3[_0x4c7406(0x470)](0x0), _0x5258c8 & _0x5258c8;
 		}, 0x0);
 	}
 
@@ -1227,8 +1228,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	var _0x16536d = Object[_0x817dbf(0x5c5)],
 		_0x48edd9 = Object[_0x817dbf(0x23e)],
 		_0x5b61e8 = (_0x1c08b1, _0x32f403, _0x25188b) => {
-			const _0xa3d6ad = _0x817dbf;
-			if (typeof _0x32f403 !== _0xa3d6ad(0x491)) _0x32f403 += '';
+			const _103d6ad = _0x817dbf;
+			if (typeof _0x32f403 !== _103d6ad(0x491)) _0x32f403 += '';
 			if (_0x32f403 in _0x1c08b1) return _0x16536d(_0x1c08b1, _0x32f403, {
 				'enumerable': !![],
 				'configurable': !![],
@@ -1255,12 +1256,12 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			return this[_0x553374(0x47f)][_0x5449bf]['earned'];
 		} ['update'](_0x5c5589, _0x6f04ef) {
 			const _0x40dfa7 = _0x817dbf;
-			this[_0x40dfa7(0x474)] = this[_0x40dfa7(0x474)][_0x40dfa7(0x4d6)](_0xa9279f => {
+			this[_0x40dfa7(0x474)] = this[_0x40dfa7(0x474)][_0x40dfa7(0x4d6)](_109279f => {
 				const _0x390236 = _0x40dfa7;
-				let _0x1e4704 = _0xa9279f[_0x390236(0x1de)](_0x5c5589, _0x6f04ef, this);
+				let _0x1e4704 = _109279f[_0x390236(0x1de)](_0x5c5589, _0x6f04ef, this);
 				if (_0x1e4704) return this[_0x390236(0x360)]['emit']({
 					'event': 'achievement',
-					'name': _0xa9279f['name']
+					'name': _109279f['name']
 				}), this[_0x390236(0x607)](), ![];
 				return !![];
 			});
@@ -1664,10 +1665,10 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			const _0x4674a8 = _0x817dbf;
 			let _0x1a9608 = this[_0x4674a8(0x64d)][_0x4674a8(0x65e)][_0x4674a8(0x64d)],
 				_0x712d7b = _0x1a9608 instanceof _0x1a8050 ? _0x1a9608['game'] : _0x1a9608[_0x4674a8(0x568)][_0x4674a8(0x547)];
-			for (let _0x329b2a = 0x0; _0x329b2a < 0x3; _0x329b2a++) {
+			for (let _0x329b2a = 0x0; _0x329b2a < 3; _0x329b2a++) {
 				let _0x4aeab9 = {
 						'start': _0x19cbc3,
-						'end': new _0x3b68f2(_0x712d7b['space'][_0x4674a8(0x3fd)] * 0.99, _0x19cbc3['y'] + Math[_0x4674a8(0x3bf)](0x1, Math[_0x4674a8(0x301)](Math[_0x4674a8(0x58e)](_0x712d7b[_0x4674a8(0x50a)]) * 0xa, _0x712d7b['space'][_0x4674a8(0x532)] - 0x1)))
+						'end': new _0x3b68f2(_0x712d7b['space'][_0x4674a8(0x3fd)] * 0.99, _0x19cbc3['y'] + Math[_0x4674a8(0x3bf)](0x1, Math[_0x4674a8(0x301)](Math[_0x4674a8(0x58e)](_0x712d7b[_0x4674a8(0x50a)]) * 10, _0x712d7b['space'][_0x4674a8(0x532)] - 0x1)))
 					},
 					_0x401254 = _0x712d7b[_0x4674a8(0x25c)][_0x4674a8(0x5cc)](_0x4aeab9)[_0x4674a8(0x567)]((_0x43d8d1, _0x574f5e) => _0x43d8d1[_0x4674a8(0x401)]['x'] - _0x574f5e[_0x4674a8(0x401)]['y']);
 				_0x401254 = _0x401254['filter'](_0x441412 => _0x441412[_0x4674a8(0x3aa)][_0x4674a8(0x281)] == this);
@@ -1773,10 +1774,10 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			if (this['end']) this[_0x36f971(0x35c)][_0x36f971(0x241)](new _0x1b8cdf(this['end'], _0x2c6a34, this));
 			else this[_0x36f971(0x267)] = _0x2c6a34;
 			return this[_0x36f971(0x256)] = _0x2c6a34, this[_0x36f971(0x36d)](_0x2c6a34['at']), !![];
-		} [_0x817dbf(0x6a1)](_0xa3ff45) {
+		} [_0x817dbf(0x6a1)](_103ff45) {
 			const _0x31d2ec = _0x817dbf;
-			this[_0x31d2ec(0x35c)] = _0x1b8cdf[_0x31d2ec(0x328)](_0xa3ff45, this), this[_0x31d2ec(0x256)] = this[_0x31d2ec(0x35c)][this[_0x31d2ec(0x35c)][_0x31d2ec(0x44a)] - 0x1][_0x31d2ec(0x256)];
-			for (let _0xccaa9 of _0xa3ff45) this[_0x31d2ec(0x36d)](new _0x3b68f2(_0xccaa9['at']['x'], _0xccaa9['at']['y']));
+			this[_0x31d2ec(0x35c)] = _0x1b8cdf[_0x31d2ec(0x328)](_103ff45, this), this[_0x31d2ec(0x256)] = this[_0x31d2ec(0x35c)][this[_0x31d2ec(0x35c)][_0x31d2ec(0x44a)] - 0x1][_0x31d2ec(0x256)];
+			for (let _0xccaa9 of _103ff45) this[_0x31d2ec(0x36d)](new _0x3b68f2(_0xccaa9['at']['x'], _0xccaa9['at']['y']));
 			return this;
 		} [_0x817dbf(0x3f8)]() {
 			const _0x55eb79 = _0x817dbf;
@@ -1815,7 +1816,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			return this[_0x31900b(0x65e)][_0x31900b(0x38b)];
 		} ['remove']() {
 			this['polygon']['remove']();
-		} [_0x817dbf(0x362)](_0x516308, _0xa59016) {
+		} [_0x817dbf(0x362)](_0x516308, _1059016) {
 			const _0x267c45 = _0x817dbf;
 			if (_0x516308['death'] || this['unit']['death']) debugger;
 			return _0x516308 == this[_0x267c45(0x568)] ? this[_0x267c45(0x3cf)]() : this[_0x267c45(0x4dc)](_0x516308);
@@ -1910,7 +1911,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			if (_0x45d8b5 == this[_0x1a056a(0x568)]) {
 				let _0x5d154e = this[_0x1a056a(0x568)]['tail'][_0x1a056a(0x469)]() && _0x198019[_0x1a056a(0x3aa)] != _0x45d8b5['tail'][_0x1a056a(0x252)][_0x1a056a(0x5ec)]();
 				if (!_0x5d154e) return;
-				const _0x2d4077 = _0x45d8b5[_0x1a056a(0x547)][_0x1a056a(0x22f)]['radius'] - _0x45d8b5['at'][_0x1a056a(0x32e)](_0x45d8b5['game'][_0x1a056a(0x25c)][_0x1a056a(0x3bd)]) < 0x5 ? _0x1fe521 : _0x321ff0;
+				const _0x2d4077 = _0x45d8b5[_0x1a056a(0x547)][_0x1a056a(0x22f)]['radius'] - _0x45d8b5['at'][_0x1a056a(0x32e)](_0x45d8b5['game'][_0x1a056a(0x25c)][_0x1a056a(0x3bd)]) < 5 ? _0x1fe521 : _0x321ff0;
 				this[_0x1a056a(0x568)]['kill'](void 0x0, _0x2d4077);
 			} else this['unit'][_0x1a056a(0x1cc)](_0x45d8b5, _0xdd37bf), _0x45d8b5['in'] == this[_0x1a056a(0x568)][_0x1a056a(0x218)] && (_0x45d8b5['in'] = null);
 		} [_0x817dbf(0x469)]() {
@@ -1957,23 +1958,23 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					scale: _0x456101
 				} = this;
 			let _0xe90b86 = _0x258e39[_0xd5938e(0x303)]();
-			_0x258e39[_0xd5938e(0x699)](_0x278583, _0x4c1c09), _0x258e39['rotate'](_0x221fcc), _0x258e39['scale'](_0x456101, _0x456101), typeof _0x52d2a0 === 'string' ? (_0x258e39['fillStyle'] !== _0x52d2a0 && (_0x258e39[_0xd5938e(0x581)] = _0x52d2a0), _0x258e39[_0xd5938e(0x52b)](_0x1a1176())) : (_0x258e39[_0xd5938e(0x5ac)](0x3 / _0x52d2a0[_0xd5938e(0x3fd)], 0x3 / _0x52d2a0[_0xd5938e(0x3fd)]), _0x258e39[_0xd5938e(0x25d)](_0x52d2a0, -_0x52d2a0[_0xd5938e(0x3fd)] / 0x2, -_0x52d2a0[_0xd5938e(0x532)] / 0x2)), _0x258e39['setTransform'](_0xe90b86);
+			_0x258e39[_0xd5938e(0x699)](_0x278583, _0x4c1c09), _0x258e39['rotate'](_0x221fcc), _0x258e39['scale'](_0x456101, _0x456101), typeof _0x52d2a0 === 'string' ? (_0x258e39['fillStyle'] !== _0x52d2a0 && (_0x258e39[_0xd5938e(0x581)] = _0x52d2a0), _0x258e39[_0xd5938e(0x52b)](_0x1a1176())) : (_0x258e39[_0xd5938e(0x5ac)](3 / _0x52d2a0[_0xd5938e(0x3fd)], 3 / _0x52d2a0[_0xd5938e(0x3fd)]), _0x258e39[_0xd5938e(0x25d)](_0x52d2a0, -_0x52d2a0[_0xd5938e(0x3fd)] / 0x2, -_0x52d2a0[_0xd5938e(0x532)] / 0x2)), _0x258e39['setTransform'](_0xe90b86);
 		}
-		static[_0x817dbf(0x2b5)](_0x5d6a62, _0x3d612f, _0xa79b59) {
+		static[_0x817dbf(0x2b5)](_0x5d6a62, _0x3d612f, _1079b59) {
 			const _0x2d842b = _0x817dbf,
 				_0x5e01d8 = Math[_0x2d842b(0x26c)](Math[_0x2d842b(0x4c8)]() - 0.5),
-				_0x5b80ae = (_0x5d6a62['skin'] ? _0x5d6a62[_0x2d842b(0x4ce)][_0x2d842b(0x66e)][_0x2d842b(0x1ee)] : 0x1) * _0xa79b59,
+				_0x5b80ae = (_0x5d6a62['skin'] ? _0x5d6a62[_0x2d842b(0x4ce)][_0x2d842b(0x66e)][_0x2d842b(0x1ee)] : 0x1) * _1079b59,
 				{
 					unitSpeed: cfg.speed,
 					baseHeight: _0x2b66b9
 				} = _0x5d6a62[_0x2d842b(0x547)][_0x2d842b(0x5bf)];
 			let _0x25fde2 = _0x3b68f2['delta'](_0x3d612f[_0x2d842b(0x267)], _0x3d612f[_0x2d842b(0x256)]);
-			const _0x419e7b = _0x25fde2['clone']()['normalize']()[_0x2d842b(0x6a0)](_0x5e01d8 * Math[_0x2d842b(0x4c8)]() * (Math['PI'] / 0x1e))[_0x2d842b(0x5ac)](_0x26cb82 * (0x1 + Math['random']())),
+			const _0x419e7b = _0x25fde2['clone']()['normalize']()[_0x2d842b(0x6a0)](_0x5e01d8 * Math[_0x2d842b(0x4c8)]() * (Math['PI'] / 30))[_0x2d842b(0x5ac)](_0x26cb82 * (0x1 + Math['random']())),
 				_0x664dd4 = _0x25fde2[_0x2d842b(0x1e7)]()[_0x2d842b(0x6a0)](Math['PI'] / 0x2)[_0x2d842b(0x20d)]()[_0x2d842b(0x5ac)](_0x5e01d8 * Math['random']() * _0x5b80ae / 0x2),
 				_0x1b64a1 = _0x25fde2['clone']()[_0x2d842b(0x20d)]()[_0x2d842b(0x5ac)](_0x5b80ae / 0x2),
-				_0x647d7f = _0x25fde2[_0x2d842b(0x1e7)]()['normalize']()['scale'](_0x26cb82 * -0x6)['rotate'](_0x5e01d8 * Math['random']() * (Math['PI'] / 0xa)),
+				_0x647d7f = _0x25fde2[_0x2d842b(0x1e7)]()['normalize']()['scale'](_0x26cb82 * -0x6)['rotate'](_0x5e01d8 * Math['random']() * (Math['PI'] / 10)),
 				_0x58aea1 = 0.75 + Math[_0x2d842b(0x4c8)]() * 0.5,
-				_0x536277 = new _0x287cf4(null, _0x5d6a62['in'][_0x2d842b(0x568)], _0x3d612f[_0x2d842b(0x267)]['clone']()[_0x2d842b(0x4c9)](_0x664dd4)[_0x2d842b(0x4c9)](_0x1b64a1)[_0x2d842b(0x4c9)](new _0x3b68f2(0x0, -_0x2b66b9)), _0x419e7b, _0x647d7f, Math['PI'] + Math[_0x2d842b(0x4c8)]() * Math['PI'], _0x58aea1, -0x2 * _0x58aea1, 0x12c);
+				_0x536277 = new _0x287cf4(null, _0x5d6a62['in'][_0x2d842b(0x568)], _0x3d612f[_0x2d842b(0x267)]['clone']()[_0x2d842b(0x4c9)](_0x664dd4)[_0x2d842b(0x4c9)](_0x1b64a1)[_0x2d842b(0x4c9)](new _0x3b68f2(0x0, -_0x2b66b9)), _0x419e7b, _0x647d7f, Math['PI'] + Math[_0x2d842b(0x4c8)]() * Math['PI'], _0x58aea1, -0x2 * _0x58aea1, 300);
 			return _0x536277;
 		}
 	}
@@ -1989,12 +1990,12 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			_0x2adfd1[_0x7cb10a(0x51e)](_0x18ac7b => {
 				const _0x229dd5 = _0x7cb10a;
 				_0x323932 += _0x18ac7b[_0x229dd5(0x31f)][_0x229dd5(0x613)]();
-				if (_0x323932 > 0x5) {
+				if (_0x323932 > 5) {
 					_0x323932 = 0x0;
 					const _0x4a3e2e = _0x18ac7b[_0x229dd5(0x31f)][_0x229dd5(0x1e7)]()[_0x229dd5(0x20d)]()[_0x229dd5(0x6a0)](Math['sign'](Math[_0x229dd5(0x4c8)]() - 0.5) * Math['PI'] / 0x2)[_0x229dd5(0x5ac)](0x19 + Math[_0x229dd5(0x4c8)]() * 0x64);
 					Math['random']() > 0.25 && _0x4a3e2e[_0x229dd5(0x5ac)](0.1);
-					const _0x6353cf = (_0x29aa50 ? 0x3 : 0x1) * (0x1 + Math[_0x229dd5(0x4c8)]() * 0.5),
-						_0x35a82b = 0x1f4 + Math['random']() * 0x1f4,
+					const _0x6353cf = (_0x29aa50 ? 3 : 0x1) * (0x1 + Math[_0x229dd5(0x4c8)]() * 0.5),
+						_0x35a82b = 500 + Math['random']() * 500,
 						_0x4f0918 = -_0x6353cf * 0.7 * (0x3e8 / _0x35a82b),
 						_0x12e4b5 = new _0x287cf4(null, _0x3b9ff1, _0x18ac7b[_0x229dd5(0x267)]['at'][_0x229dd5(0x1e7)](), _0x4a3e2e, null, Math['PI'] * 0x2 * (0x1 + Math[_0x229dd5(0x4c8)]()) * Math['sign'](Math[_0x229dd5(0x4c8)]() - 0.5 || 0x1), _0x6353cf, _0x4f0918, _0x35a82b, _0x1325e4 => {
 							const _0x4a0a99 = _0x229dd5;
@@ -2139,7 +2140,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			if (_0x1eece4[_0x3a2077(0x568)] && _0x1eece4['unit']['in'] === _0x1eece4['unit'][_0x3a2077(0x218)]) return ![];
 			return _0x1eece4['maxDanger'] > 0.8 * _0x1eece4[_0x3a2077(0x4c2)];
 		};
-	var _0xa3d4da = {
+	var _103d4da = {
 			'idle': {
 				'enter': function() {
 					return {};
@@ -2155,7 +2156,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						_0x5170e4 = _0xe3590a['unit']['at'][_0x220aaa(0x1e7)]()['sub'](_0xe3590a[_0x220aaa(0x568)][_0x220aaa(0x547)][_0x220aaa(0x25c)][_0x220aaa(0x3bd)]),
 						_0xc2e5bb = {
 							'start': _0xe3590a[_0x220aaa(0x568)]['at'],
-							'end': _0x5170e4[_0x220aaa(0x20d)]()[_0x220aaa(0x5ac)](_0xe3590a['unit'][_0x220aaa(0x547)][_0x220aaa(0x22f)][_0x220aaa(0x425)] + 0xa)[_0x220aaa(0x4c9)](_0xe3590a[_0x220aaa(0x568)][_0x220aaa(0x547)][_0x220aaa(0x25c)]['center'])
+							'end': _0x5170e4[_0x220aaa(0x20d)]()[_0x220aaa(0x5ac)](_0xe3590a['unit'][_0x220aaa(0x547)][_0x220aaa(0x22f)][_0x220aaa(0x425)] + 10)[_0x220aaa(0x4c9)](_0xe3590a[_0x220aaa(0x568)][_0x220aaa(0x547)][_0x220aaa(0x25c)]['center'])
 						},
 						_0x4c11a3 = _0xe3590a[_0x220aaa(0x568)][_0x220aaa(0x218)][_0x220aaa(0x65e)]['intersections'](_0xc2e5bb),
 						_0x221c36 = {};
@@ -2171,8 +2172,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				'update': function(_0x23af14, _0x17a2de) {
 					const _0x2d3e33 = _0x817dbf;
 					if (_0x23af14['unit']['in'] !== _0x23af14[_0x2d3e33(0x568)][_0x2d3e33(0x218)]) return 'capture';
-					const _0xac4fea = _0x23af14[_0x2d3e33(0x568)]['at'][_0x2d3e33(0x32e)](_0x23af14[_0x2d3e33(0x568)][_0x2d3e33(0x547)][_0x2d3e33(0x25c)][_0x2d3e33(0x3bd)]),
-						_0x555d06 = _0x23af14['unit'][_0x2d3e33(0x547)][_0x2d3e33(0x22f)]['radius'] - _0xac4fea;
+					const _10c4fea = _0x23af14[_0x2d3e33(0x568)]['at'][_0x2d3e33(0x32e)](_0x23af14[_0x2d3e33(0x568)][_0x2d3e33(0x547)][_0x2d3e33(0x25c)][_0x2d3e33(0x3bd)]),
+						_0x555d06 = _0x23af14['unit'][_0x2d3e33(0x547)][_0x2d3e33(0x22f)]['radius'] - _10c4fea;
 					_0x23af14[_0x2d3e33(0x61e)] = _0x17a2de[_0x2d3e33(0x536)]['at'];
 				}
 			},
@@ -2218,7 +2219,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					} = _0x450e9f['unit']['game'][_0x3fa9ad(0x25c)], {
 						radius: _0x2f5cc3
 					} = _0x450e9f[_0x3fa9ad(0x568)][_0x3fa9ad(0x547)][_0x3fa9ad(0x22f)], _0x3947a9 = _0x450e9f[_0x3fa9ad(0x568)]['at'][_0x3fa9ad(0x32e)](_0x4fe099), _0x275145 = _0x2f5cc3 - _0x3947a9;
-					if (_0x450e9f[_0x3fa9ad(0x67d)] < _0x271e67 / 0x4 && _0x450e9f['unit']['tail'][_0x3fa9ad(0x44a)] > _0x271e67 * 0x2 && _0x275145 > 0xa) return console['log'](_0x3fa9ad(0x3e5)), _0x3fa9ad(0x5c1);
+					if (_0x450e9f[_0x3fa9ad(0x67d)] < _0x271e67 / 0x4 && _0x450e9f['unit']['tail'][_0x3fa9ad(0x44a)] > _0x271e67 * 0x2 && _0x275145 > 10) return console['log'](_0x3fa9ad(0x3e5)), _0x3fa9ad(0x5c1);
 					const _0x5891b1 = 0x19,
 						_0x49457f = _0x5891b1 / 0x2,
 						_0x5e94f8 = _0x49457f * _0x49457f;
@@ -2238,7 +2239,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						def: _0x31f5f3,
 						greed: _0x4617f6,
 						safety: _0x1fad42
-					} = _0x450e9f, _0x2034f6 = 0x2 * Math['PI'] * _0x450e9f['unit'][_0x3fa9ad(0x270)] * _0x4617f6, _0xe88c47 = _0x450e9f[_0x3fa9ad(0x568)]['tail'][_0x3fa9ad(0x44a)] / _0x2034f6, _0x505ef6 = Math[_0x3fa9ad(0x301)](_0x450e9f['unit']['base'][_0x3fa9ad(0x38b)], Math['PI'] * _0x450e9f[_0x3fa9ad(0x568)][_0x3fa9ad(0x270)] * _0x450e9f[_0x3fa9ad(0x568)]['vrange']) * _0x4617f6, _0x39dc5a = _0x450e9f[_0x3fa9ad(0x556)] / _0x505ef6, _0x1499b0 = _0x450e9f[_0x3fa9ad(0x568)][_0x3fa9ad(0x270)] * _0x13ef36(0x3, 0.7, _0x1fad42), _0x46202f = _0x450e9f['unit']['at'][_0x3fa9ad(0x32e)](_0x450e9f[_0x3fa9ad(0x568)][_0x3fa9ad(0x389)][_0x3fa9ad(0x252)][_0x3fa9ad(0x267)]) / _0x1499b0, _0x54a264 = _0x450e9f[_0x3fa9ad(0x498)]['reduce']((_0x410e60, _0x6b246d) => Math[_0x3fa9ad(0x301)](_0x6b246d['trackDistance'], _0x410e60), Infinity) * 0.8 * _0x31f5f3, _0x106a2b = _0x450e9f[_0x3fa9ad(0x67d)] / _0x54a264, _0x1ebc9c = Math[_0x3fa9ad(0x3bf)](_0xe88c47, _0x39dc5a, _0x46202f, _0x106a2b); {
+					} = _0x450e9f, _0x2034f6 = 0x2 * Math['PI'] * _0x450e9f['unit'][_0x3fa9ad(0x270)] * _0x4617f6, _0xe88c47 = _0x450e9f[_0x3fa9ad(0x568)]['tail'][_0x3fa9ad(0x44a)] / _0x2034f6, _0x505ef6 = Math[_0x3fa9ad(0x301)](_0x450e9f['unit']['base'][_0x3fa9ad(0x38b)], Math['PI'] * _0x450e9f[_0x3fa9ad(0x568)][_0x3fa9ad(0x270)] * _0x450e9f[_0x3fa9ad(0x568)]['vrange']) * _0x4617f6, _0x39dc5a = _0x450e9f[_0x3fa9ad(0x556)] / _0x505ef6, _0x1499b0 = _0x450e9f[_0x3fa9ad(0x568)][_0x3fa9ad(0x270)] * _0x13ef36(3, 0.7, _0x1fad42), _0x46202f = _0x450e9f['unit']['at'][_0x3fa9ad(0x32e)](_0x450e9f[_0x3fa9ad(0x568)][_0x3fa9ad(0x389)][_0x3fa9ad(0x252)][_0x3fa9ad(0x267)]) / _0x1499b0, _0x54a264 = _0x450e9f[_0x3fa9ad(0x498)]['reduce']((_0x410e60, _0x6b246d) => Math[_0x3fa9ad(0x301)](_0x6b246d['trackDistance'], _0x410e60), Infinity) * 0.8 * _0x31f5f3, _0x106a2b = _0x450e9f[_0x3fa9ad(0x67d)] / _0x54a264, _0x1ebc9c = Math[_0x3fa9ad(0x3bf)](_0xe88c47, _0x39dc5a, _0x46202f, _0x106a2b); {
 						_0x450e9f['factors'] = 'l\x20' + _0xe88c47[_0x3fa9ad(0x432)](0x1) + _0x3fa9ad(0x40c) + _0x39dc5a[_0x3fa9ad(0x432)](0x1) + _0x3fa9ad(0x511) + _0x46202f[_0x3fa9ad(0x432)](0x1) + _0x3fa9ad(0x464) + _0x106a2b[_0x3fa9ad(0x432)](0x1);
 					}
 					if (_0x1ebc9c > 0x1) return _0x3fa9ad(0x5c1);
@@ -2255,7 +2256,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 							let _0x344e99 = Math['PI'] / 0x4;
 							const _0x271331 = _0x450e9f[_0x3fa9ad(0x568)]['tail'][_0x3fa9ad(0x44a)] / _0x1cb3b7;
 							_0x271331 < 0x1 && (_0x450e9f[_0x3fa9ad(0x497)] = 'РѕС‚СЃС‚СЂРµР»', _0x344e99 = _0x13ef36(Math['PI'] / 0x2 * _0x4617f6, 0x0, _0x271331)), _0x29d9a1 = _0x450e9f[_0x3fa9ad(0x26a)][_0x3fa9ad(0x1e7)]()[_0x3fa9ad(0x5ac)](_0x5891b1)['rotate']((Math['PI'] / 0x2 - _0x344e99) * _0x1b4982);
-						} else _0x450e9f[_0x3fa9ad(0x497)] = _0x3fa9ad(0x519), _0x29d9a1 = _0x450e9f[_0x3fa9ad(0x26a)][_0x3fa9ad(0x1e7)]()[_0x3fa9ad(0x5ac)](_0x5891b1)[_0x3fa9ad(0x6a0)](Math['PI'] / 0x2 * _0x1b4982), _0x450e9f[_0x3fa9ad(0x302)] = 0x1 + 0x3 * (0x1 - Math[_0x3fa9ad(0x301)](0x1, _0x450e9f['maxDanger']));
+						} else _0x450e9f[_0x3fa9ad(0x497)] = _0x3fa9ad(0x519), _0x29d9a1 = _0x450e9f[_0x3fa9ad(0x26a)][_0x3fa9ad(0x1e7)]()[_0x3fa9ad(0x5ac)](_0x5891b1)[_0x3fa9ad(0x6a0)](Math['PI'] / 0x2 * _0x1b4982), _0x450e9f[_0x3fa9ad(0x302)] = 0x1 + 3 * (0x1 - Math[_0x3fa9ad(0x301)](0x1, _0x450e9f['maxDanger']));
 					}
 					_0x450e9f['smoothness'] = 0x1 + 0x1 * (0x1 - Math['min'](0x1, _0x450e9f[_0x3fa9ad(0x1d3)])), _0x450e9f[_0x3fa9ad(0x61e)] = _0x450e9f['unit']['at']['clone']()['add'](_0x29d9a1);
 					if (_0x450e9f['target'][_0x3fa9ad(0x32e)](_0x4fe099) > _0x2f5cc3 + _0x5891b1 * 0.75) {
@@ -2266,7 +2267,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 							_0x51af44 = Math[_0x3fa9ad(0x39c)](_0x2f5cc3 * _0x2f5cc3 - _0xba3e4c * _0xba3e4c),
 							_0x50f987 = _0x450e9f[_0x3fa9ad(0x568)]['at'][_0x3fa9ad(0x1e7)]()[_0x3fa9ad(0x615)](_0x4fe099)[_0x3fa9ad(0x20d)](),
 							_0x31f94c = _0x4fe099[_0x3fa9ad(0x1e7)]()['add'](_0x50f987['clone']()[_0x3fa9ad(0x5ac)](_0xba3e4c));
-						_0x29d9a1 = _0x50f987[_0x3fa9ad(0x1e7)]()[_0x3fa9ad(0x6a0)](Math['PI'] / 0x2 * _0x19d530)[_0x3fa9ad(0x6a0)](Math['PI'] / 0x8 * -_0x19d530)[_0x3fa9ad(0x5ac)](_0x51af44), _0x450e9f[_0x3fa9ad(0x61e)] = _0x31f94c[_0x3fa9ad(0x1e7)]()[_0x3fa9ad(0x4c9)](_0x29d9a1);
+						_0x29d9a1 = _0x50f987[_0x3fa9ad(0x1e7)]()[_0x3fa9ad(0x6a0)](Math['PI'] / 0x2 * _0x19d530)[_0x3fa9ad(0x6a0)](Math['PI'] / 8 * -_0x19d530)[_0x3fa9ad(0x5ac)](_0x51af44), _0x450e9f[_0x3fa9ad(0x61e)] = _0x31f94c[_0x3fa9ad(0x1e7)]()[_0x3fa9ad(0x4c9)](_0x29d9a1);
 					} else {
 						if (_0x450e9f[_0x3fa9ad(0x61e)]['distance'](_0x4fe099) > _0x2f5cc3 && _0x450e9f[_0x3fa9ad(0x61e)]['distance'](_0x4fe099) < _0x2f5cc3 + _0x5891b1 * 0.5);
 					}
@@ -2337,7 +2338,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	class _0x52029b extends _0x5c064b {
 		constructor(_0x360d80, _0x31a34c, _0x2a46ac) {
 			const _0x35f40b = _0x817dbf;
-			super(_0x360d80), _0x55e0cf(this, _0x35f40b(0x556)), _0x55e0cf(this, _0x35f40b(0x497)), _0x55e0cf(this, _0x35f40b(0x2d0)), _0x55e0cf(this, 'factors'), _0x55e0cf(this, 'level', 0x0), _0x55e0cf(this, _0x35f40b(0x61e)), this[_0x35f40b(0x673)] = _0x3e9d48(_0x2a46ac), this[_0x35f40b(0x273)] = 0x0, this['greed'] = 0x0, this[_0x35f40b(0x4ed)] = 0x0, this[_0x35f40b(0x4c2)] = 0x0, this[_0x35f40b(0x5b1)] = 0.1 * (0x2 * this['rng']() - 0x1), this['type'] = _0x31a34c, this['targets'] = [], this['smoothness'] = 0x1, this[_0x35f40b(0x1d3)] = 0x0, this['unitDanger'] = null, this['ai'] = new _0x116df5(_0xa3d4da, 'idle', this);
+			super(_0x360d80), _0x55e0cf(this, _0x35f40b(0x556)), _0x55e0cf(this, _0x35f40b(0x497)), _0x55e0cf(this, _0x35f40b(0x2d0)), _0x55e0cf(this, 'factors'), _0x55e0cf(this, 'level', 0x0), _0x55e0cf(this, _0x35f40b(0x61e)), this[_0x35f40b(0x673)] = _0x3e9d48(_0x2a46ac), this[_0x35f40b(0x273)] = 0x0, this['greed'] = 0x0, this[_0x35f40b(0x4ed)] = 0x0, this[_0x35f40b(0x4c2)] = 0x0, this[_0x35f40b(0x5b1)] = 0.1 * (0x2 * this['rng']() - 0x1), this['type'] = _0x31a34c, this['targets'] = [], this['smoothness'] = 0x1, this[_0x35f40b(0x1d3)] = 0x0, this['unitDanger'] = null, this['ai'] = new _0x116df5(_103d4da, 'idle', this);
 		} [_0x817dbf(0x1de)]() {
 			const _0x47e0a9 = _0x817dbf;
 			let _0x4194d0 = 0x0,
@@ -2408,7 +2409,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				case 0x2:
 					_0x457625 *= 0x2, _0x2457de *= 1.1, _0x5913b2 *= 0.75, _0x1da3e9 *= 0.75;
 					break;
-				case 0x3:
+				case 3:
 					_0x18a80c *= 0.75, _0x245283 *= 0.75, _0x457625 *= 0x4, _0x2457de *= 1.1, _0x5913b2 *= 0.5, _0x1da3e9 *= 0.5, _0x528e46 *= 0x2, _0x5a0bf0 *= 0x2;
 					break;
 			}
@@ -2457,8 +2458,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			const _0xb13920 = _0x817dbf;
 			return this[_0xb13920(0x577)];
 		} ['rank']() {
-			const _0x12c601 = _0x817dbf;
-			return this['game'][_0x12c601(0x440)]['indexOf'](this) + 0x1;
+			const _300601 = _0x817dbf;
+			return this['game'][_300601(0x440)]['indexOf'](this) + 0x1;
 		} ['extrapolateAt'](_0x178413, _0x31b20c) {
 			const _0x51f17e = _0x817dbf;
 			if (this[_0x51f17e(0x68e)]) return this['at'];
@@ -2541,9 +2542,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					'end': _0x39bb74[_0xdb4e60(0x1e7)]()
 				}),
 				_0x9793ad = _0x503363[_0x503363[_0xdb4e60(0x44a)] - 0x1],
-				_0x12ce0f = this['at']['distance'](_0x39bb74),
+				_300e0f = this['at']['distance'](_0x39bb74),
 				_0x2f8700 = this['at']['distance'](_0x9793ad);
-			this['realSpeedRatio'] = _0x2f8700 / _0x12ce0f;
+			this['realSpeedRatio'] = _0x2f8700 / _300e0f;
 			for (let _0x23e2ee of this[_0xdb4e60(0x547)][_0xdb4e60(0x24b)]) {
 				if (_0x23e2ee != this && _0x23e2ee[_0xdb4e60(0x50f)] < 0x1 && _0x4c570f(_0x23e2ee['at'], {
 						'start': this['at'],
@@ -2555,7 +2556,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			const _0x47ca86 = _0x817dbf;
 			if (_0x2bd66b['length'] < 0x0) debugger;
 			let _0x552437 = _0x1ea3ef(_0x2bd66b, (_0x4e25da, _0x12406d) => {
-				const _0x338e13 = a0_0x47bb;
+				const _0x338e13 = r459;
 				let _0x415a7e = _0x4e25da[_0x338e13(0x32e)] - _0x12406d['distance'];
 				if (_0x55876d(_0x415a7e)) {
 					let _0x3a465c = _0x4e25da[_0x338e13(0x3aa)]['shape'][_0x338e13(0x64d)],
@@ -2759,8 +2760,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			this['vrange'] = 0.8 * (Math[_0x3fd81c(0x39c)](0x556 * 0x556 + 0x300 * 0x300) / 0x2 / this[_0x3fd81c(0x5ac)]), this[_0x3fd81c(0x30b)] && this['schemes'][_0x3fd81c(0x1de)](_0x3f5188);
 			if (this[_0x3fd81c(0x38d)][_0x3fd81c(0x44a)]) {
 				let _0x1e0e40 = new _0x3b68f2(0x0, -0x23);
-				const _0x1c7233 = new _0x3b68f2(0x0, -0xa),
-					_0x544a93 = new _0x3b68f2(0x0, -0xa);
+				const _0x1c7233 = new _0x3b68f2(0x0, -10),
+					_0x544a93 = new _0x3b68f2(0x0, -10);
 				this[_0x3fd81c(0x38d)][_0x3fd81c(0x51e)](_0x5bed39 => {
 					const _0x1cda5c = _0x3fd81c;
 					this[_0x1cda5c(0x547)][_0x1cda5c(0x38d)]['push'](new _0x92847a(_0x5bed39[_0x1cda5c(0x2bd)], _0x5bed39[_0x1cda5c(0x437)], _0x5bed39[_0x1cda5c(0x568)], _0x1e0e40, _0x1c7233, _0x5bed39[_0x1cda5c(0x421)], _0x5bed39['fading'])), _0x1e0e40 = _0x1e0e40[_0x1cda5c(0x1e7)]()[_0x1cda5c(0x4c9)](_0x544a93);
@@ -2783,9 +2784,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		}
 	}
 	class _0x92847a {
-		constructor(_0xd47f65, _0x18f961, _0x47ce50, _0x5b8f1a = new _0x3b68f2(0x0, 0x0), _0x2ff435 = new _0x3b68f2(0x0, -0x32), _0x35eb91 = 0x7d0, _0x4f6d04 = !![]) {
+		constructor(_0xd47f65, _0x18f961, _0x47ce50, _0x5b8f1a = new _0x3b68f2(0x0, 0x0), _0x2ff435 = new _0x3b68f2(0x0, -50), _0x35eb91 = 2000, _0x4f6d04 = !![]) {
 			const _0x22df0d = _0x817dbf;
-			this[_0x22df0d(0x2bd)] = _0xd47f65, this['color'] = _0x18f961 || '#000000', this[_0x22df0d(0x568)] = _0x47ce50, this['position'] = _0x5b8f1a, this[_0x22df0d(0x351)] = _0x2ff435, this[_0x22df0d(0x679)] = _0x2ff435['clone']()[_0x22df0d(0x5ac)](-0x7d0 / _0x35eb91), this['duration'] = _0x35eb91, this['time'] = _0x35eb91, this[_0x22df0d(0x2fb)] = _0x4f6d04;
+			this[_0x22df0d(0x2bd)] = _0xd47f65, this['color'] = _0x18f961 || '#000000', this[_0x22df0d(0x568)] = _0x47ce50, this['position'] = _0x5b8f1a, this[_0x22df0d(0x351)] = _0x2ff435, this[_0x22df0d(0x679)] = _0x2ff435['clone']()[_0x22df0d(0x5ac)](-2000 / _0x35eb91), this['duration'] = _0x35eb91, this['time'] = _0x35eb91, this[_0x22df0d(0x2fb)] = _0x4f6d04;
 		} [_0x817dbf(0x1de)](_0x46cccf) {
 			const _0x32c4dd = _0x817dbf;
 			this[_0x32c4dd(0x421)] -= _0x46cccf, this[_0x32c4dd(0x421)] > 0x0 && (this[_0x32c4dd(0x351)][_0x32c4dd(0x4c9)](this[_0x32c4dd(0x679)][_0x32c4dd(0x1e7)]()[_0x32c4dd(0x5ac)](_0x46cccf / 0x3e8)), this[_0x32c4dd(0x5af)]['add'](this[_0x32c4dd(0x351)]['clone']()['scale'](_0x46cccf / 0x3e8)));
@@ -2798,7 +2799,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				{
 					devicePixelRatio: _0xf707e9
 				} = window,
-				_0x59f120 = 0x1e * _0x5e427b / _0xf707e9;
+				_0x59f120 = 30 * _0x5e427b / _0xf707e9;
 			_0x582017[_0x5bd164(0x607)](), _0x582017[_0x5bd164(0x581)] = '' + this[_0x5bd164(0x437)] + (this[_0x5bd164(0x2fb)] ? _0x1bb253 : ''), _0x582017['font'] = 'bold\x20' + _0x59f120 + 'px\x20' + _0x4617c5, _0x582017[_0x5bd164(0x2aa)] = 'center', _0x582017[_0x5bd164(0x1dd)] = _0x5bd164(0x465), _0x582017[_0x5bd164(0x47b)](this['text'], _0x4b23f4['x'] * _0x59e893, _0x4b23f4['y'] * _0x59e893), _0x582017[_0x5bd164(0x34d)]();
 		}
 	}
@@ -2814,8 +2815,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		} [_0x817dbf(0x67b)]() {
 			return !![];
 		} [_0x817dbf(0x496)]() {} [_0x817dbf(0x414)](_0x59a3a4) {
-			const _0xae7ff7 = _0x817dbf;
-			this[_0xae7ff7(0x38f)][_0xae7ff7(0x241)](..._0x59a3a4);
+			const _10e7ff7 = _0x817dbf;
+			this[_10e7ff7(0x38f)][_10e7ff7(0x241)](..._0x59a3a4);
 		}
 	}
 	var _0x386964 = Object[_0x817dbf(0x5c5)],
@@ -2883,14 +2884,14 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			const _0x20dad6 = _0x817dbf;
 			_0x2a80b4(this, _0x20dad6(0x3f3)), _0x2a80b4(this, _0x20dad6(0x66d), ![]), _0x2a80b4(this, _0x20dad6(0x2b3)), _0x2a80b4(this, _0x20dad6(0x476), ![]), _0x2a80b4(this, _0x20dad6(0x669), !![]), _0x2a80b4(this, _0x20dad6(0x2db));
 			if (!_0x4936b8) _0x4936b8 = new _0x215358(_0x2e8f18);
-			this[_0x20dad6(0x673)] = _0x3e9d48(_0x43b08c), this[_0x20dad6(0x284)] = _0x31536a, this[_0x20dad6(0x5cb)] = 0x0, this[_0x20dad6(0x421)] = 0x0, this[_0x20dad6(0x360)] = new _0x5d5a28(), this[_0x20dad6(0x550)] = _0x47d142 || {}, _0xd93f9f = _0xd93f9f || new _0x3b68f2(_0x3451ef[_0x20dad6(0x5b7)] / 0x2, _0x3451ef[_0x20dad6(0x5b7)] / 0x2), _0x47235f = _0x47235f || Math[_0x20dad6(0x301)](_0xd93f9f['x'], _0xd93f9f['y']) * 0.95, (_0xdff480 = _0xdff480 || _0x506dad(_0xd93f9f, _0x3451ef['borderPoints'], _0x47235f), this[_0x20dad6(0x5bf)] = _0x3451ef), this[_0x20dad6(0x2f5)] = _0x47bdf3, this['nameManager'] = _0x214704, this[_0x20dad6(0x25c)] = new _0x1d0591(..._0x204216 || [_0x3451ef[_0x20dad6(0x5b7)] || 0x7d0, _0x3451ef[_0x20dad6(0x5b7)] || 0x7d0, _0x3451ef[_0x20dad6(0x5ce)] || 0xa]), this[_0x20dad6(0x22f)] = new _0x1a8050(this, _0xdff480, _0xd93f9f, _0x47235f), this[_0x20dad6(0x24b)] = [], this[_0x20dad6(0x440)] = [], this[_0x20dad6(0x294)] = [], this[_0x20dad6(0x50a)] = 0x0, this[_0x20dad6(0x45d)] = _0x43b08c, this[_0x20dad6(0x38d)] = [], this['area'] = this[_0x20dad6(0x22f)][_0x20dad6(0x65e)][_0x20dad6(0x3e9)](), this[_0x20dad6(0x1f2)] = null, this['level'] = 0x0, this[_0x20dad6(0x4a7)] = [0x0, 0x0, 0x0, 0x0], this['particles'] = [], this[_0x20dad6(0x359)] = [], this[_0x20dad6(0x1cb)] = null, this[_0x20dad6(0x37f)] = _0x4936b8;
+			this[_0x20dad6(0x673)] = _0x3e9d48(_0x43b08c), this[_0x20dad6(0x284)] = _0x31536a, this[_0x20dad6(0x5cb)] = 0x0, this[_0x20dad6(0x421)] = 0x0, this[_0x20dad6(0x360)] = new _0x5d5a28(), this[_0x20dad6(0x550)] = _0x47d142 || {}, _0xd93f9f = _0xd93f9f || new _0x3b68f2(_0x3451ef[_0x20dad6(0x5b7)] / 0x2, _0x3451ef[_0x20dad6(0x5b7)] / 0x2), _0x47235f = _0x47235f || Math[_0x20dad6(0x301)](_0xd93f9f['x'], _0xd93f9f['y']) * 0.95, (_0xdff480 = _0xdff480 || _0x506dad(_0xd93f9f, _0x3451ef['borderPoints'], _0x47235f), this[_0x20dad6(0x5bf)] = _0x3451ef), this[_0x20dad6(0x2f5)] = _0x47bdf3, this['nameManager'] = _0x214704, this[_0x20dad6(0x25c)] = new _0x1d0591(..._0x204216 || [_0x3451ef[_0x20dad6(0x5b7)] || 2000, _0x3451ef[_0x20dad6(0x5b7)] || 2000, _0x3451ef[_0x20dad6(0x5ce)] || 10]), this[_0x20dad6(0x22f)] = new _0x1a8050(this, _0xdff480, _0xd93f9f, _0x47235f), this[_0x20dad6(0x24b)] = [], this[_0x20dad6(0x440)] = [], this[_0x20dad6(0x294)] = [], this[_0x20dad6(0x50a)] = 0x0, this[_0x20dad6(0x45d)] = _0x43b08c, this[_0x20dad6(0x38d)] = [], this['area'] = this[_0x20dad6(0x22f)][_0x20dad6(0x65e)][_0x20dad6(0x3e9)](), this[_0x20dad6(0x1f2)] = null, this['level'] = 0x0, this[_0x20dad6(0x4a7)] = [0x0, 0x0, 0x0, 0x0], this['particles'] = [], this[_0x20dad6(0x359)] = [], this[_0x20dad6(0x1cb)] = null, this[_0x20dad6(0x37f)] = _0x4936b8;
 		} [_0x817dbf(0x21d)]() {
 			const _0x4eecd9 = _0x817dbf;
 			return {
 				'spawn': _0x42422c => this[_0x4eecd9(0x529)](_0x42422c['id'], _0x42422c[_0x4eecd9(0x60a)], _0x42422c[_0x4eecd9(0x4ce)]),
 				'moves': _0x3a27f5 => {
 					const _0x1f4e88 = _0x4eecd9;
-					this[_0x1f4e88(0x1de)](_0x3a27f5[_0x1f4e88(0x46a)] || 0x32, _0x3a27f5[_0x1f4e88(0x684)]);
+					this[_0x1f4e88(0x1de)](_0x3a27f5[_0x1f4e88(0x46a)] || 50, _0x3a27f5[_0x1f4e88(0x684)]);
 				},
 				'death': _0x2712ec => this['killById'](_0x2712ec['id'], _0x2712ec['reason'])
 			};
@@ -2926,10 +2927,10 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					_0xef0511 = _0x13ef36(0xc * _0x100349, 0x10 * _0x100349, this['rng']()), _0x358977 = _0x2fc9da['at'];
 					break;
 				case _0x38a3e3(0x507):
-					_0xef0511 = _0x13ef36(Math[_0x38a3e3(0x3bf)](0x0, _0x3f390a - (_0x16b8cf + 0xa * _0x100349)), Math['max'](0x0, _0x3f390a - (_0x16b8cf + 0x4 * _0x100349)), this[_0x38a3e3(0x673)]());
+					_0xef0511 = _0x13ef36(Math[_0x38a3e3(0x3bf)](0x0, _0x3f390a - (_0x16b8cf + 10 * _0x100349)), Math['max'](0x0, _0x3f390a - (_0x16b8cf + 0x4 * _0x100349)), this[_0x38a3e3(0x673)]());
 					break;
 				case 'center':
-					_0xef0511 = _0x13ef36(0x0, _0x3f390a / 0x3, this[_0x38a3e3(0x673)]());
+					_0xef0511 = _0x13ef36(0x0, _0x3f390a / 3, this[_0x38a3e3(0x673)]());
 					break;
 				default:
 					_0xef0511 = _0x13ef36(0x0, Math[_0x38a3e3(0x3bf)](0x0, _0x3f390a - (_0x16b8cf + _0x100349)), this['rng']());
@@ -2969,10 +2970,10 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			if (!_0xb26405) return;
 			const _0x8163bb = [0x0, 0x0, 0x0, 0x0],
 				_0xb89a7f = [
-					[0x1, 0x2, 0x2, 0x3, 0x3, 0x3, 0x3, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0],
-					[0x1, 0x1, 0x2, 0x2, 0x2, 0x3, 0x3, 0x3, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0],
-					[0x1, 0x1, 0x2, 0x2, 0x2, 0x2, 0x3, 0x3, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0],
-					[0x1, 0x1, 0x1, 0x2, 0x2, 0x2, 0x2, 0x2, 0x3, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0]
+					[0x1, 0x2, 0x2, 3, 3, 3, 3, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0],
+					[0x1, 0x1, 0x2, 0x2, 0x2, 3, 3, 3, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0],
+					[0x1, 0x1, 0x2, 0x2, 0x2, 0x2, 3, 3, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0],
+					[0x1, 0x1, 0x1, 0x2, 0x2, 0x2, 0x2, 0x2, 3, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0]
 				];
 			this[_0x241bf4(0x24b)][_0x241bf4(0x51e)](_0x191738 => {
 				const _0x1992b4 = _0x241bf4;
@@ -3000,7 +3001,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			this['units']['length'] && this[_0x2c61d2(0x24b)][_0x2c61d2(0x44a)] >= this[_0x2c61d2(0x5bf)]['botsCount'] && this[_0x2c61d2(0x5bf)]['allowKillingBotToSpawnPlayer'] && this['removeBot']();
 			let _0x38cb55, _0x3d2dc3 = 0x0;
 			while (!_0x38cb55) {
-				_0x3d2dc3++ > 0x32 && (_0x3d2dc3 = 0x0, this[_0x2c61d2(0x4f3)]()), _0x38cb55 = this['getSpawnPosition']('random', _0x2565f7);
+				_0x3d2dc3++ > 50 && (_0x3d2dc3 = 0x0, this[_0x2c61d2(0x4f3)]()), _0x38cb55 = this['getSpawnPosition']('random', _0x2565f7);
 			}
 			return _0x38cb55;
 		} ['findSpawnPositionMultiplayer'](_0x368f38) {
@@ -3045,10 +3046,10 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			}), _0x226c28;
 		} [_0x817dbf(0x3f1)](_0x5d723f, _0x1e86d9) {
 			const _0x48b981 = _0x817dbf,
-				_0x39dd59 = 0.5 + Math[_0x48b981(0x58e)](this[_0x48b981(0x50a)] * 0xa) * 0.2,
+				_0x39dd59 = 0.5 + Math[_0x48b981(0x58e)](this[_0x48b981(0x50a)] * 10) * 0.2,
 				_0x35dfeb = [];
 			if (!this[_0x48b981(0x22f)]['isNear'](_0x5d723f)) return [_0x5d723f['end']];
-			for (let _0x4a38f4 = 0x0; _0x4a38f4 < 0xa; _0x4a38f4++) {
+			for (let _0x4a38f4 = 0x0; _0x4a38f4 < 10; _0x4a38f4++) {
 				let _0x125092 = this['space']['intersections'](_0x5d723f),
 					_0x315ea4 = _0x125092[_0x48b981(0x4d6)](_0x16ac17 => _0x16ac17[_0x48b981(0x3aa)][_0x48b981(0x281)][_0x48b981(0x64d)] == this['border']);
 				if (_0x315ea4['length'] == 0x0) break;
@@ -3080,7 +3081,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			const _0xeac5db = 0.01,
 				_0x395a04 = [];
 			if (!this[_0x3c2ee8(0x22f)][_0x3c2ee8(0x631)](_0xbb5ef7)) return [_0xbb5ef7[_0x3c2ee8(0x256)]];
-			for (let _0x4cf1ff = 0x0; _0x4cf1ff < 0xa; _0x4cf1ff++) {
+			for (let _0x4cf1ff = 0x0; _0x4cf1ff < 10; _0x4cf1ff++) {
 				let _0x17a0d3 = this[_0x3c2ee8(0x25c)]['intersections'](_0xbb5ef7),
 					_0x3cf012 = _0x17a0d3[_0x3c2ee8(0x4d6)](_0x492663 => _0x492663[_0x3c2ee8(0x3aa)][_0x3c2ee8(0x281)][_0x3c2ee8(0x64d)] == this[_0x3c2ee8(0x22f)]);
 				if (_0x3cf012[_0x3c2ee8(0x44a)] == 0x0) break;
@@ -3119,7 +3120,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		} [_0x817dbf(0x4c6)](_0x4d769f, _0x2f410c) {
 			const _0x1de141 = _0x817dbf;
 			this[_0x1de141(0x284)] ? (this[_0x1de141(0x284)]['start'](_0x4d769f), _0x2f410c(), this[_0x1de141(0x284)][_0x1de141(0x256)](_0x4d769f)) : _0x2f410c();
-		} ['update'](_0x3484f9 = 0x32, _0xf7d4b = {}) {
+		} ['update'](_0x3484f9 = 50, _0xf7d4b = {}) {
 			const _0x31192a = _0x817dbf;
 			this['events'][_0x31192a(0x2a1)]({
 				'event': _0x31192a(0x512)
@@ -3137,8 +3138,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				const _0x195205 = _0x31192a;
 				this[_0x195205(0x24b)][_0x195205(0x51e)](_0x4acfc5 => _0x4acfc5[_0x195205(0x580)]());
 			}), this[_0x31192a(0x24b)][_0x31192a(0x355)]()[_0x31192a(0x51e)](_0x2c7c4c => _0x2c7c4c[_0x31192a(0x525)](_0x3484f9)), this[_0x31192a(0x24b)][_0x31192a(0x51e)](_0x2b8da2 => _0x2b8da2[_0x31192a(0x5bc)](_0x3484f9)), this[_0x31192a(0x4f7)]();
-			let _0x12c5a9 = this['ranks'][0x0];
-			return _0x12c5a9 ? this['level'] = _0x13ef36(this[_0x31192a(0x5bf)]['startBotLevel'] || 0.1, 0x1, _0x12c5a9[_0x31192a(0x459)]) : this[_0x31192a(0x5e6)] = this[_0x31192a(0x5bf)][_0x31192a(0x369)] || 0.5, this[_0x31192a(0x5bf)][_0x31192a(0x5d5)] !== -0x1 && this[_0x31192a(0x5bf)][_0x31192a(0x5d5)] != null && (this['level'] = this[_0x31192a(0x5bf)][_0x31192a(0x5d5)]), this[_0x31192a(0x440)][_0x31192a(0x44a)] > 0x0 && this['ranks'][0x0][_0x31192a(0x459)] > this[_0x31192a(0x5bf)][_0x31192a(0x486)] && (this['ranks'][0x0][_0x31192a(0x459)] = 0x1, this[_0x31192a(0x53e)](this[_0x31192a(0x440)][0x0])), this['noteTime']('spawn', () => {
+			let _3005a9 = this['ranks'][0x0];
+			return _3005a9 ? this['level'] = _0x13ef36(this[_0x31192a(0x5bf)]['startBotLevel'] || 0.1, 0x1, _3005a9[_0x31192a(0x459)]) : this[_0x31192a(0x5e6)] = this[_0x31192a(0x5bf)][_0x31192a(0x369)] || 0.5, this[_0x31192a(0x5bf)][_0x31192a(0x5d5)] !== -0x1 && this[_0x31192a(0x5bf)][_0x31192a(0x5d5)] != null && (this['level'] = this[_0x31192a(0x5bf)][_0x31192a(0x5d5)]), this[_0x31192a(0x440)][_0x31192a(0x44a)] > 0x0 && this['ranks'][0x0][_0x31192a(0x459)] > this[_0x31192a(0x5bf)][_0x31192a(0x486)] && (this['ranks'][0x0][_0x31192a(0x459)] = 0x1, this[_0x31192a(0x53e)](this[_0x31192a(0x440)][0x0])), this['noteTime']('spawn', () => {
 				const _0x141085 = _0x31192a;
 				if (this[_0x141085(0x24b)][_0x141085(0x44a)] < this[_0x141085(0x5bf)][_0x141085(0x64b)]) {
 					for (let _0x101bd2 = 0x0; _0x101bd2 < this[_0x141085(0x5bf)][_0x141085(0x45e)]; _0x101bd2++) {
@@ -3340,8 +3341,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	}
 	class _0x145b39 extends _0x14a40d {
 		constructor(_0x461447) {
-			const _0xa2b9f0 = _0x817dbf;
-			super(), this[_0xa2b9f0(0x421)] = _0x461447;
+			const _102b9f0 = _0x817dbf;
+			super(), this[_102b9f0(0x421)] = _0x461447;
 		} [_0x817dbf(0x356)]() {
 			this['progress'] = 0x0;
 		} [_0x817dbf(0x1de)](_0x1211e7, _0x1e7728, _0x245908) {
@@ -3460,7 +3461,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			'style': 'display:flex;\x20justify-content:\x20flex-end;'
 		}, _0x3fcff0(_0x3d898d(_0x3d898d({}, _0x17c12d), {
 			'currentLeaderboard': _0x55158f(0x38b),
-			'rowLimit': 0x3,
+			'rowLimit': 3,
 			'noTitle': !![]
 		}))), _0x17c12d['page'] == _0x55158f(0x236) && _0x3156c(_0x55158f(0x3fe), {
 			'class': _0x55158f(0x258),
@@ -3526,15 +3527,15 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		}, _0xe56a3a[_0xf1806c(0x573)]['filter'](_0x507712 => _0x4547ea == null || _0x507712[_0xf1806c(0x4c0)] == _0x4547ea)[_0xf1806c(0x2c0)](_0x511239 => _0x3156c(_0xf1806c(0x683), {
 			'class': _0xf1806c(0x1f2)
 		}, _0x3156c(_0xf1806c(0x513), null, _0x578af7 || _0x3156c('tr', null, _0x3156c('th', {
-			'colSpan': 0x3
+			'colSpan': 3
 		}, _0x569cca[_0x511239[_0xf1806c(0x4c0)]] || _0x511239[_0xf1806c(0x4c0)])), _0x511239[_0xf1806c(0x402)][_0xf1806c(0x44a)] == 0x0 ? _0x3156c('tr', null, _0x3156c('td', {
-			'colSpan': 0x3,
+			'colSpan': 3,
 			'class': _0xf1806c(0x597)
 		}, _0x569cca[_0xf1806c(0x39a)])) : _0x511239[_0xf1806c(0x466)](_0x1b5cd7)['map']((_0x26c3f3, _0x4a4ff7) => {
 			const _0x2509bc = _0xf1806c;
 			let _0x32ece7 = _0x26c3f3[_0x2509bc(0x375)] || _0x4a4ff7;
 			return _0x3156c('tr', null, _0x3156c('td', {
-				'class': _0x2509bc(0x3f2) + (_0x32ece7 < 0x3 ? _0x32ece7 + 0x1 : '')
+				'class': _0x2509bc(0x3f2) + (_0x32ece7 < 3 ? _0x32ece7 + 0x1 : '')
 			}, _0x32ece7 + 0x1), _0x3156c('td', {
 				'class': _0x26c3f3[_0x2509bc(0x1e3)] == _0x1152b9(_0x106402) ? _0x2509bc(0x37e) : _0x2509bc(0x68a)
 			}, _0x26c3f3['player']), _0x3156c('td', null, _0x511239[_0x2509bc(0x4c0)] == _0x2509bc(0x38b) ? Number(_0x26c3f3[_0x2509bc(0x4d7)])[_0x2509bc(0x432)](0x2) : _0x26c3f3['score'], _0x511239[_0x2509bc(0x4c0)] == _0x2509bc(0x38b) ? _0x3156c(_0x2509bc(0x346), null, '%') : ''));
@@ -3575,7 +3576,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			'class': _0x32babc(0x2f9)
 		}, (_0x5c8e3c[_0x32babc(0x3f3)] || 0x0)['toFixed'](0x2) + '%'), _0x5c8e3c[_0x32babc(0x421)] && _0x3156c(_0x32babc(0x683), {
 			'class': _0x32babc(0x539)
-		}, new Date(_0x5c8e3c['time'])[_0x32babc(0x4ad)]()['slice'](0xe, -0x5)), _0x3156c(_0x32babc(0x683), {
+		}, new Date(_0x5c8e3c['time'])[_0x32babc(0x4ad)]()['slice'](0xe, -5)), _0x3156c(_0x32babc(0x683), {
 			'class': _0x32babc(0x4ee)
 		}, _0x5c8e3c['kills'] || 0x0))), _0x3156c(_0x32babc(0x683), {
 			'class': _0x32babc(0x686)
@@ -3614,7 +3615,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		let _0x3269b2 = new _0x5d5a28(),
 			_0x49069f = {
 				'selectLeaderboard': (_0x19f3ac, _0x2c1c41) => {
-					const _0x338e6d = a0_0x47bb;
+					const _0x338e6d = r459;
 					return console[_0x338e6d(0x4e1)]('lb', _0x2c1c41), {
 						'currentLeaderboard': _0x2c1c41
 					};
@@ -3674,7 +3675,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				'playCopyAnimation': () => {
 					const _0x226a5c = _0x180a6d;
 					let _0x39af2b = document['getElementById']('copyAnimation');
-					_0x39af2b['classList'][_0x226a5c(0x4c9)]('copyAnimation'), setTimeout(() => _0x39af2b['classList']['remove'](_0x226a5c(0x297)), 0x7d0);
+					_0x39af2b['classList'][_0x226a5c(0x4c9)]('copyAnimation'), setTimeout(() => _0x39af2b['classList']['remove'](_0x226a5c(0x297)), 2000);
 				},
 				'clickAchievement'({
 					achievements: _0x173da3,
@@ -3862,7 +3863,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		var _0x2438bb = [];
 
 		function _0x243efc(_0x30beee) {
-			const _0x5ee7e6 = a0_0x47bb;
+			const _0x5ee7e6 = r459;
 			for (var _0x5be514 = [], _0x203b9a = 0x0; _0x203b9a < _0x2438bb[_0x5ee7e6(0x44a)]; _0x203b9a++) _0x2438bb[_0x203b9a] === _0x30beee ? _0x30beee = null : _0x5be514[_0x5ee7e6(0x241)](_0x2438bb[_0x203b9a]);
 			_0x2438bb = _0x5be514;
 		}
@@ -3877,7 +3878,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					_0x5dd95b(_0x4dded9, !0x1, _0x18faf8);
 				}
 				return function() {
-					const _0x1c00e3 = a0_0x47bb;
+					const _0x1c00e3 = r459;
 					for (var _0x56e9ec = arguments, _0x3b0ef7 = [_0x4ed533], _0x352fde = 0x0; _0x352fde < arguments['length']; _0x352fde++) _0x3b0ef7[_0x1c00e3(0x241)](_0x56e9ec[_0x352fde]);
 					var _0x2315b3 = _0x18faf8['apply'](this, _0x3b0ef7);
 					if (null != _0x2315b3) return _0x2315b3['then'] ? _0x2315b3['then'](_0x26a393) : _0x26a393(_0x2315b3);
@@ -3885,7 +3886,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			},
 			'setState': _0x5dd95b,
 			'subscribe': function(_0x4e9025) {
-				const _0x230edf = a0_0x47bb;
+				const _0x230edf = r459;
 				return _0x2438bb[_0x230edf(0x241)](_0x4e9025),
 					function() {
 						_0x243efc(_0x4e9025);
@@ -4051,9 +4052,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				'main': _0x5cbcb7,
 				'back': _0xedea10,
 				'nick': _0x31dbab,
-				'tail': _0x278bcd(_0x57763f(_0x4314c6, 0x3)),
-				'plate': _0x4314c6[_0x534569] > 0x32 ? _0x31dbab : _0x4ca305,
-				'particles': [_0x278bcd(_0x382c1b(_0x4314c6, 0x64)), _0x278bcd(_0x382c1b(_0x4314c6, 0x5a)), _0x278bcd(_0x382c1b(_0x4314c6, 0x50)), _0x278bcd(_0x382c1b(_0x4314c6, 0x46)), _0x278bcd(_0x382c1b(_0x4314c6, 0x3c)), _0x278bcd(_0x382c1b(_0x4314c6, 0x32)), _0x278bcd(_0x382c1b(_0x4314c6, 0x28)), _0x278bcd(_0x382c1b(_0x4314c6, 0x1e)), _0x278bcd(_0x382c1b(_0x4314c6, 0x14))]
+				'tail': _0x278bcd(_0x57763f(_0x4314c6, 3)),
+				'plate': _0x4314c6[_0x534569] > 50 ? _0x31dbab : _0x4ca305,
+				'particles': [_0x278bcd(_0x382c1b(_0x4314c6, 0x64)), _0x278bcd(_0x382c1b(_0x4314c6, 0x5a)), _0x278bcd(_0x382c1b(_0x4314c6, 0x50)), _0x278bcd(_0x382c1b(_0x4314c6, 0x46)), _0x278bcd(_0x382c1b(_0x4314c6, 0x3c)), _0x278bcd(_0x382c1b(_0x4314c6, 50)), _0x278bcd(_0x382c1b(_0x4314c6, 0x28)), _0x278bcd(_0x382c1b(_0x4314c6, 30)), _0x278bcd(_0x382c1b(_0x4314c6, 0x14))]
 			};
 		return _0x32744c;
 	}
@@ -4115,7 +4116,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			_0x440b0f = document[_0x19e25b(0x36b)](_0x19e25b(0x1f3));
 		_0x440b0f[_0x19e25b(0x3fd)] = 0x64, _0x440b0f[_0x19e25b(0x532)] = 0x64;
 		const _0x19f68f = _0x440b0f[_0x19e25b(0x343)]('2d');
-		return _0x19f68f['fillStyle'] = _0x341764, _0x19f68f['fillRect'](0x0, 0x0, 0x64, 0x64), _0x19f68f[_0x19e25b(0x581)] = _0x108575, _0x19f68f[_0x19e25b(0x654)](0xa, 0xa, 0x50, 0x50), _0x440b0f;
+		return _0x19f68f['fillStyle'] = _0x341764, _0x19f68f['fillRect'](0x0, 0x0, 0x64, 0x64), _0x19f68f[_0x19e25b(0x581)] = _0x108575, _0x19f68f[_0x19e25b(0x654)](10, 10, 0x50, 0x50), _0x440b0f;
 	}
 
 	function _0x3aa5b3({
@@ -4246,7 +4247,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			}
 		}
 	}
-	class _0xa5031e {
+	class _105031e {
 		constructor(_0x524c01, _0x377615, _0x386788) {
 			const _0x332639 = _0x817dbf;
 			_0x338f42(this, _0x332639(0x5e6), 0x0), _0x338f42(this, _0x332639(0x5ac), 0x1), _0x338f42(this, 'x', 0x0), _0x338f42(this, 'y', 0x0), _0x338f42(this, _0x332639(0x481), ''), _0x338f42(this, _0x332639(0x3b8), 0x0), _0x338f42(this, _0x332639(0x3e1), ''), _0x338f42(this, _0x332639(0x48a), null), _0x338f42(this, _0x332639(0x2b7), null), this[_0x332639(0x5bf)] = _0x524c01, Object[_0x332639(0x23e)](this, _0x377615), this['pivot'] = Object[_0x332639(0x23e)]({
@@ -4292,9 +4293,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			this[_0x1751d7(0x3e1)] = _0x1e9719[_0x1751d7(0x5f0)] + _0x451646[_0x1751d7(0x3e1)], this[_0x1751d7(0x5ac)] = _0x451646[_0x1751d7(0x5ac)] || 0x1, this[_0x1751d7(0x48a)] = _0x451646[_0x1751d7(0x48a)], this[_0x1751d7(0x200)] = ![], this[_0x1751d7(0x48a)] ? this[_0x1751d7(0x4f5)](this[_0x1751d7(0x48a)], _0x1e9719, _0x4cdaef) : _0x412fd3(this[_0x1751d7(0x3e1)])[_0x1751d7(0x4b4)](_0xc0d14b => {
 				this['useImage'](_0xc0d14b, _0x1e9719, _0x4cdaef);
 			})[_0x1751d7(0x67c)](_0x462e73 => console['error'](_0x462e73, this[_0x1751d7(0x3e1)]));
-		} [_0x817dbf(0x4f5)](_0xa5d4fb, _0x5197d7, _0x53cf06) {
+		} [_0x817dbf(0x4f5)](_105d4fb, _0x5197d7, _0x53cf06) {
 			const _0x594bbc = _0x817dbf;
-			this[_0x594bbc(0x3a9)] = _0x31e7ec(_0xa5d4fb, this['scale'], _0x5197d7['maxScale']), this[_0x594bbc(0x48a)] = _0xa5d4fb, this['ready'] = !![], _0x53cf06 && _0x53cf06();
+			this[_0x594bbc(0x3a9)] = _0x31e7ec(_105d4fb, this['scale'], _0x5197d7['maxScale']), this[_0x594bbc(0x48a)] = _105d4fb, this['ready'] = !![], _0x53cf06 && _0x53cf06();
 		}
 	}
 
@@ -4318,12 +4319,12 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			const _0x2a383d = _0x817dbf;
 			this[_0x2a383d(0x651)] = [], this[_0x2a383d(0x5ac)] = _0x5e467e[_0x2a383d(0x5ac)] || 0x1, this['x'] = 0x0, this['y'] = 0x0, this[_0x2a383d(0x200)] = ![], Object[_0x2a383d(0x23e)](this, _0x5e467e);
 			let _0x2eff1b = 0x0;
-			this[_0x2a383d(0x651)] = (this['layers'] || [])[_0x2a383d(0x2c0)](_0x48912f => new _0xa5031e(_0x472ee5, _0x23f0e1(_0x23f0e1({}, _0x48912f), {
+			this[_0x2a383d(0x651)] = (this['layers'] || [])[_0x2a383d(0x2c0)](_0x48912f => new _105031e(_0x472ee5, _0x23f0e1(_0x23f0e1({}, _0x48912f), {
 				'url': _0x48912f['url'] ? _0x472ee5['skinsPath'] + _0x48912f[_0x2a383d(0x3e1)] : void 0x0
 			}), _0x55db90 => {
-				const _0xad6d30 = _0x2a383d;
-				_0x55db90[_0xad6d30(0x52c)](this[_0xad6d30(0x5ac)]), this['layers'][_0xad6d30(0x44a)] === ++_0x2eff1b && (this[_0xad6d30(0x200)] = !![], _0x14a07c && _0x14a07c());
-			})), this[_0x2a383d(0x1ce)] = this[_0x2a383d(0x651)][_0x2a383d(0x4d6)](_0x1fdf86 => _0x1fdf86[_0x2a383d(0x5e6)] >= 0x1 || _0x1fdf86[_0x2a383d(0x4e2)])[_0x2a383d(0x567)]((_0x3663c9, _0xa66fe8) => _0x3663c9['level'] - _0xa66fe8[_0x2a383d(0x5e6)]), this[_0x2a383d(0x51c)] = this['layers']['filter'](_0xd7f882 => _0xd7f882[_0x2a383d(0x5e6)] < 0x1 && !_0xd7f882[_0x2a383d(0x4e2)])[_0x2a383d(0x567)]((_0x267c49, _0xf77726) => _0xf77726[_0x2a383d(0x5e6)] - _0x267c49[_0x2a383d(0x5e6)]);
+				const _10d6d30 = _0x2a383d;
+				_0x55db90[_10d6d30(0x52c)](this[_10d6d30(0x5ac)]), this['layers'][_10d6d30(0x44a)] === ++_0x2eff1b && (this[_10d6d30(0x200)] = !![], _0x14a07c && _0x14a07c());
+			})), this[_0x2a383d(0x1ce)] = this[_0x2a383d(0x651)][_0x2a383d(0x4d6)](_0x1fdf86 => _0x1fdf86[_0x2a383d(0x5e6)] >= 0x1 || _0x1fdf86[_0x2a383d(0x4e2)])[_0x2a383d(0x567)]((_0x3663c9, _1066fe8) => _0x3663c9['level'] - _1066fe8[_0x2a383d(0x5e6)]), this[_0x2a383d(0x51c)] = this['layers']['filter'](_0xd7f882 => _0xd7f882[_0x2a383d(0x5e6)] < 0x1 && !_0xd7f882[_0x2a383d(0x4e2)])[_0x2a383d(0x567)]((_0x267c49, _0xf77726) => _0xf77726[_0x2a383d(0x5e6)] - _0x267c49[_0x2a383d(0x5e6)]);
 		}
 	}
 	class _0x58c6fc {
@@ -4362,9 +4363,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			const _0x3290b0 = _0x817dbf;
 			return (_0x411709 !== _0x3bd031 || _0x507f1a !== _0x1ebb90 || _0x49d3b2 !== _0x25f266) && (_0x640690 = _0x3bd031[_0x3290b0(0x4ea)](_0x846551[_0x3290b0(0x3fd)] / 0x2, 0x0, _0x846551['width'] / 0x2, _0x846551['height']), _0x640690[_0x3290b0(0x3c5)](0x0, _0x1ebb90), _0x640690[_0x3290b0(0x3c5)](0x1, _0x25f266)), _0x640690;
 		},
-		_0x36e159 = (_0x1070a9, _0x4106bb, _0xfc9bb4, _0xa61067) => {
+		_0x36e159 = (_0x1070a9, _0x4106bb, _0xfc9bb4, _1061067) => {
 			const _0x5e25fb = _0x817dbf;
-			_0x1070a9['strokeStyle'] = _0xfc9bb4, _0x1070a9[_0x5e25fb(0x5e3)] = _0xa61067, _0x1070a9[_0x5e25fb(0x379)](_0x4106bb);
+			_0x1070a9['strokeStyle'] = _0xfc9bb4, _0x1070a9[_0x5e25fb(0x5e3)] = _1061067, _0x1070a9[_0x5e25fb(0x379)](_0x4106bb);
 		},
 		_0x26cbc2 = (_0x59ec3b, _0x5c0efb, _0x396999, _0x3e320e, _0x526f8f, _0xb2597) => {
 			const _0xf17544 = _0x817dbf;
@@ -4375,7 +4376,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				let _0x3722c6 = _0x300e66(_0x59ec3b, _0x23d723, {
 						'stopNear': _0x396999[_0xf17544(0x688)],
 						'center': _0x526f8f,
-						'distance': 0xa
+						'distance': 10
 					}),
 					_0x115cd8 = _0x396999[_0xf17544(0x688)];
 				_0x3722c6 && _0x3b68f2[_0xf17544(0x674)](_0x396999[_0xf17544(0x312)])['dot'](_0x115cd8['clone']()[_0xf17544(0x615)](_0x3722c6)) > 0x0 && (_0x59ec3b[_0xf17544(0x2fa)] = _0xf17544(0x51d), _0x59ec3b[_0xf17544(0x438)](_0x115cd8['x'], _0x115cd8['y'])), _0x59ec3b['lineWidth'] = _0x3e320e, _0x59ec3b[_0xf17544(0x4fe)] = _0x5c0efb, _0x59ec3b[_0xf17544(0x379)]();
@@ -4411,7 +4412,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			if (_0x4fba71) {
 				_0x3af8c8[_0x19dc7b(0x5d4)] = _0x4ab727 * 0.7 + _0x19dc7b(0x416) + _0x3ee33c, _0x3af8c8[_0x19dc7b(0x581)] = _0x19dc7b(0x2fd);
 				let _0x4faae0 = _0x22718e[_0x19dc7b(0x3c0)];
-				_0x4faae0 === _0x19dc7b(0x467) && (_0x4faae0 += '\x20(' + Math[_0x19dc7b(0x51d)](_0x59930e[_0x19dc7b(0x556)]) + '/' + Math[_0x19dc7b(0x51d)](_0x53e0cd[_0x19dc7b(0x389)][_0x19dc7b(0x44a)]) + '/' + Math['round'](_0x53e0cd[_0x19dc7b(0x67d)]) + ')\x20' + _0x59930e[_0x19dc7b(0x497)] + '\x20' + _0x59930e[_0x19dc7b(0x433)]), _0x3af8c8[_0x19dc7b(0x47b)](_0x4faae0, 0x0, -0xa * _0x820dc4 - 0x3c / _0x2b142a);
+				_0x4faae0 === _0x19dc7b(0x467) && (_0x4faae0 += '\x20(' + Math[_0x19dc7b(0x51d)](_0x59930e[_0x19dc7b(0x556)]) + '/' + Math[_0x19dc7b(0x51d)](_0x53e0cd[_0x19dc7b(0x389)][_0x19dc7b(0x44a)]) + '/' + Math['round'](_0x53e0cd[_0x19dc7b(0x67d)]) + ')\x20' + _0x59930e[_0x19dc7b(0x497)] + '\x20' + _0x59930e[_0x19dc7b(0x433)]), _0x3af8c8[_0x19dc7b(0x47b)](_0x4faae0, 0x0, -10 * _0x820dc4 - 0x3c / _0x2b142a);
 			}
 			_0x3af8c8[_0x19dc7b(0x34d)]();
 		},
@@ -4419,8 +4420,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			const _0x72ceb5 = _0x817dbf;
 			if (!Path2D) return;
 			const _0x3ea50 = new Path2D(),
-				_0x40d0f8 = 0x5;
-			return _0x3ea50[_0x72ceb5(0x224)](_0x40d0f8 * -0x3, _0x40d0f8 * -0x3), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * -0x1, _0x40d0f8 * -0x1), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * 0x0, _0x40d0f8 * -0x3), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * 0x1, _0x40d0f8 * -0x1), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * 0x3, _0x40d0f8 * -0x3), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * 0x2, _0x40d0f8 * 0x1), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * -0x2, _0x40d0f8 * 0x1), _0x3ea50[_0x72ceb5(0x324)](), _0x3ea50;
+				_0x40d0f8 = 5;
+			return _0x3ea50[_0x72ceb5(0x224)](_0x40d0f8 * -3, _0x40d0f8 * -3), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * -0x1, _0x40d0f8 * -0x1), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * 0x0, _0x40d0f8 * -3), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * 0x1, _0x40d0f8 * -0x1), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * 3, _0x40d0f8 * -3), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * 0x2, _0x40d0f8 * 0x1), _0x3ea50[_0x72ceb5(0x438)](_0x40d0f8 * -0x2, _0x40d0f8 * 0x1), _0x3ea50[_0x72ceb5(0x324)](), _0x3ea50;
 		},
 		_0x497613 = _0x567fdf(),
 		_0x4b84ab = (_0x40190d, _0x41edc5, _0x431fc8, _0x3b3e1a) => {
@@ -4431,13 +4432,13 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				_0x1f2175 = 0x18 * _0x3b3e1a / _0x15589d;
 			_0x40190d[_0x736406(0x607)]();
 			let _0x32b392 = _0x41edc5['extrapolatedAt'];
-			_0x40190d[_0x736406(0x699)](_0x32b392['x'], _0x32b392['y']), _0x40190d['scale'](0x1 / (_0x431fc8 * _0x15589d), 0x1 / (_0x431fc8 * _0x15589d)), _0x40190d[_0x736406(0x581)] = _0x736406(0x21e), _0x40190d['strokeStyle'] = _0x736406(0x645), _0x40190d[_0x736406(0x691)] = _0x736406(0x51d), _0x40190d[_0x736406(0x5e3)] = 0x1, _0x40190d['translate'](0x0, -0xa * _0x431fc8 * _0x15589d), _0x40190d[_0x736406(0x699)](0x0, -_0x1f2175 * _0x15589d), _0x40190d[_0x736406(0x5ac)](_0x3b3e1a, _0x3b3e1a), _0x40190d[_0x736406(0x699)](0x0, -0x4), _0x40190d['translate'](0x0, -0xc), _0x40190d[_0x736406(0x52b)](_0x497613), _0x40190d[_0x736406(0x379)](_0x497613), _0x40190d[_0x736406(0x34d)]();
+			_0x40190d[_0x736406(0x699)](_0x32b392['x'], _0x32b392['y']), _0x40190d['scale'](0x1 / (_0x431fc8 * _0x15589d), 0x1 / (_0x431fc8 * _0x15589d)), _0x40190d[_0x736406(0x581)] = _0x736406(0x21e), _0x40190d['strokeStyle'] = _0x736406(0x645), _0x40190d[_0x736406(0x691)] = _0x736406(0x51d), _0x40190d[_0x736406(0x5e3)] = 0x1, _0x40190d['translate'](0x0, -10 * _0x431fc8 * _0x15589d), _0x40190d[_0x736406(0x699)](0x0, -_0x1f2175 * _0x15589d), _0x40190d[_0x736406(0x5ac)](_0x3b3e1a, _0x3b3e1a), _0x40190d[_0x736406(0x699)](0x0, -0x4), _0x40190d['translate'](0x0, -0xc), _0x40190d[_0x736406(0x52b)](_0x497613), _0x40190d[_0x736406(0x379)](_0x497613), _0x40190d[_0x736406(0x34d)]();
 		},
 		_0x786069 = () => {
 			const _0x33b08f = _0x817dbf,
 				_0x1cd839 = new Path2D(),
 				_0xf169be = 1.6;
-			return _0x1cd839[_0x33b08f(0x224)](_0xf169be * 0x0, _0xf169be * -0x7), _0x1cd839[_0x33b08f(0x438)](_0xf169be * 0x5, _0xf169be * -0x6), _0x1cd839[_0x33b08f(0x438)](_0xf169be * 0x7, _0xf169be * -0x3), _0x1cd839[_0x33b08f(0x438)](_0xf169be * 0x6, _0xf169be * 0x2), _0x1cd839[_0x33b08f(0x438)](_0xf169be * 0x4, _0xf169be * 0x3), _0x1cd839['lineTo'](_0xf169be * 0x3, _0xf169be * 0x6), _0x1cd839['lineTo'](_0xf169be * 0x0, _0xf169be * 0x7), _0x1cd839['lineTo'](_0xf169be * -0x3, _0xf169be * 0x6), _0x1cd839[_0x33b08f(0x438)](_0xf169be * -0x4, _0xf169be * 0x3), _0x1cd839[_0x33b08f(0x438)](_0xf169be * -0x6, _0xf169be * 0x2), _0x1cd839[_0x33b08f(0x438)](_0xf169be * -0x7, _0xf169be * -0x3), _0x1cd839['lineTo'](_0xf169be * -0x5, _0xf169be * -0x6), _0x1cd839[_0x33b08f(0x324)](), _0x1cd839[_0x33b08f(0x2da)](_0xf169be * -0x3, _0xf169be * -0x1, _0xf169be * 0x2, 0x0, Math['PI'] * 0x2, !![]), _0x1cd839[_0x33b08f(0x324)](), _0x1cd839[_0x33b08f(0x2da)](_0xf169be * 0x3, _0xf169be * -0x1, _0xf169be * 0x2, 0x0, Math['PI'] * 0x2, !![]), _0x1cd839['closePath'](), _0x1cd839[_0x33b08f(0x224)](_0xf169be * 0x0, _0xf169be * 0x1), _0x1cd839[_0x33b08f(0x438)](_0xf169be * -0x2, _0xf169be * 0x3), _0x1cd839['lineTo'](_0xf169be * 0x0, _0xf169be * 0x4), _0x1cd839[_0x33b08f(0x438)](_0xf169be * 0x2, _0xf169be * 0x3), _0x1cd839['closePath'](), _0x1cd839;
+			return _0x1cd839[_0x33b08f(0x224)](_0xf169be * 0x0, _0xf169be * -0x7), _0x1cd839[_0x33b08f(0x438)](_0xf169be * 5, _0xf169be * -0x6), _0x1cd839[_0x33b08f(0x438)](_0xf169be * 0x7, _0xf169be * -3), _0x1cd839[_0x33b08f(0x438)](_0xf169be * 0x6, _0xf169be * 0x2), _0x1cd839[_0x33b08f(0x438)](_0xf169be * 0x4, _0xf169be * 3), _0x1cd839['lineTo'](_0xf169be * 3, _0xf169be * 0x6), _0x1cd839['lineTo'](_0xf169be * 0x0, _0xf169be * 0x7), _0x1cd839['lineTo'](_0xf169be * -3, _0xf169be * 0x6), _0x1cd839[_0x33b08f(0x438)](_0xf169be * -0x4, _0xf169be * 3), _0x1cd839[_0x33b08f(0x438)](_0xf169be * -0x6, _0xf169be * 0x2), _0x1cd839[_0x33b08f(0x438)](_0xf169be * -0x7, _0xf169be * -3), _0x1cd839['lineTo'](_0xf169be * -5, _0xf169be * -0x6), _0x1cd839[_0x33b08f(0x324)](), _0x1cd839[_0x33b08f(0x2da)](_0xf169be * -3, _0xf169be * -0x1, _0xf169be * 0x2, 0x0, Math['PI'] * 0x2, !![]), _0x1cd839[_0x33b08f(0x324)](), _0x1cd839[_0x33b08f(0x2da)](_0xf169be * 3, _0xf169be * -0x1, _0xf169be * 0x2, 0x0, Math['PI'] * 0x2, !![]), _0x1cd839['closePath'](), _0x1cd839[_0x33b08f(0x224)](_0xf169be * 0x0, _0xf169be * 0x1), _0x1cd839[_0x33b08f(0x438)](_0xf169be * -0x2, _0xf169be * 3), _0x1cd839['lineTo'](_0xf169be * 0x0, _0xf169be * 0x4), _0x1cd839[_0x33b08f(0x438)](_0xf169be * 0x2, _0xf169be * 3), _0x1cd839['closePath'](), _0x1cd839;
 		},
 		_0x12e5ed = _0x786069(),
 		_0x585555 = (_0x728281, _0x40922d, _0x5a21cd, _0x1ebc2e) => {
@@ -4506,7 +4507,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			_0x3dc8e9 = _0x159ab0 - _0x234cbd,
 			_0x267429 = Math[_0x5b734e(0x3bf)](_0x816007, _0x3dc8e9),
 			_0x57cc6f = new _0x3b68f2(_0x4c7eda + _0x816007 / 0x2, _0x234cbd + _0x3dc8e9 / 0x2),
-			_0x48658b = 0x1f4,
+			_0x48658b = 500,
 			_0xc12adb = _0x48658b * 0.95 / _0x267429,
 			_0x341731 = _0x48658b / 0x64;
 		let _0x62b027;
@@ -4542,23 +4543,23 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		if (_0x9e232b && !_0x3b9f2e) _0x3b9f2e = _0x3a187d;
 		_0xcb5bad == void 0x0 && (_0xcb5bad = _0x9c952[_0x376136(0x479)]);
 		let _0x5de4e8;
-		for (let _0xab525a = 0x0; _0xab525a < _0x4afdc1 - 0x1; _0xab525a++) {
-			_0x5de4e8 = _0x273f7c[_0xab525a][_0x376136(0x256)]['at'];
+		for (let _10b525a = 0x0; _10b525a < _0x4afdc1 - 0x1; _10b525a++) {
+			_0x5de4e8 = _0x273f7c[_10b525a][_0x376136(0x256)]['at'];
 			let _0x1a960f = _0xcb5bad;
-			if (_0x273f7c[_0xab525a][_0x376136(0x31f)][_0x376136(0x4a2)]() < 0x1) continue;
-			(_0xab525a == 0x0 || _0x273f7c[_0xab525a - 0x1]['vector']['length2']() < 0x1 || _0x3b9f2e && _0x9e232b && _0x5de4e8['distance'](_0x9e232b) > _0x3b9f2e) && (_0x1a960f = 0x0);
+			if (_0x273f7c[_10b525a][_0x376136(0x31f)][_0x376136(0x4a2)]() < 0x1) continue;
+			(_10b525a == 0x0 || _0x273f7c[_10b525a - 0x1]['vector']['length2']() < 0x1 || _0x3b9f2e && _0x9e232b && _0x5de4e8['distance'](_0x9e232b) > _0x3b9f2e) && (_0x1a960f = 0x0);
 			switch (_0x1a960f) {
 				case 0x0:
 					_0x1d8bdb[_0x376136(0x438)](_0x5de4e8['x'], _0x5de4e8['y']);
 					break;
 				case 0x1:
-					_0x346984 = _0x273f7c[_0xab525a - 0x1]['end']['at'], _0x235804 = _0x273f7c[_0xab525a - 0x1]['vector'][_0x376136(0x1e7)]()[_0x376136(0x5ac)](0.3)[_0x376136(0x4c9)](_0x346984), _0x1d8bdb[_0x376136(0x482)](_0x235804['x'], _0x235804['y'], _0x5de4e8['x'], _0x5de4e8['y']);
+					_0x346984 = _0x273f7c[_10b525a - 0x1]['end']['at'], _0x235804 = _0x273f7c[_10b525a - 0x1]['vector'][_0x376136(0x1e7)]()[_0x376136(0x5ac)](0.3)[_0x376136(0x4c9)](_0x346984), _0x1d8bdb[_0x376136(0x482)](_0x235804['x'], _0x235804['y'], _0x5de4e8['x'], _0x5de4e8['y']);
 					break;
 				case 0x2:
-					_0x346984 = _0x273f7c[_0xab525a - 0x1][_0x376136(0x256)]['at'], _0x235804 = _0x273f7c[_0xab525a - 0x1][_0x376136(0x31f)][_0x376136(0x1e7)]()[_0x376136(0x4c9)](_0x273f7c[_0xab525a][_0x376136(0x31f)])[_0x376136(0x5ac)](0.25)[_0x376136(0x4c9)](_0x346984), _0x1d8bdb[_0x376136(0x438)](_0x235804['x'], _0x235804['y']), _0x1d8bdb['lineTo'](_0x5de4e8['x'], _0x5de4e8['y']);
+					_0x346984 = _0x273f7c[_10b525a - 0x1][_0x376136(0x256)]['at'], _0x235804 = _0x273f7c[_10b525a - 0x1][_0x376136(0x31f)][_0x376136(0x1e7)]()[_0x376136(0x4c9)](_0x273f7c[_10b525a][_0x376136(0x31f)])[_0x376136(0x5ac)](0.25)[_0x376136(0x4c9)](_0x346984), _0x1d8bdb[_0x376136(0x438)](_0x235804['x'], _0x235804['y']), _0x1d8bdb['lineTo'](_0x5de4e8['x'], _0x5de4e8['y']);
 					break;
 			}
-			if (_0x2273a0 && _0xab525a > _0x4afdc1 - 0x6 && _0x5de4e8[_0x376136(0x450)](_0x2273a0) < 0x1e) break;
+			if (_0x2273a0 && _10b525a > _0x4afdc1 - 0x6 && _0x5de4e8[_0x376136(0x450)](_0x2273a0) < 30) break;
 		}
 		return _0x5de4e8;
 	}
@@ -4600,7 +4601,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	class _0x49bc63 {
 		constructor(_0x2ce724) {
 			const _0x2ffa01 = _0x817dbf;
-			_0x340a71(this, 'limit', 0xa), _0x340a71(this, _0x2ffa01(0x402), []), _0x340a71(this, _0x2ffa01(0x4c0)), _0x340a71(this, 'category'), _0x340a71(this, _0x2ffa01(0x1e3)), _0x340a71(this, _0x2ffa01(0x52f)), _0x340a71(this, _0x2ffa01(0x661));
+			_0x340a71(this, 'limit', 10), _0x340a71(this, _0x2ffa01(0x402), []), _0x340a71(this, _0x2ffa01(0x4c0)), _0x340a71(this, 'category'), _0x340a71(this, _0x2ffa01(0x1e3)), _0x340a71(this, _0x2ffa01(0x52f)), _0x340a71(this, _0x2ffa01(0x661));
 			for (let _0xdf2654 in _0x2ce724) this[_0xdf2654] = _0x2ce724[_0xdf2654];
 		} [_0x817dbf(0x4c9)](_0x28e66e) {
 			const _0x1f85e3 = _0x817dbf;
@@ -4614,7 +4615,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		} [_0x817dbf(0x590)](_0x1c31a3) {
 			const _0x26221c = _0x817dbf;
 			return (_0x1c31a3 == null ? this[_0x26221c(0x402)] : this[_0x26221c(0x402)][_0x26221c(0x355)](0x0, _0x1c31a3))[_0x26221c(0x2dd)](_0x5f216e => _0x5f216e[_0x26221c(0x1e3)] == this[_0x26221c(0x1e3)]);
-		} [_0x817dbf(0x466)](_0x4c248c = 0xa) {
+		} [_0x817dbf(0x466)](_0x4c248c = 10) {
 			const _0x2f0a81 = _0x817dbf;
 			let _0x231619 = this['entries'];
 			if (_0x4c248c != null) _0x231619 = _0x231619[_0x2f0a81(0x355)](0x0, _0x4c248c);
@@ -4647,8 +4648,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			for (let _0x53a609 of _0x2493ac) {
 				for (let _0x52b253 of this['leaderboards']) {
 					if (_0x52b253['type'] == _0x53a609[_0x49cc28(0x4c0)]) {
-						let _0xa5f29f = _0x52b253[_0x49cc28(0x4c9)](_0x53a609);
-						_0xa5f29f && (_0x213ea9 = _0x213ea9 || [], _0x213ea9[_0x49cc28(0x241)](_0x2cacce(_0x2cacce({}, _0x53a609), {
+						let _105f29f = _0x52b253[_0x49cc28(0x4c9)](_0x53a609);
+						_105f29f && (_0x213ea9 = _0x213ea9 || [], _0x213ea9[_0x49cc28(0x241)](_0x2cacce(_0x2cacce({}, _0x53a609), {
 							'category': _0x52b253['category']
 						})));
 					}
@@ -4676,9 +4677,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		},
 		_0x27ebe4 = (_0xf4b2a2, _0x5c9d0a, _0x35a923) => {
 			return new Promise((_0x7e0ab5, _0x2dcb50) => {
-				const _0xc7f3fb = a0_0x47bb;
+				const _0xc7f3fb = r459;
 				var _0x323d8c = _0x1df2be => {
-						const _0xde0d46 = a0_0x47bb;
+						const _0xde0d46 = r459;
 						try {
 							_0x4b1800(_0x35a923[_0xde0d46(0x4b2)](_0x1df2be));
 						} catch (_0x18edfb) {
@@ -4686,7 +4687,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0x53b2e5 = _0x252187 => {
-						const _0x4a7458 = a0_0x47bb;
+						const _0x4a7458 = r459;
 						try {
 							_0x4b1800(_0x35a923[_0x4a7458(0x275)](_0x252187));
 						} catch (_0x484a19) {
@@ -4694,30 +4695,30 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0x4b1800 = _0x134142 => {
-						const _0x7cbc7e = a0_0x47bb;
+						const _0x7cbc7e = r459;
 						return _0x134142['done'] ? _0x7e0ab5(_0x134142[_0x7cbc7e(0x337)]) : Promise['resolve'](_0x134142[_0x7cbc7e(0x337)])[_0x7cbc7e(0x4b4)](_0x323d8c, _0x53b2e5);
 					};
 				_0x4b1800((_0x35a923 = _0x35a923[_0xc7f3fb(0x1e1)](_0xf4b2a2, _0x5c9d0a))[_0xc7f3fb(0x4b2)]());
 			});
 		};
-	const _0x276bb4 = 0x5,
+	const _0x276bb4 = 5,
 		_0x25303b = class {
 			constructor(_0x336868, _0x2bf06e, _0x24eebf, _0x368368) {
 				const _0x429260 = _0x817dbf;
 				_0x13a84f(this, _0x429260(0x57f)), _0x13a84f(this, 'prefix'), _0x13a84f(this, _0x429260(0x4e8)), _0x13a84f(this, _0x429260(0x3c2)), _0x13a84f(this, 'gameServer'), _0x13a84f(this, _0x429260(0x573));
 				var _0x1d8a61;
-				this[_0x429260(0x5bf)] = _0x2bf06e, this[_0x429260(0x360)] = new _0x5d5a28(), this[_0x429260(0x360)]['bind'](_0x368368), this['environment'] = _0x24eebf, this[_0x429260(0x604)] = (_0x1d8a61 = _0x2bf06e[_0x429260(0x29e)][_0x429260(0x5d3)]) == null ? void 0x0 : _0x1d8a61['uri'], _0x336868[_0x429260(0x55c)](/[^0-9a-zA-Z_-]/g, () => Math[_0x429260(0x4c8)]()[_0x429260(0x3f8)](0x24)[0x3])['toLowerCase']();
+				this[_0x429260(0x5bf)] = _0x2bf06e, this[_0x429260(0x360)] = new _0x5d5a28(), this[_0x429260(0x360)]['bind'](_0x368368), this['environment'] = _0x24eebf, this[_0x429260(0x604)] = (_0x1d8a61 = _0x2bf06e[_0x429260(0x29e)][_0x429260(0x5d3)]) == null ? void 0x0 : _0x1d8a61['uri'], _0x336868[_0x429260(0x55c)](/[^0-9a-zA-Z_-]/g, () => Math[_0x429260(0x4c8)]()[_0x429260(0x3f8)](0x24)[3])['toLowerCase']();
 				let _0x24f31a = Object[_0x429260(0x1f6)](_0x2bf06e[_0x429260(0x2f3)])[_0x429260(0x4d6)](_0x849ac2 => _0x336868['substr'](0x0, _0x849ac2[_0x429260(0x44a)]) === _0x849ac2)[_0x429260(0x567)]()[_0x429260(0x5bd)](),
 					_0x3f1c6e = _0x24f31a[0x0],
 					_0x23ea20 = '';
-				!_0x3f1c6e ? (_0x23ea20 = _0x336868, _0x3f1c6e = _0x2bf06e['defaultInvitePrefix']) : _0x23ea20 = _0x336868[_0x429260(0x565)](_0x3f1c6e[_0x429260(0x44a)]), this[_0x429260(0x4e8)] = _0x2bf06e['prefixes'][_0x3f1c6e][_0x429260(0x4ab)], console[_0x429260(0x4e1)](_0x429260(0x527) + this[_0x429260(0x4e8)]), _0x23ea20['length'] === 0x0 && (_0x23ea20 = String['fromCharCode'](0x61 + Math[_0x429260(0x26f)](Math[_0x429260(0x4c8)]() * 0x1a)) + Math[_0x429260(0x4c8)]()[_0x429260(0x3f8)](0x24)[_0x429260(0x225)](0x2, 0x8)), this[_0x429260(0x57f)] = _0x23ea20, this[_0x429260(0x5a3)] = _0x3f1c6e, this[_0x429260(0x3d4)](_0x2bf06e[_0x429260(0x2f3)][_0x3f1c6e][_0x429260(0x29e)]);
+				!_0x3f1c6e ? (_0x23ea20 = _0x336868, _0x3f1c6e = _0x2bf06e['defaultInvitePrefix']) : _0x23ea20 = _0x336868[_0x429260(0x565)](_0x3f1c6e[_0x429260(0x44a)]), this[_0x429260(0x4e8)] = _0x2bf06e['prefixes'][_0x3f1c6e][_0x429260(0x4ab)], console[_0x429260(0x4e1)](_0x429260(0x527) + this[_0x429260(0x4e8)]), _0x23ea20['length'] === 0x0 && (_0x23ea20 = String['fromCharCode'](0x61 + Math[_0x429260(0x26f)](Math[_0x429260(0x4c8)]() * 0x1a)) + Math[_0x429260(0x4c8)]()[_0x429260(0x3f8)](0x24)[_0x429260(0x225)](0x2, 8)), this[_0x429260(0x57f)] = _0x23ea20, this[_0x429260(0x5a3)] = _0x3f1c6e, this[_0x429260(0x3d4)](_0x2bf06e[_0x429260(0x2f3)][_0x3f1c6e][_0x429260(0x29e)]);
 			}
 			get[_0x817dbf(0x60a)]() {
 				const _0x3eb53d = _0x817dbf;
 				return this[_0x3eb53d(0x5a3)] + this[_0x3eb53d(0x57f)];
 			} [_0x817dbf(0x3d4)](_0x99b63c) {
 				return _0x27ebe4(this, null, function*() {
-					const _0x240b40 = a0_0x47bb;
+					const _0x240b40 = r459;
 					yield _0x1da89(), _0x99b63c && (_0x99b63c[_0x240b40(0x44a)] > 0x1 ? yield this[_0x240b40(0x2c9)](_0x99b63c): yield this[_0x240b40(0x274)](_0x99b63c[0x0]['uri'])), this[_0x240b40(0x360)][_0x240b40(0x2a1)]({
 						'event': _0x240b40(0x489)
 					});
@@ -4747,7 +4748,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				}
 				return new Promise(_0x540ced => {
 					setTimeout(() => {
-						const _0x4296e9 = a0_0x47bb;
+						const _0x4296e9 = r459;
 						let _0x5490e3 = {};
 						for (let _0x1ef21e in _0x2d69a4) {
 							_0x2d69a4[_0x1ef21e]['length'] >= _0x276bb4 && (_0x5490e3[_0x1ef21e] = _0x4d7d3f(_0x2d69a4[_0x1ef21e]) / _0x2d69a4[_0x1ef21e][_0x4296e9(0x44a)]);
@@ -4775,7 +4776,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				return (_0x25303b['useModePrefix'] ? this[_0x42fc43(0x4e8)] + '|' : '') + this[_0x42fc43(0x60a)];
 			} [_0x817dbf(0x274)](_0x34ac13) {
 				return _0x27ebe4(this, null, function*() {
-					const _0x2bebf0 = a0_0x47bb;
+					const _0x2bebf0 = r459;
 					this['httpServer'] = _0x34ac13;
 					if (!this[_0x2bebf0(0x604)]) this[_0x2bebf0(0x604)] = this['httpServer'];
 					this[_0x2bebf0(0x473)](), this[_0x2bebf0(0x360)]['emit']({
@@ -4785,7 +4786,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				});
 			} [_0x817dbf(0x4a9)](_0x48494b) {
 				return new Promise(_0x3b12f7 => {
-					const _0x36d207 = a0_0x47bb;
+					const _0x36d207 = r459;
 					console[_0x36d207(0x4e1)]('Requesting\x20game\x20server\x20for', this[_0x36d207(0x60a)]), _0x2ca4f7(_0x48494b, {
 						'cmd': _0x36d207(0x47a),
 						'room': this[_0x36d207(0x60a)]
@@ -4799,25 +4800,25 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				});
 			} [_0x817dbf(0x473)]() {
 				return _0x27ebe4(this, null, function*() {
-					const _0x28a1ec = a0_0x47bb;
+					const _0x28a1ec = r459;
 					let _0x528787 = this['environment']['visibleName'];
 					this[_0x28a1ec(0x573)] = new _0x4b7c2d([{
 						'type': _0x28a1ec(0x5bb),
 						'category': this['nameWithPrefix'] + ':kills:daily',
 						'player': _0x528787,
-						'limit': 0xa
+						'limit': 10
 					}, {
 						'type': _0x28a1ec(0x38b),
 						'category': this[_0x28a1ec(0x2e9)] + _0x28a1ec(0x2b9),
 						'player': _0x528787,
-						'limit': 0xa
+						'limit': 10
 					}]);
 					let _0x1a3647 = [];
 					for (let _0x2a1d8c of this['leaderboards'][_0x28a1ec(0x573)]) {
 						_0x1a3647[_0x28a1ec(0x241)]({
 							'cmd': _0x28a1ec(0x331),
 							'category': _0x2a1d8c[_0x28a1ec(0x502)],
-							'limit': 0xa
+							'limit': 10
 						}, {
 							'cmd': _0x28a1ec(0x4d7),
 							'category': _0x2a1d8c['category'],
@@ -4829,12 +4830,12 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						});
 					}
 					let _0x3dfe03 = yield _0x2ca4f7(this[_0x28a1ec(0x604)] + _0x28a1ec(0x4fa), _0x1a3647);
-					for (let _0x8e8018 = 0x0; _0x8e8018 < _0x3dfe03[_0x28a1ec(0x44a)] / 0x3; _0x8e8018++) {
+					for (let _0x8e8018 = 0x0; _0x8e8018 < _0x3dfe03[_0x28a1ec(0x44a)] / 3; _0x8e8018++) {
 						let _0xc5d405 = this[_0x28a1ec(0x573)]['leaderboards'][_0x8e8018];
-						_0xc5d405[_0x28a1ec(0x402)] = _0x3dfe03[_0x8e8018 * 0x3][_0x28a1ec(0x2c0)](([_0x5f2780, _0x25c3b2]) => ({
+						_0xc5d405[_0x28a1ec(0x402)] = _0x3dfe03[_0x8e8018 * 3][_0x28a1ec(0x2c0)](([_0x5f2780, _0x25c3b2]) => ({
 							'player': _0x5f2780,
 							'score': _0x25c3b2
-						})), _0xc5d405[_0x28a1ec(0x52f)] = _0x3dfe03[_0x8e8018 * 0x3 + 0x1], _0xc5d405['playerPlace'] = _0x3dfe03[_0x8e8018 * 0x3 + 0x2];
+						})), _0xc5d405[_0x28a1ec(0x52f)] = _0x3dfe03[_0x8e8018 * 3 + 0x1], _0xc5d405['playerPlace'] = _0x3dfe03[_0x8e8018 * 3 + 0x2];
 					}
 					this['events'][_0x28a1ec(0x2a1)]({
 						'event': _0x28a1ec(0x2ca),
@@ -4848,7 +4849,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				return _0x3a6285 && _0x3a6285[_0x2c0e07(0x44a)] > 0x0 && this['sendRecords'](_0x3a6285), _0x3a6285;
 			} [_0x817dbf(0x57d)]() {
 				return _0x27ebe4(this, null, function*() {
-					const _0x5138ac = a0_0x47bb;
+					const _0x5138ac = r459;
 					if (this[_0x5138ac(0x3d5)] == null) yield this[_0x5138ac(0x360)][_0x5138ac(0x570)](_0x5138ac(0x5c0));
 					return this[_0x5138ac(0x3d5)];
 				});
@@ -4866,27 +4867,27 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		};
 	let _0x1ae829 = _0x25303b;
 	_0x13a84f(_0x1ae829, 'useModePrefix', !![]);
-	let _0x59b21c = {
-		'arenaSize': 0x7d0,
-		'quadSize': 0xa,
-		'borderPoints': 0x12c,
-		'prepareMult': 0x3,
-		'prepareBatchCount': 0x5,
-		'maxPreparingTime': 0x1f4,
-		'baseRadius': 0x1e,
-		'baseCount': 0x32,
-		'minScale': 0x3,
+	let currentConfig = {
+		'arenaSize': 2000,
+		'quadSize': 10,
+		'borderPoints': 300,
+		'prepareMult': 3,
+		'prepareBatchCount': 5,
+		'maxPreparingTime': 500,
+		'baseRadius': 60,
+		'baseCount': 50,
+		'minScale': 3,
 		'maxScale': 4.5,
 		'scaleStep': 0.05,
 		'skinsPath': _0x817dbf(0x282),
 		'observerScale': 2.5,
-		'trackWidth': 0x8,
-		'unitSpeed': cfg.speed,
-		'spawnTimeout': 0xbb8,
-		'prepareCounter': 0xfa0,
+		'trackWidth': 8,
+		'unitSpeed': 150,
+		'spawnTimeout': 3000,
+		'prepareCounter': 4000,
 		'prepareCounterMultiplayer': 0x3e8,
-		'prepareAcceleration': 0x1e,
-		'prepareTimeLimit': 0xbb8,
+		'prepareAcceleration': 30,
+		'prepareTimeLimit': 3000,
 		'prepareTimeLimitPerCycle': 0x64,
 		'baseHeight': 0x2,
 		'botsCount': 0xf,
@@ -4898,7 +4899,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		'oneFrameTime': 0x3e8 / 0x14,
 		'followKiller': ![],
 		'selfKillDelay': 0x3e8,
-		'enemyKillDelay': 0x7d0,
+		'enemyKillDelay': 2000,
 		'arenaColor': _0x817dbf(0x2e5),
 		'borderColor': _0x817dbf(0x393),
 		'backgroundTopColor': _0x817dbf(0x598),
@@ -4939,9 +4940,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		},
 		_0x580f13 = (_0x349d97, _0x2a7810, _0x4c6a3f) => {
 			return new Promise((_0x1f807d, _0x448f61) => {
-				const _0x48db52 = a0_0x47bb;
+				const _0x48db52 = r459;
 				var _0x3ae501 = _0x453210 => {
-						const _0x561d8b = a0_0x47bb;
+						const _0x561d8b = r459;
 						try {
 							_0x1c007b(_0x4c6a3f[_0x561d8b(0x4b2)](_0x453210));
 						} catch (_0x2c39b6) {
@@ -4956,7 +4957,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0x1c007b = _0x213773 => {
-						const _0xc63534 = a0_0x47bb;
+						const _0xc63534 = r459;
 						return _0x213773[_0xc63534(0x554)] ? _0x1f807d(_0x213773['value']) : Promise[_0xc63534(0x44d)](_0x213773[_0xc63534(0x337)])[_0xc63534(0x4b4)](_0x3ae501, _0xc532ec);
 					};
 				_0x1c007b((_0x4c6a3f = _0x4c6a3f[_0x48db52(0x1e1)](_0x349d97, _0x2a7810))[_0x48db52(0x4b2)]());
@@ -4974,14 +4975,14 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			});
 		} [_0x817dbf(0x43f)]() {
 			return _0x580f13(this, null, function*() {
-				const _0x28d711 = a0_0x47bb;
+				const _0x28d711 = r459;
 				let _0x508ee4 = _0x28d711(0x203),
 					_0x2f322f = [_0x28d711(0x1ff), _0x28d711(0x24a), _0x28d711(0x29e), _0x28d711(0x474), 'modes', _0x508ee4],
-					_0x1bd987, _0x575e68 = yield Promise['all'](_0x2f322f['map'](_0xa420ee => fetch(_0x28d711(0x3a0) + _0xa420ee + '.json?' + Date[_0x28d711(0x55d)]())[_0x28d711(0x67c)](_0x3b93e9 => {
+					_0x1bd987, _0x575e68 = yield Promise['all'](_0x2f322f['map'](_10420ee => fetch(_0x28d711(0x3a0) + _10420ee + '.json?' + Date[_0x28d711(0x55d)]())[_0x28d711(0x67c)](_0x3b93e9 => {
 						const _0x55b1bb = _0x28d711;
-						return console[_0x55b1bb(0x4e1)](_0x55b1bb(0x3f7) + _0xa420ee + _0x55b1bb(0x3c6), _0x3b93e9), null;
-					}))), _0x20cc81 = _0x575e68 ? yield Promise[_0x28d711(0x47f)](_0x575e68[_0x28d711(0x2c0)]((_0xb3402b, _0x5bf9e4) => _0xb3402b[_0x28d711(0x501)]()[_0x28d711(0x67c)](_0xaa6bd0 => (console[_0x28d711(0x4e1)](_0x28d711(0x1d2) + _0x2f322f[_0x5bf9e4] + _0x28d711(0x3c6), _0xaa6bd0), _0xaa6bd0)))): {};
-				_0x1bd987 = Object['fromEntries'](_0x20cc81[_0x28d711(0x2c0)]((_0x56faac, _0x23b356) => [_0x2f322f[_0x23b356], _0x56faac])), this[_0x28d711(0x5bf)] = _0xf26c90(_0xf26c90({}, _0x59b21c), _0x1bd987[_0x508ee4]), this['loadModes'](_0x1bd987[_0x28d711(0x247)]), this[_0x28d711(0x560)](_0x1bd987[_0x28d711(0x24a)]), this[_0x28d711(0x4e0)](_0x1bd987[_0x28d711(0x29e)]), this[_0x28d711(0x242)](_0x1bd987[_0x28d711(0x1ff)]), this[_0x28d711(0x2d6)](_0x1bd987['achievements']), this[_0x28d711(0x5bf)] = _0xf26c90(_0xf26c90({}, this[_0x28d711(0x5bf)]), {
+						return console[_0x55b1bb(0x4e1)](_0x55b1bb(0x3f7) + _10420ee + _0x55b1bb(0x3c6), _0x3b93e9), null;
+					}))), _0x20cc81 = _0x575e68 ? yield Promise[_0x28d711(0x47f)](_0x575e68[_0x28d711(0x2c0)]((_0xb3402b, _0x5bf9e4) => _0xb3402b[_0x28d711(0x501)]()[_0x28d711(0x67c)](_10a6bd0 => (console[_0x28d711(0x4e1)](_0x28d711(0x1d2) + _0x2f322f[_0x5bf9e4] + _0x28d711(0x3c6), _10a6bd0), _10a6bd0)))): {};
+				_0x1bd987 = Object['fromEntries'](_0x20cc81[_0x28d711(0x2c0)]((_0x56faac, _0x23b356) => [_0x2f322f[_0x23b356], _0x56faac])), this[_0x28d711(0x5bf)] = _0xf26c90(_0xf26c90({}, currentConfig), _0x1bd987[_0x508ee4]), this['loadModes'](_0x1bd987[_0x28d711(0x247)]), this[_0x28d711(0x560)](_0x1bd987[_0x28d711(0x24a)]), this[_0x28d711(0x4e0)](_0x1bd987[_0x28d711(0x29e)]), this[_0x28d711(0x242)](_0x1bd987[_0x28d711(0x1ff)]), this[_0x28d711(0x2d6)](_0x1bd987['achievements']), this[_0x28d711(0x5bf)] = _0xf26c90(_0xf26c90({}, this[_0x28d711(0x5bf)]), {
 					'modes': this['modes'],
 					'languages': this[_0x28d711(0x24a)],
 					'servers': _0x1bd987[_0x28d711(0x29e)],
@@ -5149,7 +5150,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	class _0x52bfea {
 		constructor(_0x575ae3, _0x582f35 = {}) {
 			const _0x3ee62a = _0x817dbf;
-			_0x437f3c(this, 'id'), _0x437f3c(this, _0x3ee62a(0x583)), _0x437f3c(this, _0x3ee62a(0x656)), _0x437f3c(this, 'lastTic'), _0x437f3c(this, 'lastCompleteTic'), _0x437f3c(this, 'localPlayerId'), this[_0x3ee62a(0x60a)] = Math[_0x3ee62a(0x4c8)]()[_0x3ee62a(0x3f8)]()[_0x3ee62a(0x225)](0x2, 0xa), this['date'] = Date[_0x3ee62a(0x55d)](), this[_0x3ee62a(0x45d)] = _0x575ae3, this[_0x3ee62a(0x294)] = [], this['playersById'] = {}, this[_0x3ee62a(0x22e)] = _0x582f35, this[_0x3ee62a(0x360)] = new _0x2d9699(), this[_0x3ee62a(0x42f)] = 0x3e8 / _0x582f35[_0x3ee62a(0x378)] || 0x32;
+			_0x437f3c(this, 'id'), _0x437f3c(this, _0x3ee62a(0x583)), _0x437f3c(this, _0x3ee62a(0x656)), _0x437f3c(this, 'lastTic'), _0x437f3c(this, 'lastCompleteTic'), _0x437f3c(this, 'localPlayerId'), this[_0x3ee62a(0x60a)] = Math[_0x3ee62a(0x4c8)]()[_0x3ee62a(0x3f8)]()[_0x3ee62a(0x225)](0x2, 10), this['date'] = Date[_0x3ee62a(0x55d)](), this[_0x3ee62a(0x45d)] = _0x575ae3, this[_0x3ee62a(0x294)] = [], this['playersById'] = {}, this[_0x3ee62a(0x22e)] = _0x582f35, this[_0x3ee62a(0x360)] = new _0x2d9699(), this[_0x3ee62a(0x42f)] = 0x3e8 / _0x582f35[_0x3ee62a(0x378)] || 50;
 		} ['onEvent'](_0x278391) {
 			const _0x33184d = _0x817dbf,
 				_0x11e2d7 = _0x227c57[_0x278391[_0x33184d(0x296)]];
@@ -5300,20 +5301,20 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			if (_0x888d75 != void 0x0 && (this[_0x30ae7f(0x656)] == void 0x0 || this['initialTicTime'] > _0x888d75)) this[_0x30ae7f(0x656)] = _0x888d75;
 			(this[_0x30ae7f(0x583)] == void 0x0 || _0x3f14a1 < this[_0x30ae7f(0x583)]) && (this['initialTic'] = _0x3f14a1);
 			if (this[_0x30ae7f(0x3dd)] == void 0x0 || _0x3f14a1 > this[_0x30ae7f(0x3dd)]) this['lastTic'] = _0x3f14a1;
-		} [_0x817dbf(0x38c)](_0xae0cb4, _0x4a9322, _0x410bdc, _0x331569) {
+		} [_0x817dbf(0x38c)](_10e0cb4, _0x4a9322, _0x410bdc, _0x331569) {
 			const _0x5e7704 = _0x817dbf;
-			if (this[_0x5e7704(0x223)] > _0xae0cb4 - 0x1) {
-				console[_0x5e7704(0x37c)]('Trying\x20to\x20set\x20tic\x20' + _0xae0cb4 + _0x5e7704(0x4ac) + this[_0x5e7704(0x223)] + _0x5e7704(0x220));
+			if (this[_0x5e7704(0x223)] > _10e0cb4 - 0x1) {
+				console[_0x5e7704(0x37c)]('Trying\x20to\x20set\x20tic\x20' + _10e0cb4 + _0x5e7704(0x4ac) + this[_0x5e7704(0x223)] + _0x5e7704(0x220));
 				return;
 			}
-			if (_0xae0cb4 == null) _0xae0cb4 = this[_0x5e7704(0x223)] == null ? 0x0 : this['lastCompleteTic'] + 0x1;
-			this['lastCompleteTic'] = _0xae0cb4 - 0x1;
+			if (_10e0cb4 == null) _10e0cb4 = this[_0x5e7704(0x223)] == null ? 0x0 : this['lastCompleteTic'] + 0x1;
+			this['lastCompleteTic'] = _10e0cb4 - 0x1;
 			for (let _0x4e4f02 in _0x4a9322) {
-				this[_0x5e7704(0x28c)](_0x4e4f02, _0xae0cb4, _0x4a9322[_0x4e4f02], _0x410bdc);
+				this[_0x5e7704(0x28c)](_0x4e4f02, _10e0cb4, _0x4a9322[_0x4e4f02], _0x410bdc);
 			}
 			if (_0x331569)
 				for (let _0x1f52ef of this[_0x5e7704(0x294)]) {
-					!_0x1f52ef[_0x5e7704(0x5b9)] && !(_0x1f52ef['id'] in _0x4a9322) && this[_0x5e7704(0x28c)](_0x1f52ef['id'], _0xae0cb4, _0x1f52ef['lastKnownMove'](), _0x410bdc);
+					!_0x1f52ef[_0x5e7704(0x5b9)] && !(_0x1f52ef['id'] in _0x4a9322) && this[_0x5e7704(0x28c)](_0x1f52ef['id'], _10e0cb4, _0x1f52ef['lastKnownMove'](), _0x410bdc);
 				}!this['tryToCompleteMove']() && console[_0x5e7704(0x37c)](_0x5e7704(0x3ef));
 		} [_0x817dbf(0x313)](_0x4decc8) {
 			const _0x2fde67 = _0x817dbf;
@@ -5329,10 +5330,10 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			return this['players'][_0x431e65(0x4d6)](_0xd4d08b => _0xd4d08b['aliveAt'](_0x3ca3ed));
 		} ['forceCompleteMove'](_0x565c62) {
 			const _0x38339f = _0x817dbf;
-			for (let _0xaedcc9 = this[_0x38339f(0x223)] + 0x1; _0xaedcc9 <= _0x565c62; _0xaedcc9++) {
-				let _0x10243d = this[_0x38339f(0x313)](_0xaedcc9);
+			for (let _10edcc9 = this[_0x38339f(0x223)] + 0x1; _10edcc9 <= _0x565c62; _10edcc9++) {
+				let _0x10243d = this[_0x38339f(0x313)](_10edcc9);
 				if (!_0x10243d)
-					for (let _0x1ec131 of this[_0x38339f(0x452)](_0xaedcc9)) {
+					for (let _0x1ec131 of this[_0x38339f(0x452)](_10edcc9)) {
 						if (_0x1ec131['direction'](this[_0x38339f(0x223)] + 0x1) == void 0x0) _0x1ec131[_0x38339f(0x54d)](this['lastCompleteTic'] + 0x1, _0x1ec131['lastKnownMove']());
 					}
 			}!this['tryToCompleteMove']() && console[_0x38339f(0x37c)](_0x38339f(0x4b5));
@@ -5384,9 +5385,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		},
 		_0x5a4fa8 = (_0x235a0b, _0x5841a1, _0x2fcee6) => {
 			return new Promise((_0x87587b, _0x340f31) => {
-				const _0x1bb62a = a0_0x47bb;
+				const _0x1bb62a = r459;
 				var _0x530a27 = _0x59f71c => {
-						const _0xf95423 = a0_0x47bb;
+						const _0xf95423 = r459;
 						try {
 							_0x53b50f(_0x2fcee6[_0xf95423(0x4b2)](_0x59f71c));
 						} catch (_0x4f5468) {
@@ -5394,7 +5395,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0x430564 = _0x433cf1 => {
-						const _0x204aa6 = a0_0x47bb;
+						const _0x204aa6 = r459;
 						try {
 							_0x53b50f(_0x2fcee6[_0x204aa6(0x275)](_0x433cf1));
 						} catch (_0x338320) {
@@ -5402,7 +5403,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0x53b50f = _0x3da6d3 => {
-						const _0x439d88 = a0_0x47bb;
+						const _0x439d88 = r459;
 						return _0x3da6d3['done'] ? _0x87587b(_0x3da6d3['value']) : Promise[_0x439d88(0x44d)](_0x3da6d3['value'])['then'](_0x530a27, _0x430564);
 					};
 				_0x53b50f((_0x2fcee6 = _0x2fcee6[_0x1bb62a(0x1e1)](_0x235a0b, _0x5841a1))[_0x1bb62a(0x4b2)]());
@@ -5421,7 +5422,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			this['options'] = _0xc27440;
 		} [_0x817dbf(0x2e7)]() {
 			return _0x5a4fa8(this, null, function*() {
-				const _0x117185 = a0_0x47bb;
+				const _0x117185 = r459;
 				yield _0x1da89();
 				let _0x26cb2e = this[_0x117185(0x2c3)]['seed'] || Math[_0x117185(0x4c8)]();
 				this['events']['emit']({
@@ -5473,19 +5474,19 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			}));
 		} [_0x817dbf(0x632)]() {
 			return _0x5a4fa8(this, null, function*() {
-				const _0x14107d = a0_0x47bb;
+				const _0x14107d = r459;
 				this[_0x14107d(0x62e)] = this[_0x14107d(0x644)][_0x14107d(0x205)]();
 				const _0x50a5d4 = this[_0x14107d(0x644)][_0x14107d(0x27c)](_0x1d4d14 => this['backlog'][_0x14107d(0x241)](_0x1d4d14));
 				this[_0x14107d(0x360)]['emit']({
 					'event': 'createGame',
 					'seed': this[_0x14107d(0x644)][_0x14107d(0x45d)]
 				}), console[_0x14107d(0x4e1)](_0x14107d(0x544));
-				let _0x4ee0bf = Math[_0x14107d(0x240)](this['backlog'][_0x14107d(0x44a)] / 0xa);
+				let _0x4ee0bf = Math[_0x14107d(0x240)](this['backlog'][_0x14107d(0x44a)] / 10);
 				for (let _0x1efe16 = 0x0; _0x1efe16 < this[_0x14107d(0x62e)][_0x14107d(0x44a)]; _0x1efe16++) {
 					let _0x379fd5 = this[_0x14107d(0x62e)][_0x1efe16];
 					this[_0x14107d(0x360)]['emit'](_0x379fd5);
 					if (_0x1efe16 % _0x4ee0bf === 0x0 && _0x1efe16 / this[_0x14107d(0x62e)][_0x14107d(0x44a)] < 0.9) {
-						yield _0x513651(0xa);
+						yield _0x513651(10);
 						let _0x41d74c = Math['min'](Math[_0x14107d(0x3bf)](0.001, _0x1efe16 / this[_0x14107d(0x62e)][_0x14107d(0x44a)]), 0.999);
 						this['events'][_0x14107d(0x2a1)]({
 							'event': _0x14107d(0x632),
@@ -5677,7 +5678,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		if (_0x2d2b8f['debugView']) {
 			if (_0x2d2b8f['debugSettings'][_0x5dec19(0x5ac)] != null) {
 				_0x35455c = _0x2d2b8f['debugSettings']['scale'];
-				if (_0x35455c > 0xa) _0x2d2b8f[_0x5dec19(0x372)] = !![];
+				if (_0x35455c > 10) _0x2d2b8f[_0x5dec19(0x372)] = !![];
 			}
 			if (_0x2d2b8f[_0x5dec19(0x27b)]['origin'] != null) _0x481181 = _0x2d2b8f[_0x5dec19(0x27b)]['origin'];
 		}
@@ -5779,7 +5780,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			let _0x334748 = _0x2db79a != 'back';
 			_0x29d3bb['units'][_0x1c9b17(0x51e)](_0x4f1b6c => {
 				const _0x3f0347 = _0x1c9b17;
-				if (_0x2af845[_0x3f0347(0x58f)]) _0x2b86a6[_0x3f0347(0x4fe)] = _0x4f1b6c[_0x3f0347(0x4ce)]['colors'][_0x3f0347(0x271)], _0x2b86a6[_0x3f0347(0x5e3)] = 0.5, _0x2b86a6[_0x3f0347(0x667)](_0x4f1b6c['at']['x'] - 0x3, _0x4f1b6c['at']['y'] - 0x3, 0x6, 0x6), _0x2b86a6['lineWidth'] = 0.2, _0x2b86a6['strokeRect'](_0x4f1b6c['at']['x'] - 0.2, _0x4f1b6c['at']['y'] - 0.2, 0.4, 0.4);
+				if (_0x2af845[_0x3f0347(0x58f)]) _0x2b86a6[_0x3f0347(0x4fe)] = _0x4f1b6c[_0x3f0347(0x4ce)]['colors'][_0x3f0347(0x271)], _0x2b86a6[_0x3f0347(0x5e3)] = 0.5, _0x2b86a6[_0x3f0347(0x667)](_0x4f1b6c['at']['x'] - 3, _0x4f1b6c['at']['y'] - 3, 0x6, 0x6), _0x2b86a6['lineWidth'] = 0.2, _0x2b86a6['strokeRect'](_0x4f1b6c['at']['x'] - 0.2, _0x4f1b6c['at']['y'] - 0.2, 0.4, 0.4);
 				else(_0x45ab81(_0x4f1b6c['at'], _0xcd1439 * 0x4) || _0x2af845['debugView']) && _0x39c87e(_0x29d3bb[_0x3f0347(0x5bf)], _0x2b86a6, _0x4f1b6c, [_0x4f1b6c['skin']['container'], _0x4f1b6c[_0x3f0347(0x4ce)][_0x3f0347(0x3ad)]], _0x334748);
 			});
 		},
@@ -5809,7 +5810,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					boundsInView: _0x5a42b5,
 					localPlayer: _0x2a990a,
 					origin: _0x13f040,
-					scaler: _0xaaf2ff
+					scaler: _10af2ff
 				} = _0x3cfea3;
 			let _0x5ec3cf = _0x3cfea3[_0x2ccc7c(0x58f)] ? _0x3cfea3['debugSettings'][_0x2ccc7c(0x586)] : _0x301571[_0x2ccc7c(0x5bf)][_0x2ccc7c(0x586)];
 			_0x104a13[_0x2ccc7c(0x607)](), _0x104a13['lineCap'] = 'round', _0x301571['units'][_0x2ccc7c(0x51e)](_0x1b36b7 => {
@@ -5842,7 +5843,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					backgroundBottomColor: _0x27a6bd
 				} = _0x43db5b[_0x4c4c4f(0x5bf)];
 			if (!_0x9c952[_0x4c4c4f(0x523)]) _0x1ebed8(_0x2490c6, _0x43db5b[_0x4c4c4f(0x22f)][_0x4c4c4f(0x65e)], _0x4645a5);
-			_0x2490c6[_0x4c4c4f(0x4fe)] = _0x3ba7ab, _0x2490c6[_0x4c4c4f(0x5e3)] = 0x3 * _0x4c7e00, _0x2490c6[_0x4c4c4f(0x379)](_0x43db5b[_0x4c4c4f(0x22f)][_0x4c4c4f(0x65e)][_0x4c4c4f(0x49f)]), _0x2490c6[_0x4c4c4f(0x324)](), _0x2490c6[_0x4c4c4f(0x581)] = _0x9c952[_0x4c4c4f(0x523)] ? _0x4645a5 : _0x2b9da2(_0x2490c6, _0x43db5b['space'], _0x5429f1, _0x27a6bd), _0x2490c6[_0x4c4c4f(0x654)](_0x4f83e0 / -0x2, _0x207152 / -0x2, _0x43db5b[_0x4c4c4f(0x25c)][_0x4c4c4f(0x3fd)] + _0x4f83e0, _0x43db5b['space'][_0x4c4c4f(0x532)] + _0x207152);
+			_0x2490c6[_0x4c4c4f(0x4fe)] = _0x3ba7ab, _0x2490c6[_0x4c4c4f(0x5e3)] = 3 * _0x4c7e00, _0x2490c6[_0x4c4c4f(0x379)](_0x43db5b[_0x4c4c4f(0x22f)][_0x4c4c4f(0x65e)][_0x4c4c4f(0x49f)]), _0x2490c6[_0x4c4c4f(0x324)](), _0x2490c6[_0x4c4c4f(0x581)] = _0x9c952[_0x4c4c4f(0x523)] ? _0x4645a5 : _0x2b9da2(_0x2490c6, _0x43db5b['space'], _0x5429f1, _0x27a6bd), _0x2490c6[_0x4c4c4f(0x654)](_0x4f83e0 / -0x2, _0x207152 / -0x2, _0x43db5b[_0x4c4c4f(0x25c)][_0x4c4c4f(0x3fd)] + _0x4f83e0, _0x43db5b['space'][_0x4c4c4f(0x532)] + _0x207152);
 		},
 		_0x1811a4 = _0x481a78 => {
 			const _0x5ecff1 = _0x817dbf,
@@ -5907,8 +5908,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					localPlayer: _0x50ce8c,
 					origin: _0x206c16
 				} = _0x442fdd,
-				_0x237895 = _0x3f38ab / _0x2f0ee2(0x8, 0x3),
-				_0x300c29 = _0x4753d5[_0x1eceb8(0x25c)][_0x1eceb8(0x3fd)] / _0x237895 * _0x4b6a91 * 0x3;
+				_0x237895 = _0x3f38ab / _0x2f0ee2(8, 3),
+				_0x300c29 = _0x4753d5[_0x1eceb8(0x25c)][_0x1eceb8(0x3fd)] / _0x237895 * _0x4b6a91 * 3;
 			_0x9752e9[_0x1eceb8(0x607)](), _0x9752e9[_0x1eceb8(0x699)](_0x3f38ab - _0x3dda6e - _0x237895, _0x410ff9 - _0x3dda6e - _0x237895), _0x9752e9[_0x1eceb8(0x5ac)](_0x237895 / _0x4753d5[_0x1eceb8(0x25c)][_0x1eceb8(0x3fd)], _0x237895 / _0x4753d5[_0x1eceb8(0x25c)]['height']), _0x1ebed8(_0x9752e9, _0x4753d5[_0x1eceb8(0x22f)][_0x1eceb8(0x65e)], _0x1eceb8(0x664));
 			if (_0x442fdd['showGameInfo'])
 				for (let _0x1f5133 of _0x4753d5[_0x1eceb8(0x24b)]) {
@@ -5933,7 +5934,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			ctx: _0x16f1f5,
 			devicePixelRatio: _0xb7daca
 		} = _0x5a1350;
-		!_0x9744e6 && (_0x9744e6 = document['createElement']('canvas'), _0x9744e6[_0x2112dc(0x3fd)] = ~~_0x5a1350['barWidth'], _0x9744e6['height'] = ~~(_0x5a1350[_0x2112dc(0x68d)] * 1.3 * 0x8));
+		!_0x9744e6 && (_0x9744e6 = document['createElement']('canvas'), _0x9744e6[_0x2112dc(0x3fd)] = ~~_0x5a1350['barWidth'], _0x9744e6['height'] = ~~(_0x5a1350[_0x2112dc(0x68d)] * 1.3 * 8));
 		if (_0x86e286(_0x5a1350)) {
 			let _0x787e25 = _0x9744e6[_0x2112dc(0x343)]('2d');
 			_0x787e25[_0x2112dc(0x607)](), _0x787e25['clearRect'](0x0, 0x0, _0x9744e6[_0x2112dc(0x3fd)], _0x9744e6[_0x2112dc(0x532)]), _0x787e25[_0x2112dc(0x699)](-_0x16f1f5['canvas']['width'] + _0x9744e6['width'], 0x0), _0x787e25[_0x2112dc(0x5ac)](0x1 / _0xb7daca, 0x1 / _0xb7daca), _0x358ef7(_0x787e25, _0x5a1350), _0x787e25[_0x2112dc(0x34d)]();
@@ -5965,14 +5966,14 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			const _0x52cc99 = _0x23c0b0 + _0x4541b0;
 			let _0x295d76 = _0x10aa28 - _0x52cc99;
 			const _0xb40db0 = [_0x2d1baf, 0x0, 0x0, _0x2d1baf];
-			_0x4262ca[_0x5c595d(0x581)] = _0x5c595d(0x42e), _0x29b3af(_0x4262ca, _0x295d76 + _0x533c60, _0x35210e + _0x533c60 * 0x3, _0x5ecc92, _0x35b50d, _0xb40db0), _0x4262ca[_0x5c595d(0x581)] = _0x5f3805[_0x5c595d(0x4ce)]['colors'][_0x5c595d(0x5c1)], _0x29b3af(_0x4262ca, _0x295d76, _0x35210e + _0x533c60, _0x5ecc92, _0x35b50d, _0xb40db0, _0x4f0302), _0x4262ca[_0x5c595d(0x581)] = _0x5f3805[_0x5c595d(0x4ce)][_0x5c595d(0x5ed)][_0x5c595d(0x271)], _0x29b3af(_0x4262ca, _0x295d76, _0x35210e, _0x5ecc92, _0x35b50d, _0xb40db0, _0x4f0302), _0x4262ca[_0x5c595d(0x581)] = _0x5f3805[_0x5c595d(0x4ce)][_0x5c595d(0x5ed)][_0x5c595d(0x429)], _0x4262ca[_0x5c595d(0x5d4)] = _0x69707d, _0x4262ca['textAlign'] = 'left', _0x4262ca[_0x5c595d(0x1dd)] = 'middle', _0x4262ca[_0x5c595d(0x47b)](_0x16752d + _0x5c595d(0x593) + _0x5f3805[_0x5c595d(0x30b)][_0x5c595d(0x46d)]() + '\x20' + _0x5f3805[_0x5c595d(0x60a)], _0x295d76 + _0x2d1baf, _0x35210e + _0x2d1baf * 1.1);
+			_0x4262ca[_0x5c595d(0x581)] = _0x5c595d(0x42e), _0x29b3af(_0x4262ca, _0x295d76 + _0x533c60, _0x35210e + _0x533c60 * 3, _0x5ecc92, _0x35b50d, _0xb40db0), _0x4262ca[_0x5c595d(0x581)] = _0x5f3805[_0x5c595d(0x4ce)]['colors'][_0x5c595d(0x5c1)], _0x29b3af(_0x4262ca, _0x295d76, _0x35210e + _0x533c60, _0x5ecc92, _0x35b50d, _0xb40db0, _0x4f0302), _0x4262ca[_0x5c595d(0x581)] = _0x5f3805[_0x5c595d(0x4ce)][_0x5c595d(0x5ed)][_0x5c595d(0x271)], _0x29b3af(_0x4262ca, _0x295d76, _0x35210e, _0x5ecc92, _0x35b50d, _0xb40db0, _0x4f0302), _0x4262ca[_0x5c595d(0x581)] = _0x5f3805[_0x5c595d(0x4ce)][_0x5c595d(0x5ed)][_0x5c595d(0x429)], _0x4262ca[_0x5c595d(0x5d4)] = _0x69707d, _0x4262ca['textAlign'] = 'left', _0x4262ca[_0x5c595d(0x1dd)] = 'middle', _0x4262ca[_0x5c595d(0x47b)](_0x16752d + _0x5c595d(0x593) + _0x5f3805[_0x5c595d(0x30b)][_0x5c595d(0x46d)]() + '\x20' + _0x5f3805[_0x5c595d(0x60a)], _0x295d76 + _0x2d1baf, _0x35210e + _0x2d1baf * 1.1);
 		},
-		_0x358ef7 = (_0x12ca5f, _0x5f0ac9) => {
+		_0x358ef7 = (_300a5f, _0x5f0ac9) => {
 			const _0x287432 = _0x817dbf,
 				_0x17b446 = _0x5f0ac9[_0x287432(0x547)][_0x287432(0x440)][0x0],
 				_0x191edb = _0x17b446 && _0x17b446['schemes'][_0x287432(0x397)]();
 			for (let _0x161e1c = 0x0; _0x161e1c < _0x1787dc[_0x287432(0x44a)]; _0x161e1c++) {
-				_0x3426be(_0x12ca5f, _0x5f0ac9, _0x1787dc[_0x161e1c][0x0], _0x161e1c + 0x1, _0x161e1c, _0x191edb);
+				_0x3426be(_300a5f, _0x5f0ac9, _0x1787dc[_0x161e1c][0x0], _0x161e1c + 0x1, _0x161e1c, _0x191edb);
 			}
 			_0x205039 = null;
 		};
@@ -5992,7 +5993,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		const _0x1f5a42 = _0x817dbf;
 		let _0x42590d = [],
 			_0x2c424a = ![];
-		for (let _0x302af3 = 0x0; _0x302af3 < 0x5; _0x302af3++) {
+		for (let _0x302af3 = 0x0; _0x302af3 < 5; _0x302af3++) {
 			const _0x1fe2e2 = _0x475a8a[_0x1f5a42(0x440)][_0x302af3];
 			_0x1fe2e2 && (_0x1fe2e2 == _0x1c6f0d && (_0x2c424a = !![]), _0x42590d[_0x1f5a42(0x241)]([_0x1fe2e2, _0x1fe2e2['percent']]));
 		}
@@ -6088,11 +6089,11 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						_0x37a625 = _0x261701[_0x407800(0x5af)]() * (_0x5c78db + _0xe43785) - _0x5c78db,
 						_0x15c1eb = Math[_0x407800(0x3bf)](_0x159706[_0x407800(0x210)](_0x4a6b69)[_0x407800(0x3fd)], _0x159706['measureText'](_0x2e004d)[_0x407800(0x3fd)]),
 						_0x52928e = _0x9e0c1f ? _0x26a8de * 0x2 : 0x0,
-						_0x37f5c0 = _0x15c1eb + _0xe43785 * 0x5 + _0x52928e,
+						_0x37f5c0 = _0x15c1eb + _0xe43785 * 5 + _0x52928e,
 						_0x2d55d2 = _0xe43785 / 0x2;
 					_0x159706[_0x407800(0x581)] = _0x407800(0x217), _0x29b3af(_0x159706, (_0x5b1a07 - _0x37f5c0) / 0x2, _0x37a625, _0x37f5c0, _0x5c78db, [(_0x292560 + _0x1ac8f5) / 0x2, (_0x292560 + _0x1ac8f5) / 0x2, (_0x292560 + _0x1ac8f5) / 0x2, (_0x292560 + _0x1ac8f5) / 0x2]), _0x159706['fillStyle'] = _0x407800(0x675), _0x159706[_0x407800(0x64e)] = '#ffffff', _0x159706[_0x407800(0x451)] = 0x1, _0x159706[_0x407800(0x2aa)] = _0x407800(0x3bd), _0x159706[_0x407800(0x1dd)] = _0x407800(0x331);
 					_0x4a6b69 != null && _0x159706[_0x407800(0x47b)](_0x4a6b69, (_0x5b1a07 - _0x37f5c0) / 0x2 + _0x37f5c0 / 0x2 + _0x52928e / 0x2, _0x37a625 + _0x2d55d2);
-					_0x159706[_0x407800(0x581)] = _0x407800(0x535), _0x159706[_0x407800(0x64e)] = '#ffffff88', _0x159706['shadowBlur'] = 0x1, _0x159706[_0x407800(0x5d4)] = _0x1654d7, _0x159706[_0x407800(0x47b)](_0x2e004d, (_0x5b1a07 - _0x37f5c0) / 0x2 + _0x37f5c0 / 0x2 + _0x52928e / 0x2, _0x37a625 + _0x2d55d2 + (_0x4a6b69 != null ? _0x26a8de : _0x26a8de / 0x2)), _0x159706[_0x407800(0x64e)] = _0x407800(0x675), _0x159706[_0x407800(0x451)] = 0xa;
+					_0x159706[_0x407800(0x581)] = _0x407800(0x535), _0x159706[_0x407800(0x64e)] = '#ffffff88', _0x159706['shadowBlur'] = 0x1, _0x159706[_0x407800(0x5d4)] = _0x1654d7, _0x159706[_0x407800(0x47b)](_0x2e004d, (_0x5b1a07 - _0x37f5c0) / 0x2 + _0x37f5c0 / 0x2 + _0x52928e / 0x2, _0x37a625 + _0x2d55d2 + (_0x4a6b69 != null ? _0x26a8de : _0x26a8de / 0x2)), _0x159706[_0x407800(0x64e)] = _0x407800(0x675), _0x159706[_0x407800(0x451)] = 10;
 					if (_0x9e0c1f) _0x159706['drawImage'](_0x9e0c1f, (_0x5b1a07 - _0x37f5c0) / 0x2 + _0x2d55d2, _0x37a625 + _0x2d55d2, _0x52928e, _0x52928e);
 					_0x159706[_0x407800(0x34d)]();
 				}
@@ -6122,7 +6123,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		let _0x345abf, _0x5d877c = 0x0;
 		const _0x417a24 = (_0x5c7050 = '', _0x5aca7d = 0x0) => {
 			const _0x3cf8cb = _0x2f864d;
-			_0x5c7050 && _0x656e96[_0x3cf8cb(0x47b)](_0x5c7050, 0xa + _0x5aca7d * 0x10 + _0x5d877c, _0x345abf), _0x345abf += 0x10;
+			_0x5c7050 && _0x656e96[_0x3cf8cb(0x47b)](_0x5c7050, 10 + _0x5aca7d * 0x10 + _0x5d877c, _0x345abf), _0x345abf += 0x10;
 		};
 		for (let _0x1e47fd of Object[_0x2f864d(0x402)]([_0x2f864d(0x286)])) {
 			_0x656e96[_0x2f864d(0x581)] = _0x1e47fd[0x1], _0x345abf = 0xc8 * _0x4070e8[_0x2f864d(0x576)] - Number(_0x1e47fd[0x0]) * 0x1, _0x5d877c = Number(_0x1e47fd[0x0]) * 0x1;
@@ -6151,7 +6152,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		}
 		_0x656e96[_0x2f864d(0x34d)]();
 		if (_0x4070e8[_0x2f864d(0x39f)]) {
-			const _0x3ae3f6 = _0x656e96['canvas'][_0x2f864d(0x3fd)] / 0x3,
+			const _0x3ae3f6 = _0x656e96['canvas'][_0x2f864d(0x3fd)] / 3,
 				_0x4adc79 = 0x64,
 				_0x81c2c8 = new Path2D(),
 				_0x1f5fb1 = new Path2D(),
@@ -6222,7 +6223,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			}, this[_0xc00e09(0x34b)] = _0x539b5b(() => {
 				const _0x3f6f2e = _0xc00e09;
 				this['localPlayer'] && ![] && (!this[_0x3f6f2e(0x504)]['moveTo'] && this[_0x3f6f2e(0x504)]['in'] === null && Math['random']() < 0.0005 && (this[_0x3f6f2e(0x504)]['in'] = this['localPlayer']['base'])), this['loop']();
-			})) : setInterval(() => this[_0xc00e09(0x549)](), 0x32);
+			})) : setInterval(() => this[_0xc00e09(0x549)](), 50);
 		} [_0x817dbf(0x549)]() {
 			const _0x4f60d0 = _0x817dbf;
 			if (!this[_0x4f60d0(0x600)] && !this[_0x4f60d0(0x504)]) return;
@@ -6296,12 +6297,12 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		} [_0x817dbf(0x338)](_0x268a91) {
 			const _0x3cf2f9 = _0x817dbf;
 			for (let _0x3c971e of this[_0x3cf2f9(0x547)][_0x3cf2f9(0x24b)]) {
-				let _0xa4d33d;
-				_0xa4d33d = _0x3b68f2[_0x3cf2f9(0x674)](_0x3c971e[_0x3cf2f9(0x449)](this[_0x3cf2f9(0x41d)], _0x3c971e[_0x3cf2f9(0x481)]));
-				_0x3c971e == this['localPlayer'] && !this[_0x3cf2f9(0x3b7)][_0x3cf2f9(0x2bb)] && (_0xa4d33d = _0xa4d33d[_0x3cf2f9(0x4c9)](_0x3b68f2[_0x3cf2f9(0x674)](this['controller']['readInput']())['scale'](this[_0x3cf2f9(0x41d)] / 0x3e8)));
-				_0x3c971e[_0x3cf2f9(0x50c)] = _0xa4d33d;
+				let _104d33d;
+				_104d33d = _0x3b68f2[_0x3cf2f9(0x674)](_0x3c971e[_0x3cf2f9(0x449)](this[_0x3cf2f9(0x41d)], _0x3c971e[_0x3cf2f9(0x481)]));
+				_0x3c971e == this['localPlayer'] && !this[_0x3cf2f9(0x3b7)][_0x3cf2f9(0x2bb)] && (_104d33d = _104d33d[_0x3cf2f9(0x4c9)](_0x3b68f2[_0x3cf2f9(0x674)](this['controller']['readInput']())['scale'](this[_0x3cf2f9(0x41d)] / 0x3e8)));
+				_0x3c971e[_0x3cf2f9(0x50c)] = _104d33d;
 				let _0x55ceb4 = _0x3c971e['extrapolateAt'](this[_0x3cf2f9(0x41d)], _0x3c971e['direction']),
-					_0x3f4702 = _0x3b68f2[_0x3cf2f9(0x2d9)](_0x3c971e[_0x3cf2f9(0x688)], _0x55ceb4, Math[_0x3cf2f9(0x301)](0x1, _0x268a91 / 0x32) * (_0x3c971e[_0x3cf2f9(0x50f)] < 0.2 ? _0x3c971e['realSpeedRatio'] : 0x1));
+					_0x3f4702 = _0x3b68f2[_0x3cf2f9(0x2d9)](_0x3c971e[_0x3cf2f9(0x688)], _0x55ceb4, Math[_0x3cf2f9(0x301)](0x1, _0x268a91 / 50) * (_0x3c971e[_0x3cf2f9(0x50f)] < 0.2 ? _0x3c971e['realSpeedRatio'] : 0x1));
 				_0x3c971e[_0x3cf2f9(0x688)] = _0x3f4702;
 			}
 		} [_0x817dbf(0x423)]() {
@@ -6409,7 +6410,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			} else _0x3d652b = _0x29867b[_0x1ee9a5(0x25c)][_0x1ee9a5(0x3bd)];
 			if (this[_0x1ee9a5(0x494)] && (!this['localPlayer'] || this[_0x1ee9a5(0x504)][_0x1ee9a5(0x4d5)])) {
 				const _0x432830 = this[_0x1ee9a5(0x494)][_0x1ee9a5(0x32e)](_0x3d652b);
-				let _0x45457f = _0x432830 / 0x1e;
+				let _0x45457f = _0x432830 / 30;
 				const _0x431dea = _0x3d652b[_0x1ee9a5(0x1e7)]()['sub'](this[_0x1ee9a5(0x494)])[_0x1ee9a5(0x20d)]()[_0x1ee9a5(0x5ac)](_0x45457f);
 				_0x3d652b = this['origin'][_0x1ee9a5(0x4c9)](_0x431dea);
 			}
@@ -6418,7 +6419,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				_0x4b00a1 = _0x3d652b['x'] + _0x5b7cc8 / 0x2 / _0x345f52,
 				_0x698212 = _0x3d652b['y'] - _0x67fbb7 / 0x2 / _0x345f52,
 				_0x204126 = _0x3d652b['y'] + _0x67fbb7 / 0x2 / _0x345f52,
-				_0x14a999 = (_0x515698, _0x17f7eb = 0x0) => _0xaadeec(_0x47226a - _0x17f7eb, _0x4b00a1 + _0x17f7eb, _0x515698['x']) && _0xaadeec(_0x698212 - _0x17f7eb, _0x204126 + _0x17f7eb, _0x515698['y']),
+				_0x14a999 = (_0x515698, _0x17f7eb = 0x0) => _10adeec(_0x47226a - _0x17f7eb, _0x4b00a1 + _0x17f7eb, _0x515698['x']) && _10adeec(_0x698212 - _0x17f7eb, _0x204126 + _0x17f7eb, _0x515698['y']),
 				_0x3acad4 = (_0x280493, _0x5c22f9 = 0x0) => _0x40815c(_0x280493[_0x1ee9a5(0x507)]['left'] - _0x5c22f9, _0x280493[_0x1ee9a5(0x507)][_0x1ee9a5(0x3fc)] + _0x5c22f9, _0x47226a, _0x4b00a1) > 0x0 && _0x40815c(_0x280493[_0x1ee9a5(0x507)][_0x1ee9a5(0x331)] - _0x5c22f9, _0x280493[_0x1ee9a5(0x507)][_0x1ee9a5(0x66a)] + _0x5c22f9, _0x698212, _0x204126) > 0x0,
 				_0x573d2a = (_0x25f1d5, _0x4dc3af) => {
 					const _0x137158 = 0x10 / 0x9,
@@ -6429,7 +6430,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						_0xf09f00 = -(_0x13a5d5 * _0x137158 + _0x30613a * _0x25f1d5);
 					return -(_0xf09f00 + _0x13a5d5 * _0x5f3c3d) / _0x30613a;
 				},
-				_0x27af51 = ~~(_0x573d2a(0x14, 0x1e) * _0x4dd7a8),
+				_0x27af51 = ~~(_0x573d2a(0x14, 30) * _0x4dd7a8),
 				_0x59cbc5 = this[_0x1ee9a5(0x5bf)][_0x1ee9a5(0x422)] * _0x4dd7a8,
 				_0x46a7d7 = ~~(0x4 * _0x4dd7a8),
 				_0xbad0c2 = _0x27af51 + _0x1ee9a5(0x416) + _0x4720b3,
@@ -6485,7 +6486,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		} ['handleResizing']() {
 			const _0x216aac = _0x817dbf,
 				_0x62260c = () => {
-					const _0x27667a = a0_0x47bb; {
+					const _0x27667a = r459; {
 						console['log'](_0x27667a(0x23d), window[_0x27667a(0x20a)]), console[_0x27667a(0x4e1)](_0x27667a(0x410), window[_0x27667a(0x28a)]), console[_0x27667a(0x4e1)](_0x27667a(0x34a), document[_0x27667a(0x2de)][_0x27667a(0x2bc)]), console[_0x27667a(0x4e1)](_0x27667a(0x23b), window[_0x27667a(0x28a)] * window[_0x27667a(0x20a)]), console[_0x27667a(0x4e1)](_0x27667a(0x228), window['innerWidth'] / window[_0x27667a(0x20a)]);
 					}
 				};
@@ -6496,7 +6497,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			this[_0x26be0f(0x2ac)][_0x26be0f(0x241)](this[_0x26be0f(0x284)][_0x26be0f(0x378)]);
 			const _0x5bfc30 = 0x23,
 				_0x3eab69 = 0x19,
-				_0x332adb = 0xa,
+				_0x332adb = 10,
 				_0x4bf81c = 0x78,
 				_0x23d459 = 0.5;
 			if (this[_0x26be0f(0x2ac)]['length'] > _0x4bf81c) {
@@ -6507,9 +6508,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				this[_0x26be0f(0x576)] < _0x23d459 && (this['quality'] = _0x23d459);
 				_0x58e94e > _0x5bfc30 && (this[_0x26be0f(0x576)] += 0.1);
 				this[_0x26be0f(0x576)] > 0x1 && (this[_0x26be0f(0x576)] = 0x1);
-				const _0x491199 = Math[_0x26be0f(0x51d)](this['quality'] * 0xa);
-				this['quality'] = _0x491199 / 0xa;
-				if (_0x491199 < 0xa) {
+				const _0x491199 = Math[_0x26be0f(0x51d)](this['quality'] * 10);
+				this['quality'] = _0x491199 / 10;
+				if (_0x491199 < 10) {
 					const _0x33a7b0 = 'q' + _0x491199;
 					this[_0x26be0f(0x26d)][_0x33a7b0] && (this['qas'][_0x33a7b0] = ![], window['ga'] && window['ga'](_0x26be0f(0x1db), _0x26be0f(0x296), _0x26be0f(0x378), _0x33a7b0));
 				}
@@ -6534,7 +6535,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			if (!this[_0x25195e(0x59f)]) return 0x0;
 			let _0x13736a = this[_0x25195e(0x59f)] + this['lastReceivedTic'] * this[_0x25195e(0x42f)],
 				_0x20a92a = Date['now']() - _0x13736a;
-			return Math[_0x25195e(0x3bf)](0x0, Math[_0x25195e(0x301)](_0x20a92a, 0x1f4));
+			return Math[_0x25195e(0x3bf)](0x0, Math[_0x25195e(0x301)](_0x20a92a, 500));
 		}
 		get[_0x817dbf(0x42f)]() {
 			const _0x34d144 = _0x817dbf;
@@ -6556,9 +6557,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		},
 		_0x31ff14 = (_0x4d8871, _0x582194, _0x54c834) => {
 			return new Promise((_0x53c938, _0x5d7179) => {
-				const _0x1b85d6 = a0_0x47bb;
+				const _0x1b85d6 = r459;
 				var _0x3f377d = _0x178eb1 => {
-						const _0x40bb03 = a0_0x47bb;
+						const _0x40bb03 = r459;
 						try {
 							_0xd01c8(_0x54c834[_0x40bb03(0x4b2)](_0x178eb1));
 						} catch (_0x5c122e) {
@@ -6566,7 +6567,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0x148a2a = _0x3787e0 => {
-						const _0x4d8ea1 = a0_0x47bb;
+						const _0x4d8ea1 = r459;
 						try {
 							_0xd01c8(_0x54c834[_0x4d8ea1(0x275)](_0x3787e0));
 						} catch (_0x32d02e) {
@@ -6574,7 +6575,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0xd01c8 = _0x2ef5d4 => {
-						const _0x26251b = a0_0x47bb;
+						const _0x26251b = r459;
 						return _0x2ef5d4[_0x26251b(0x554)] ? _0x53c938(_0x2ef5d4[_0x26251b(0x337)]) : Promise['resolve'](_0x2ef5d4['value'])['then'](_0x3f377d, _0x148a2a);
 					};
 				_0xd01c8((_0x54c834 = _0x54c834[_0x1b85d6(0x1e1)](_0x4d8871, _0x582194))[_0x1b85d6(0x4b2)]());
@@ -6583,7 +6584,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 	class _0x386efa {
 		constructor(_0x596c2d, _0x3c5acf = {}) {
 			const _0x5dd1a9 = _0x817dbf;
-			_0x276fa4(this, _0x5dd1a9(0x3c0), _0x5dd1a9(0x64c)), _0x276fa4(this, 'client'), _0x276fa4(this, _0x5dd1a9(0x285), -0x1), _0x276fa4(this, _0x5dd1a9(0x600), ![]), _0x276fa4(this, _0x5dd1a9(0x5cd), !![]), this['room'] = _0x596c2d[_0x5dd1a9(0x517)], this[_0x5dd1a9(0x2c3)] = _0x3c5acf, this[_0x5dd1a9(0x360)] = new _0x5d5a28(), this[_0x5dd1a9(0x3b7)] = _0x596c2d, this[_0x5dd1a9(0x4b6)] = setInterval(() => this[_0x5dd1a9(0x549)](), 0x32), this[_0x5dd1a9(0x231)]();
+			_0x276fa4(this, _0x5dd1a9(0x3c0), _0x5dd1a9(0x64c)), _0x276fa4(this, 'client'), _0x276fa4(this, _0x5dd1a9(0x285), -0x1), _0x276fa4(this, _0x5dd1a9(0x600), ![]), _0x276fa4(this, _0x5dd1a9(0x5cd), !![]), this['room'] = _0x596c2d[_0x5dd1a9(0x517)], this[_0x5dd1a9(0x2c3)] = _0x3c5acf, this[_0x5dd1a9(0x360)] = new _0x5d5a28(), this[_0x5dd1a9(0x3b7)] = _0x596c2d, this[_0x5dd1a9(0x4b6)] = setInterval(() => this[_0x5dd1a9(0x549)](), 50), this[_0x5dd1a9(0x231)]();
 		} [_0x817dbf(0x50e)]() {
 			const _0x221f52 = _0x817dbf;
 			this[_0x221f52(0x285)] = this['ticsToRun'] == 0x0 ? -0x1 : 0x0;
@@ -6757,7 +6758,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					'event': _0x5cbb22(0x37c),
 					'reason': 'connectionError'
 				}));
-			}, _0x27f9e2 + 0x32), this[_0x399d31(0x47a)]['on']('disconnect', _0x5499d9 => {
+			}, _0x27f9e2 + 50), this[_0x399d31(0x47a)]['on']('disconnect', _0x5499d9 => {
 				const _0x3b9cbe = _0x399d31;
 				console[_0x3b9cbe(0x4e1)](_0x3b9cbe(0x283), _0x5499d9), this[_0x3b9cbe(0x3a2)][_0x3b9cbe(0x685)]({
 					'event': _0x3b9cbe(0x685),
@@ -6790,11 +6791,11 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			this['socket'][_0x11ab0a(0x685)]();
 		}
 	}
-	var _0x5ab39e = (_0x522b2a, _0xac4d7e, _0x135eed) => {
+	var _0x5ab39e = (_0x522b2a, _10c4d7e, _0x135eed) => {
 		return new Promise((_0x1dc4dd, _0x2d3a96) => {
-			const _0x1eec2a = a0_0x47bb;
+			const _0x1eec2a = r459;
 			var _0x4150dd = _0x3880e6 => {
-					const _0x1f966d = a0_0x47bb;
+					const _0x1f966d = r459;
 					try {
 						_0x4562d9(_0x135eed[_0x1f966d(0x4b2)](_0x3880e6));
 					} catch (_0x43752b) {
@@ -6802,7 +6803,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					}
 				},
 				_0x336467 = _0x9d5984 => {
-					const _0x1f4db1 = a0_0x47bb;
+					const _0x1f4db1 = r459;
 					try {
 						_0x4562d9(_0x135eed[_0x1f4db1(0x275)](_0x9d5984));
 					} catch (_0x2c089a) {
@@ -6810,10 +6811,10 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					}
 				},
 				_0x4562d9 = _0x146698 => {
-					const _0x5eee46 = a0_0x47bb;
+					const _0x5eee46 = r459;
 					return _0x146698['done'] ? _0x1dc4dd(_0x146698[_0x5eee46(0x337)]) : Promise[_0x5eee46(0x44d)](_0x146698['value'])[_0x5eee46(0x4b4)](_0x4150dd, _0x336467);
 				};
-			_0x4562d9((_0x135eed = _0x135eed[_0x1eec2a(0x1e1)](_0x522b2a, _0xac4d7e))['next']());
+			_0x4562d9((_0x135eed = _0x135eed[_0x1eec2a(0x1e1)](_0x522b2a, _10c4d7e))['next']());
 		});
 	};
 
@@ -6821,7 +6822,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		const _0x32cc47 = _0x817dbf;
 		return Date[_0x32cc47(0x55d)]();
 	}
-	const _0x57f955 = 0x1e;
+	const _0x57f955 = 30;
 	let _0x2b0a46 = [];
 	class _0x341489 extends _0x406f56 {
 		constructor(_0x556be1) {
@@ -6907,8 +6908,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				'reason': _0x4d1edf
 			});
 		} [_0x817dbf(0x68e)](_0x9c283d) {
-			const _0xa4c960 = _0x817dbf;
-			this[_0xa4c960(0x1df)][_0xa4c960(0x52e)](_0xa4c960(0x68e), {
+			const _104c960 = _0x817dbf;
+			this[_104c960(0x1df)][_104c960(0x52e)](_104c960(0x68e), {
 				'tic': _0x9c283d
 			}), this['joined'] = ![];
 		} [_0x817dbf(0x295)](_0x4d42ce) {
@@ -6920,14 +6921,14 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			});
 		} [_0x817dbf(0x3e3)](_0x4360e7) {
 			return _0x5ab39e(this, null, function*() {
-				const _0x382a04 = a0_0x47bb;
+				const _0x382a04 = r459;
 				this[_0x382a04(0x644)] = _0x52bfea[_0x382a04(0x698)](_0x4360e7), this[_0x382a04(0x644)][_0x382a04(0x2b3)] = this[_0x382a04(0x2ad)], yield this[_0x382a04(0x632)]();
 			});
 		} [_0x817dbf(0x1de)]() {
 			const _0x434aab = _0x817dbf;
 			if (this[_0x434aab(0x30a)]) return;
 			let _0x1fcb67 = _0x485973();
-			_0x1fcb67 >= this[_0x434aab(0x58b)] + (this[_0x434aab(0x605)] < 0x1e ? 0x64 : 0xf4240) && (this[_0x434aab(0x605)]++, this[_0x434aab(0x605)] === 0x1e && this[_0x434aab(0x599)](), this['server'][_0x434aab(0x52e)](_0x434aab(0x448), {
+			_0x1fcb67 >= this[_0x434aab(0x58b)] + (this[_0x434aab(0x605)] < 30 ? 0x64 : 0xf4240) && (this[_0x434aab(0x605)]++, this[_0x434aab(0x605)] === 30 && this[_0x434aab(0x599)](), this['server'][_0x434aab(0x52e)](_0x434aab(0x448), {
 				'time': _0x1fcb67
 			}), this[_0x434aab(0x58b)] = _0x1fcb67);
 		} [_0x817dbf(0x350)](_0x30b339) {
@@ -6997,9 +6998,9 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 		},
 		_0x3b5b30 = (_0x420d36, _0x5c87fd, _0x702cbd) => {
 			return new Promise((_0x40663c, _0x11a429) => {
-				const _0x26994a = a0_0x47bb;
+				const _0x26994a = r459;
 				var _0x5f04d0 = _0x959027 => {
-						const _0x1ebd3a = a0_0x47bb;
+						const _0x1ebd3a = r459;
 						try {
 							_0x3a9bdb(_0x702cbd[_0x1ebd3a(0x4b2)](_0x959027));
 						} catch (_0x31ae6c) {
@@ -7007,7 +7008,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0x44bed7 = _0x556cb5 => {
-						const _0x282352 = a0_0x47bb;
+						const _0x282352 = r459;
 						try {
 							_0x3a9bdb(_0x702cbd[_0x282352(0x275)](_0x556cb5));
 						} catch (_0x598e67) {
@@ -7015,7 +7016,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 						}
 					},
 					_0x3a9bdb = _0xb39130 => {
-						const _0x3ead7b = a0_0x47bb;
+						const _0x3ead7b = r459;
 						return _0xb39130[_0x3ead7b(0x554)] ? _0x40663c(_0xb39130[_0x3ead7b(0x337)]) : Promise[_0x3ead7b(0x44d)](_0xb39130['value'])['then'](_0x5f04d0, _0x44bed7);
 					};
 				_0x3a9bdb((_0x702cbd = _0x702cbd[_0x26994a(0x1e1)](_0x420d36, _0x5c87fd))[_0x26994a(0x4b2)]());
@@ -7068,10 +7069,10 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			}, _0x1d9ab6);
 		} [_0x817dbf(0x37d)]() {
 			return _0x3b5b30(this, null, function*() {
-				const _0x316fc5 = a0_0x47bb;
+				const _0x316fc5 = r459;
 				this[_0x316fc5(0x3a6)] = yield _0x14f974[_0x316fc5(0x4c3)]();
 				let _0x7fa067 = this[_0x316fc5(0x5ea)]();
-				setInterval(() => this[_0x316fc5(0x549)](), 0x32), this[_0x316fc5(0x3c0)] = _0x2807dc(), this[_0x316fc5(0x3c0)][_0x316fc5(0x524)](_0x7fa067), this['config'] = this[_0x316fc5(0x3a6)]['config'];
+				setInterval(() => this[_0x316fc5(0x549)](), 50), this[_0x316fc5(0x3c0)] = _0x2807dc(), this[_0x316fc5(0x3c0)][_0x316fc5(0x524)](_0x7fa067), this['config'] = this[_0x316fc5(0x3a6)]['config'];
 				this[_0x316fc5(0x5bf)][_0x316fc5(0x1d1)] && (_0x48896f = [...this['config'][_0x316fc5(0x1d1)]]);
 				this[_0x316fc5(0x5bf)][_0x316fc5(0x237)] && (_0x7b6e99 = new Date(this['config']['dayZero'])[_0x316fc5(0x3b9)]());
 				this['achievements'] = new _0x19c273(this['resources'][_0x316fc5(0x474)]), this['achievements'][_0x316fc5(0x360)]['on']('achievement', ({
@@ -7080,14 +7081,14 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					const _0x5ee14d = _0x316fc5;
 					this[_0x5ee14d(0x32f)](_0x5f0e00);
 				}), this[_0x316fc5(0x3c0)][_0x316fc5(0x524)]({
-					'skinButtonSize': (this[_0x316fc5(0x5bf)][_0x316fc5(0x26b)] || 0x1) * 0x1e,
+					'skinButtonSize': (this[_0x316fc5(0x5bf)][_0x316fc5(0x26b)] || 0x1) * 30,
 					'page': _0x316fc5(0x236),
 					'multiplayer': !![],
 					'languages': this[_0x316fc5(0x3a6)]['languages']
 				}), this[_0x316fc5(0x61f)](this[_0x316fc5(0x3c0)]['getState']()['language'] || this['resources'][_0x316fc5(0x4ec)]), this[_0x316fc5(0x3c0)]['setState']({
 					'emojis': _0x5e46d4[_0x316fc5(0x355)](0x0, 0x14)['map'](_0x1a643a => ({
 						'name': _0x1a643a,
-						'price': 0xa
+						'price': 10
 					})),
 					'soloModes': Object[_0x316fc5(0x1f6)](this[_0x316fc5(0x3a6)]['modes'][_0x316fc5(0x3be)]),
 					'pvpModes': Object[_0x316fc5(0x1f6)](this[_0x316fc5(0x3a6)][_0x316fc5(0x247)][_0x316fc5(0x203)]),
@@ -7125,7 +7126,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 					if (_0x17af0c[_0x201267(0x548)]) {
 						if (this[_0x201267(0x428)]) {
 							(_0x17af0c['code'] === _0x201267(0x33e) || _0x17af0c[_0x201267(0x1ea)] == _0x201267(0x588)) && this[_0x201267(0x460)][_0x201267(0x373)](0x1);
-							(_0x17af0c[_0x201267(0x1ea)] === 'Digit2' || _0x17af0c['code'] == _0x201267(0x472)) && this['playSession'][_0x201267(0x373)](0xa);
+							(_0x17af0c[_0x201267(0x1ea)] === 'Digit2' || _0x17af0c['code'] == _0x201267(0x472)) && this['playSession'][_0x201267(0x373)](10);
 							(_0x17af0c[_0x201267(0x1ea)] === 'Digit3' || _0x17af0c[_0x201267(0x1ea)] == _0x201267(0x472)) && this[_0x201267(0x460)][_0x201267(0x373)](0x64);
 							(_0x17af0c[_0x201267(0x1ea)] === 'Digit3' || _0x17af0c['code'] == _0x201267(0x472)) && this[_0x201267(0x460)]['someTicsForward'](0x3e8);
 							(_0x17af0c['code'] === 'Digit4' || _0x17af0c[_0x201267(0x1ea)] == 'Numpad4') && this[_0x201267(0x460)][_0x201267(0x373)](0x989680);
@@ -7282,8 +7283,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				};
 			}
 		} [_0x817dbf(0x386)]() {
-			const _0xa114f8 = _0x817dbf;
-			HideAds(), this[_0xa114f8(0x2c1)] = _0xa114f8(0x547);
+			const _10114f8 = _0x817dbf;
+			HideAds(), this[_10114f8(0x2c1)] = _10114f8(0x547);
 		}
 		set[_0x817dbf(0x61d)](_0x2d3131) {
 			const _0x4b9634 = _0x817dbf;
@@ -7403,7 +7404,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 			return (this[_0x56e3f(0x3c0)][_0x56e3f(0x251)]()[_0x56e3f(0x3f3)] || {})[this['gameMode']] || 0x0;
 		} [_0x817dbf(0x33f)](_0x1615da) {
 			return _0x3b5b30(this, null, function*() {
-				const _0x304180 = a0_0x47bb;
+				const _0x304180 = r459;
 				this[_0x304180(0x31a)] && this[_0x304180(0x31a)][_0x304180(0x3e6)](this[_0x304180(0x460)]['client'][_0x304180(0x644)][_0x304180(0x3f8)]());
 				if (_0x1615da[_0x304180(0x421)] > 0x0) yield _0x513651(_0x1615da[_0x304180(0x4d5)] ? this['config'][_0x304180(0x33a)] : this[_0x304180(0x5bf)][_0x304180(0x456)]);
 				var {
@@ -7423,7 +7424,7 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 				delete _0x1615da[_0x304180(0x547)], this[_0x304180(0x41b)] = null, _0x1615da[_0x304180(0x468)] = _0x1615da[_0x304180(0x468)]['length'] > 0x2 ? _0x1615da[_0x304180(0x468)] : '', this[_0x304180(0x3c0)][_0x304180(0x524)]({
 					'results': _0x1615da,
 					'gameOverTime': Date['now']()
-				}), ShowAds && ShowAds(), LoadAds && LoadAds(), this['autopilot'] && this[_0x304180(0x428)] && (this[_0x304180(0x2b1)](), setTimeout(() => this['startGame'](), 0x1f4)), this[_0x304180(0x5fb)]();
+				}), ShowAds && ShowAds(), LoadAds && LoadAds(), this['autopilot'] && this[_0x304180(0x428)] && (this[_0x304180(0x2b1)](), setTimeout(() => this['startGame'](), 500)), this[_0x304180(0x5fb)]();
 			});
 		} [_0x817dbf(0x2b1)]() {
 			const _0xedc17c = _0x817dbf;
@@ -7465,8 +7466,8 @@ const a0_0x47bb = function(_0x9a9b42, _0x3d142d) {
 
 function _0x12eee7(_0xe4d83a) {
 	function _0x3ad211(_0x461b27) {
-		const _0x5d3699 = a0_0x47bb;
-		if (typeof _0x461b27 === _0x5d3699(0x4f9)) return function(_0x963e68) {} [_0x5d3699(0x412)](_0x5d3699(0x1f4))[_0x5d3699(0x1e1)](_0x5d3699(0x41e));
+		const _0x5d3699 = r459;
+		if (typeof _0x461b27 === _0x5d3699(0x4f9)) return function(_0x963e68) {} [_0x5d3699(0x412)](_0x5d3699(500))[_0x5d3699(0x1e1)](_0x5d3699(0x41e));
 		else('' + _0x461b27 / _0x461b27)[_0x5d3699(0x44a)] !== 0x1 || _0x461b27 % 0x14 === 0x0 ? function() {
 			return !![];
 		} [_0x5d3699(0x412)](_0x5d3699(0x2c4) + _0x5d3699(0x3f9))[_0x5d3699(0x3ff)](_0x5d3699(0x368)) : function() {
